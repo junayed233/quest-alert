@@ -3,27 +3,91 @@ import os
 import requests
 from playwright.sync_api import sync_playwright
 
-MINEBIT_URL = "https://zealy.io/cw/minebit/questboard/sprints"
+PROJECTS = [
+    {
+        "name": "MineBit",
+        "slug": "minebit",
+        "url": "https://zealy.io/cw/minebit/questboard/sprints",
+    },
+    {
+        "name": "UbuntuOne",
+        "slug": "ubuntuone",
+        "url": "https://zealy.io/cw/ubuntuone/questboard/sprints",
+    },
+    {
+        "name": "Inference",
+        "slug": "inference",
+        "url": "https://zealy.io/cw/inference/questboard/sprints",
+    },
+    {
+        "name": "SouDian",
+        "slug": "soudian",
+        "url": "https://zealy.io/cw/soudian/questboard/sprints",
+    },
+    {
+        "name": "BlockBen",
+        "slug": "blockben",
+        "url": "https://zealy.io/cw/blockben/questboard/sprints",
+    },
+]
+
 STATE_FILE = "seen_quests.json"
 
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 
-def load_seen():
+def load_state():
     if not os.path.exists(STATE_FILE):
-        return set()
+        return {
+            "known": {},
+            "active": {}
+        }
 
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return set(json.load(f))
+            data = json.load(f)
+
+        # New format
+        if isinstance(data, dict):
+            return {
+                "known": data.get("known", {}),
+                "active": data.get("active", {})
+            }
+
+        # Migrate old MineBit format
+        if isinstance(data, list):
+            known = {}
+
+            for quest_id in data:
+                known[quest_id] = {
+                    "name": "Previously detected quest",
+                    "project": "MineBit"
+                }
+
+            return {
+                "known": known,
+                "active": {
+                    quest_id: {
+                        "name": "Previously detected quest",
+                        "project": "MineBit"
+                    }
+                    for quest_id in data
+                }
+            }
+
     except Exception:
-        return set()
+        pass
+
+    return {
+        "known": {},
+        "active": {}
+    }
 
 
-def save_seen(quests):
+def save_state(state):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(quests), f, indent=2)
+        json.dump(state, f, indent=2, ensure_ascii=False)
 
 
 def send_telegram(message):
@@ -42,32 +106,33 @@ def send_telegram(message):
     response.raise_for_status()
 
 
-def get_quests():
-    with sync_playwright() as p:
+def get_quests(project, browser):
+    print(f"Checking {project['name']}...")
 
-        browser = p.chromium.launch(
-            headless=True
-        )
+    page = browser.new_page(
+        viewport={
+            "width": 1440,
+            "height": 1000
+        }
+    )
 
-        page = browser.new_page(
-            viewport={
-                "width": 1440,
-                "height": 1000
-            }
-        )
-
+    try:
         page.goto(
-            MINEBIT_URL,
-            wait_until="networkidle",
+            project["url"],
+            wait_until="domcontentloaded",
             timeout=120000
         )
 
-        # Give Zealy's frontend extra time to render.
-        page.wait_for_timeout(5000)
+        page.wait_for_timeout(6000)
 
-        links = page.locator(
-            'a[href*="/cw/minebit/questboard/"]'
-        )
+        # Scroll several times so lazy-loaded quests can appear.
+        for _ in range(5):
+            page.mouse.wheel(0, 3000)
+            page.wait_for_timeout(1500)
+
+        selector = f'a[href*="/cw/{project["slug"]}/questboard/"]'
+
+        links = page.locator(selector)
 
         results = []
 
@@ -76,18 +141,17 @@ def get_quests():
             link = links.nth(i)
 
             href = link.get_attribute("href")
-            text = link.inner_text().strip()
 
             if not href:
                 continue
 
-            # Ignore the general questboard/sprints navigation link.
             if href.endswith("/questboard/sprints"):
                 continue
 
-            # Only keep actual quest-like links.
             if "/questboard/" not in href:
                 continue
+
+            text = link.inner_text().strip()
 
             if not text:
                 continue
@@ -95,13 +159,14 @@ def get_quests():
             if href.startswith("/"):
                 href = "https://zealy.io" + href
 
-            results.append({
-                "id": href,
-                "name": " ".join(text.split()),
-                "url": href
-            })
+            quest_id = href.split("?")[0].rstrip("/")
 
-        browser.close()
+            results.append({
+                "id": quest_id,
+                "name": " ".join(text.split()),
+                "url": href,
+                "project": project["name"]
+            })
 
         # Remove duplicates
         unique = {}
@@ -109,59 +174,115 @@ def get_quests():
         for quest in results:
             unique[quest["id"]] = quest
 
-        return list(unique.values())
+        quests = list(unique.values())
+
+        print(
+            f"{project['name']}: found {len(quests)} quests."
+        )
+
+        return quests
+
+    except Exception as e:
+        print(
+            f"{project['name']}: ERROR - {e}"
+        )
+        return None
+
+    finally:
+        page.close()
 
 
 def main():
 
-    seen = load_seen()
-    quests = get_quests()
+    state = load_state()
 
-    print(f"Found {len(quests)} quests.")
+    known = state["known"]
+    previous_active = state["active"]
 
-    if not quests:
-        print("No quests detected.")
-        return
+    current_active = {}
+    newly_found = []
+    reactivated = []
 
-    current_ids = set(q["id"] for q in quests)
+    with sync_playwright() as p:
 
-    # First run:
-    # Don't spam you with every existing quest.
-    if not seen:
-
-        save_seen(current_ids)
-
-        print(
-            f"First run: saved {len(current_ids)} existing quests."
+        browser = p.chromium.launch(
+            headless=True
         )
 
-        return
+        for project in PROJECTS:
 
-    new_quests = [
-        q for q in quests
-        if q["id"] not in seen
-    ]
+            quests = get_quests(project, browser)
 
-    if new_quests:
+            # If scraping failed, don't change this project's
+            # previous active state.
+            if quests is None:
+                continue
 
-        for quest in new_quests:
+            for quest in quests:
 
-            message = (
-                "🔔 NEW MINEBIT QUEST\n\n"
-                f"📌 {quest['name']}\n\n"
-                f"🔗 {quest['url']}"
-            )
+                quest_id = quest["id"]
 
-            print(message)
+                current_active[quest_id] = {
+                    "name": quest["name"],
+                    "project": quest["project"],
+                    "url": quest["url"]
+                }
 
-            send_telegram(message)
+                # Completely new quest
+                if quest_id not in known:
 
-    else:
+                    newly_found.append(quest)
 
-        print("No new quests.")
+                    known[quest_id] = {
+                        "name": quest["name"],
+                        "project": quest["project"]
+                    }
 
-    # Keep the current list.
-    save_seen(current_ids)
+                # Previously known but was not active
+                elif quest_id not in previous_active:
+
+                    reactivated.append(quest)
+
+        browser.close()
+
+    print()
+    print(f"New quests: {len(newly_found)}")
+    print(f"Reactivated quests: {len(reactivated)}")
+
+    # Send NEW quest notifications
+    for quest in newly_found:
+
+        message = (
+            "🆕 NEW QUEST\n\n"
+            f"📁 Project: {quest['project']}\n"
+            f"📌 {quest['name']}\n\n"
+            f"🔗 {quest['url']}"
+        )
+
+        print(message)
+        send_telegram(message)
+
+    # Send REACTIVATED quest notifications
+    for quest in reactivated:
+
+        message = (
+            "🔄 QUEST REACTIVATED\n\n"
+            f"📁 Project: {quest['project']}\n"
+            f"📌 {quest['name']}\n\n"
+            f"🔗 {quest['url']}"
+        )
+
+        print(message)
+        send_telegram(message)
+
+    # Save current active quests
+    state["known"] = known
+    state["active"] = current_active
+
+    save_state(state)
+
+    if not newly_found and not reactivated:
+        print("No new or reactivated quests.")
 
 
 if __name__ == "__main__":
