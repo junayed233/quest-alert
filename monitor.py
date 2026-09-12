@@ -115,7 +115,7 @@ def get_quests():
 def main():
 
     seen = load_seen()
-
+    send_telegram("✅ MineBit monitor is working!")
     quests = get_quests()
 
     print(f"Found {len(quests)} quests.")
