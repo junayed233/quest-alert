@@ -1,14 +1,496 @@
-[
-  "https://zealy.io/cw/minebit/questboard/",
-  "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/227421a4-e4a4-4adf-bda5-e3e9d9df3077",
-  "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/48465396-617d-4dae-88c0-f8b1e16bd11a",
-  "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/8a38c45d-e25a-4448-b23b-aa4fce2cbd93",
-  "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/a5012c72-fdb6-4396-a843-91081ec22f10",
-  "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/e939e457-5810-4eff-a8e0-b08c552b1ace",
-  "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/491495b3-59c4-4211-97e2-586f036f10df",
-  "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/5b089ae9-c9f6-42d2-9714-c2edac6e332e",
-  "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/aea4193d-7f3e-4650-b293-aa4a731f9384",
-  "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/ba6c73da-3b1a-4efe-862a-ce1f9d916869",
-  "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/e2c0ef02-987b-4862-bf95-980cda494af9",
-  "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/f34a7efa-6333-48dc-9461-631f5c15f905"
-]
+{
+  "known": {
+    "https://zealy.io/cw/minebit/questboard/": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/227421a4-e4a4-4adf-bda5-e3e9d9df3077": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/48465396-617d-4dae-88c0-f8b1e16bd11a": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/8a38c45d-e25a-4448-b23b-aa4fce2cbd93": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/a5012c72-fdb6-4396-a843-91081ec22f10": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/e939e457-5810-4eff-a8e0-b08c552b1ace": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/491495b3-59c4-4211-97e2-586f036f10df": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/5b089ae9-c9f6-42d2-9714-c2edac6e332e": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/aea4193d-7f3e-4650-b293-aa4a731f9384": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/ba6c73da-3b1a-4efe-862a-ce1f9d916869": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/e2c0ef02-987b-4862-bf95-980cda494af9": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/f34a7efa-6333-48dc-9461-631f5c15f905": {
+      "name": "Previously detected quest",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard": {
+      "name": "General",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard": {
+      "name": "General",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/80514f1a-9928-44ff-8b63-7e2080b9a186": {
+      "name": "Follow the team +3",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/14ab5cc9-0dac-4345-9d98-b679792418e9": {
+      "name": "Join our community +3",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/36b39c55-69bd-4e76-91f5-95c9245234bf": {
+      "name": "Join our x community",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ebbd1263-c944-4ef4-8f61-d748e2bce72d": {
+      "name": "Like comment retweet 1",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/106af49f-0761-47f0-b31c-982c7e971417": {
+      "name": "Like comment retweet 2",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/99c78b17-c4c7-4d03-ace9-4c6d04101d98": {
+      "name": "Like comment retweet 3",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/1c529f0d-a1d4-4c42-bb6d-8f76be7549bf": {
+      "name": "Like comment reply 4",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/13c2341e-7998-4a1a-9e41-c7cf12a856cf": {
+      "name": "Like comment reply 5",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/0fa079e5-aa6a-4b10-bf1c-59af4a605317": {
+      "name": "Like comment reply 6",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/2f4ddcbc-abf3-47d8-8355-1318cc793cec": {
+      "name": "Set reminder 1 +1",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/587d7683-4f92-4e60-9453-50ad8b132a82": {
+      "name": "Like comment retweet 7",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/930a372d-202d-4529-a38e-3a9f0d43c389": {
+      "name": "Like comment retweet 8",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ac46e973-b5fd-415e-9388-768159f03764": {
+      "name": "Like comment retweet 9",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/220ba98a-f510-490d-80fd-6f3190b74115": {
+      "name": "Telegram 1",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/1d82465c-3f71-4b56-ab6f-f853eec1ffbf": {
+      "name": "Join UBUNTU video chat AMA",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/27562ade-276c-4520-8996-08eb00636735": {
+      "name": "Telegram 2",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/526388c9-dd3d-4136-af35-b0b10261f176": {
+      "name": "Join U.N.L.O.C.K",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/fcd9dc55-e973-40dd-90df-be89196060ec": {
+      "name": "Join U.N.L.O.C.K day 1 video chat",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/d3691f98-d06a-4e75-8f9e-46c24d1e0a1f": {
+      "name": "Join U.N.L.O.C.K day 1 video chat part 2",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/14315653-3ae2-4e33-8694-33d2ba9b9eda": {
+      "name": "DAY 1 TASK — SEE THE PROBLEM",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/22461ef7-89df-4dfa-aa30-5a5360c0f1ad": {
+      "name": "Join U.N.L.O.C.K day 2 video chat",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/f9145202-56fc-46a3-aa28-919ee976f340": {
+      "name": "Join U.N.L.O.C.K day 3 video chat",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/aa1e8b01-ab03-4977-8e08-30dfa02f689d": {
+      "name": "Join U.N.L.O.CK day 4",
+      "project": "UbuntuOne"
+    },
+    "https://zealy.io/cw/inference/questboard": {
+      "name": "General",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/85c40ee6-c24e-4cc8-88e7-f48f87278aad": {
+      "name": "Follow Inference labs & the team behind it! (2) +1",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/8d5d6edd-730c-4b2f-98e2-ffca054a38ea": {
+      "name": "🚀 Spread the Word: Inference Labs Sprint 9 is Live!",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/39abc59f-9742-47f4-b423-853aa4c2ab9a": {
+      "name": "Create a meme! Weekly",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/f32054f1-02a3-4f26-8374-e852c992c0fa": {
+      "name": "Spread the Word: Subnet 2 - The world's fastest zkML proving cluster.",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/8079b53e-a9eb-437c-adc0-898959180e46/e9eddd19-fae5-40a6-9976-47d77e4b0d70": {
+      "name": "Post a Meme on our X Community Monthly",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/8079b53e-a9eb-437c-adc0-898959180e46/85d1663a-b042-4402-9582-13656cc75710": {
+      "name": "Invite 2 Friends Monthly",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/b94e3246-e9e6-4104-bc60-41ca64949509": {
+      "name": "Audit-Ready AI: Share the Power of Verifiable Vision",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/99f392a7-206e-49fe-8cb7-7c971d513737": {
+      "name": "Warehouse & Supply Chain: Why AI Needs Proof",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/57cb4fd5-d7d3-4229-9f61-396ddc42b505": {
+      "name": "Why Computer Vision Needs Real Proof",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/f455de8c-e0b4-4779-9a04-7bd87c64a82b": {
+      "name": "Safe by Design: Verifiable Vision on the Factory Floor",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/788f30b4-0daa-4fc7-a02c-705273bfa93f": {
+      "name": "Enterprise Use Case: Why Industry Needs Sertn",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32": {
+      "name": "Sertn: Verifiable Vision for PPE & Industrial Safety",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/inference/questboard/4b38978f-a607-41e4-bac3-20d819da86d9/1ba0cef8-9b82-48d5-a591-2017a26d0186": {
+      "name": "⭐- Star GitHub Repo — Subnet-2",
+      "project": "Inference"
+    },
+    "https://zealy.io/cw/soudian/questboard": {
+      "name": "General",
+      "project": "SouDian"
+    },
+    "https://zealy.io/cw/soudian/questboard/686f21bb-c4fb-49d5-9243-e11cbf3d58a7/7ea02b4b-a543-4a73-b528-5b52cac53916": {
+      "name": "Quiz: What is SouDian? +3",
+      "project": "SouDian"
+    },
+    "https://zealy.io/cw/blockben/questboard": {
+      "name": "General",
+      "project": "BlockBen"
+    },
+    "https://zealy.io/cw/blockben/questboard/8578c76b-f7db-4630-8433-9852456b34af/4f923ea6-32dd-40cc-a5f1-8db37e874b85": {
+      "name": "📖 Start Here — Read This First +1",
+      "project": "BlockBen"
+    }
+  },
+  "active": {
+    "https://zealy.io/cw/minebit/questboard": {
+      "name": "General",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/491495b3-59c4-4211-97e2-586f036f10df": {
+      "name": "Join MineBit TG | Sprint | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/491495b3-59c4-4211-97e2-586f036f10df"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/f34a7efa-6333-48dc-9461-631f5c15f905": {
+      "name": "Join the MineBit Discord | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/f34a7efa-6333-48dc-9461-631f5c15f905"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/aea4193d-7f3e-4650-b293-aa4a731f9384": {
+      "name": "Follow us on Kick | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/aea4193d-7f3e-4650-b293-aa4a731f9384"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/e2c0ef02-987b-4862-bf95-980cda494af9": {
+      "name": "Join MineBit Chat TG | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/e2c0ef02-987b-4862-bf95-980cda494af9"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/ba6c73da-3b1a-4efe-862a-ce1f9d916869": {
+      "name": "🔔 Turn On X Notifications | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/ba6c73da-3b1a-4efe-862a-ce1f9d916869"
+    },
+    "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/5b089ae9-c9f6-42d2-9714-c2edac6e332e": {
+      "name": "Follow on X | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/9e8caea7-3214-4aa1-91be-38dba3dcad71/5b089ae9-c9f6-42d2-9714-c2edac6e332e"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/227421a4-e4a4-4adf-bda5-e3e9d9df3077": {
+      "name": "X Post -MineBit | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/227421a4-e4a4-4adf-bda5-e3e9d9df3077"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/48465396-617d-4dae-88c0-f8b1e16bd11a": {
+      "name": "Like- Share- RT Zealy_io post | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/48465396-617d-4dae-88c0-f8b1e16bd11a"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/e939e457-5810-4eff-a8e0-b08c552b1ace": {
+      "name": "Like- Share- RT Zealysprints post | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/e939e457-5810-4eff-a8e0-b08c552b1ace"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/a5012c72-fdb6-4396-a843-91081ec22f10": {
+      "name": "Like- Share- RT Zealy_io post | Sprint 2 | 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/a5012c72-fdb6-4396-a843-91081ec22f10"
+    },
+    "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/8a38c45d-e25a-4448-b23b-aa4fce2cbd93": {
+      "name": "Like- Share- RT Zealysprints post | Sprint 2 | 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/8a38c45d-e25a-4448-b23b-aa4fce2cbd93"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard": {
+      "name": "General",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/80514f1a-9928-44ff-8b63-7e2080b9a186": {
+      "name": "Follow the team +3",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/80514f1a-9928-44ff-8b63-7e2080b9a186"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/14ab5cc9-0dac-4345-9d98-b679792418e9": {
+      "name": "Join our community +3",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/14ab5cc9-0dac-4345-9d98-b679792418e9"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/36b39c55-69bd-4e76-91f5-95c9245234bf": {
+      "name": "Join our x community",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/36b39c55-69bd-4e76-91f5-95c9245234bf"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ebbd1263-c944-4ef4-8f61-d748e2bce72d": {
+      "name": "Like comment retweet 1",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ebbd1263-c944-4ef4-8f61-d748e2bce72d"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/106af49f-0761-47f0-b31c-982c7e971417": {
+      "name": "Like comment retweet 2",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/106af49f-0761-47f0-b31c-982c7e971417"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/99c78b17-c4c7-4d03-ace9-4c6d04101d98": {
+      "name": "Like comment retweet 3",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/99c78b17-c4c7-4d03-ace9-4c6d04101d98"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/1c529f0d-a1d4-4c42-bb6d-8f76be7549bf": {
+      "name": "Like comment reply 4",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/1c529f0d-a1d4-4c42-bb6d-8f76be7549bf"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/13c2341e-7998-4a1a-9e41-c7cf12a856cf": {
+      "name": "Like comment reply 5",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/13c2341e-7998-4a1a-9e41-c7cf12a856cf"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/0fa079e5-aa6a-4b10-bf1c-59af4a605317": {
+      "name": "Like comment reply 6",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/0fa079e5-aa6a-4b10-bf1c-59af4a605317"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/2f4ddcbc-abf3-47d8-8355-1318cc793cec": {
+      "name": "Set reminder 1 +1",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/2f4ddcbc-abf3-47d8-8355-1318cc793cec"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/587d7683-4f92-4e60-9453-50ad8b132a82": {
+      "name": "Like comment retweet 7",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/587d7683-4f92-4e60-9453-50ad8b132a82"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/930a372d-202d-4529-a38e-3a9f0d43c389": {
+      "name": "Like comment retweet 8",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/930a372d-202d-4529-a38e-3a9f0d43c389"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ac46e973-b5fd-415e-9388-768159f03764": {
+      "name": "Like comment retweet 9",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ac46e973-b5fd-415e-9388-768159f03764"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/220ba98a-f510-490d-80fd-6f3190b74115": {
+      "name": "Telegram 1",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/220ba98a-f510-490d-80fd-6f3190b74115"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/1d82465c-3f71-4b56-ab6f-f853eec1ffbf": {
+      "name": "Join UBUNTU video chat AMA",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/1d82465c-3f71-4b56-ab6f-f853eec1ffbf"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/27562ade-276c-4520-8996-08eb00636735": {
+      "name": "Telegram 2",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/27562ade-276c-4520-8996-08eb00636735"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/526388c9-dd3d-4136-af35-b0b10261f176": {
+      "name": "Join U.N.L.O.C.K",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/526388c9-dd3d-4136-af35-b0b10261f176"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/fcd9dc55-e973-40dd-90df-be89196060ec": {
+      "name": "Join U.N.L.O.C.K day 1 video chat",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/fcd9dc55-e973-40dd-90df-be89196060ec"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/d3691f98-d06a-4e75-8f9e-46c24d1e0a1f": {
+      "name": "Join U.N.L.O.C.K day 1 video chat part 2",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/d3691f98-d06a-4e75-8f9e-46c24d1e0a1f"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/14315653-3ae2-4e33-8694-33d2ba9b9eda": {
+      "name": "DAY 1 TASK — SEE THE PROBLEM",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/14315653-3ae2-4e33-8694-33d2ba9b9eda"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/22461ef7-89df-4dfa-aa30-5a5360c0f1ad": {
+      "name": "Join U.N.L.O.C.K day 2 video chat",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/22461ef7-89df-4dfa-aa30-5a5360c0f1ad"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/f9145202-56fc-46a3-aa28-919ee976f340": {
+      "name": "Join U.N.L.O.C.K day 3 video chat",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/f9145202-56fc-46a3-aa28-919ee976f340"
+    },
+    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/aa1e8b01-ab03-4977-8e08-30dfa02f689d": {
+      "name": "Join U.N.L.O.CK day 4",
+      "project": "UbuntuOne",
+      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/aa1e8b01-ab03-4977-8e08-30dfa02f689d"
+    },
+    "https://zealy.io/cw/inference/questboard": {
+      "name": "General",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/85c40ee6-c24e-4cc8-88e7-f48f87278aad": {
+      "name": "Follow Inference labs & the team behind it! (2) +1",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/85c40ee6-c24e-4cc8-88e7-f48f87278aad"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/8d5d6edd-730c-4b2f-98e2-ffca054a38ea": {
+      "name": "🚀 Spread the Word: Inference Labs Sprint 9 is Live!",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/8d5d6edd-730c-4b2f-98e2-ffca054a38ea"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/39abc59f-9742-47f4-b423-853aa4c2ab9a": {
+      "name": "Create a meme! Weekly",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/39abc59f-9742-47f4-b423-853aa4c2ab9a"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/f32054f1-02a3-4f26-8374-e852c992c0fa": {
+      "name": "Spread the Word: Subnet 2 - The world's fastest zkML proving cluster.",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/f32054f1-02a3-4f26-8374-e852c992c0fa"
+    },
+    "https://zealy.io/cw/inference/questboard/8079b53e-a9eb-437c-adc0-898959180e46/e9eddd19-fae5-40a6-9976-47d77e4b0d70": {
+      "name": "Post a Meme on our X Community Monthly",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/8079b53e-a9eb-437c-adc0-898959180e46/e9eddd19-fae5-40a6-9976-47d77e4b0d70"
+    },
+    "https://zealy.io/cw/inference/questboard/8079b53e-a9eb-437c-adc0-898959180e46/85d1663a-b042-4402-9582-13656cc75710": {
+      "name": "Invite 2 Friends Monthly",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/8079b53e-a9eb-437c-adc0-898959180e46/85d1663a-b042-4402-9582-13656cc75710"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/b94e3246-e9e6-4104-bc60-41ca64949509": {
+      "name": "Audit-Ready AI: Share the Power of Verifiable Vision",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/b94e3246-e9e6-4104-bc60-41ca64949509"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/99f392a7-206e-49fe-8cb7-7c971d513737": {
+      "name": "Warehouse & Supply Chain: Why AI Needs Proof",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/99f392a7-206e-49fe-8cb7-7c971d513737"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/57cb4fd5-d7d3-4229-9f61-396ddc42b505": {
+      "name": "Why Computer Vision Needs Real Proof",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/57cb4fd5-d7d3-4229-9f61-396ddc42b505"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/f455de8c-e0b4-4779-9a04-7bd87c64a82b": {
+      "name": "Safe by Design: Verifiable Vision on the Factory Floor",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/f455de8c-e0b4-4779-9a04-7bd87c64a82b"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/788f30b4-0daa-4fc7-a02c-705273bfa93f": {
+      "name": "Enterprise Use Case: Why Industry Needs Sertn",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/788f30b4-0daa-4fc7-a02c-705273bfa93f"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32": {
+      "name": "Sertn: Verifiable Vision for PPE & Industrial Safety",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32"
+    },
+    "https://zealy.io/cw/inference/questboard/4b38978f-a607-41e4-bac3-20d819da86d9/1ba0cef8-9b82-48d5-a591-2017a26d0186": {
+      "name": "⭐- Star GitHub Repo — Subnet-2",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/4b38978f-a607-41e4-bac3-20d819da86d9/1ba0cef8-9b82-48d5-a591-2017a26d0186"
+    },
+    "https://zealy.io/cw/soudian/questboard": {
+      "name": "General",
+      "project": "SouDian",
+      "url": "https://zealy.io/cw/soudian/questboard/"
+    },
+    "https://zealy.io/cw/soudian/questboard/686f21bb-c4fb-49d5-9243-e11cbf3d58a7/7ea02b4b-a543-4a73-b528-5b52cac53916": {
+      "name": "Quiz: What is SouDian? +3",
+      "project": "SouDian",
+      "url": "https://zealy.io/cw/soudian/questboard/686f21bb-c4fb-49d5-9243-e11cbf3d58a7/7ea02b4b-a543-4a73-b528-5b52cac53916"
+    },
+    "https://zealy.io/cw/blockben/questboard": {
+      "name": "General",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/"
+    },
+    "https://zealy.io/cw/blockben/questboard/8578c76b-f7db-4630-8433-9852456b34af/4f923ea6-32dd-40cc-a5f1-8db37e874b85": {
+      "name": "📖 Start Here — Read This First +1",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/8578c76b-f7db-4630-8433-9852456b34af/4f923ea6-32dd-40cc-a5f1-8db37e874b85"
+    }
+  }
+}
