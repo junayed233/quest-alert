@@ -223,6 +223,10 @@
     "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/a1ad49fd-7ae3-4a1f-8202-407d3ec75ebf": {
       "name": "X Post -MineBit Sprint | Sprint 2",
       "project": "MineBit"
+    },
+    "https://zealy.io/cw/blockben/questboard/67985ee4-f1bd-477f-a2d2-b2a810ac05bc/7b2bb9ab-690c-4f38-995a-05c31749c65c": {
+      "name": "⚡ Boost the Signal Daily",
+      "project": "BlockBen"
     }
   },
   "active": {
@@ -500,6 +504,11 @@
       "name": "📖 Start Here — Read This First +1",
       "project": "BlockBen",
       "url": "https://zealy.io/cw/blockben/questboard/8578c76b-f7db-4630-8433-9852456b34af/4f923ea6-32dd-40cc-a5f1-8db37e874b85"
+    },
+    "https://zealy.io/cw/blockben/questboard/67985ee4-f1bd-477f-a2d2-b2a810ac05bc/7b2bb9ab-690c-4f38-995a-05c31749c65c": {
+      "name": "⚡ Boost the Signal Daily",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/67985ee4-f1bd-477f-a2d2-b2a810ac05bc/7b2bb9ab-690c-4f38-995a-05c31749c65c"
     }
   }
 }
