@@ -20,15 +20,15 @@ PROJECTS = [
         "url": "https://zealy.io/cw/inference/questboard/sprints",
     },
     {
-        "name": "SouDian",
-        "slug": "soudian",
-        "url": "https://zealy.io/cw/soudian/questboard/sprints",
-    },
-    {
         "name": "BlockBen",
         "slug": "blockben",
         "url": "https://zealy.io/cw/blockben/questboard/sprints",
     },
+    {
+        "name": "CIGR",
+        "slug": "cigr",
+        "url": "https://zealy.io/cw/cigr/questboard/sprints",
+    }
 ]
 
 STATE_FILE = "seen_quests.json"
