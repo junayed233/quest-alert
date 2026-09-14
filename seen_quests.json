@@ -227,6 +227,22 @@
     "https://zealy.io/cw/blockben/questboard/67985ee4-f1bd-477f-a2d2-b2a810ac05bc/7b2bb9ab-690c-4f38-995a-05c31749c65c": {
       "name": "⚡ Boost the Signal Daily",
       "project": "BlockBen"
+    },
+    "https://zealy.io/cw/paydex/questboard": {
+      "name": "Quests",
+      "project": "Paydex"
+    },
+    "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/c01655b4-dc03-4288-89f2-3e564363895c": {
+      "name": "📜 Read first — Sprint rules & rewards",
+      "project": "Paydex"
+    },
+    "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/3a3b80da-d9f5-4857-ae5d-6acc2ce0b95c": {
+      "name": "Q3 · Turn on notifications",
+      "project": "Paydex"
+    },
+    "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/5f3d4160-ee8a-4fda-b334-5ad56b67db17": {
+      "name": "Q2 · Boost the launch thread",
+      "project": "Paydex"
     }
   },
   "active": {
@@ -295,125 +311,25 @@
       "project": "MineBit",
       "url": "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/8a38c45d-e25a-4448-b23b-aa4fce2cbd93"
     },
-    "https://zealy.io/cw/ubuntuone/questboard": {
-      "name": "General",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/"
+    "https://zealy.io/cw/paydex/questboard": {
+      "name": "Quests",
+      "project": "Paydex",
+      "url": "https://zealy.io/cw/paydex/questboard/"
     },
-    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/80514f1a-9928-44ff-8b63-7e2080b9a186": {
-      "name": "Follow the team +3",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/80514f1a-9928-44ff-8b63-7e2080b9a186"
+    "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/c01655b4-dc03-4288-89f2-3e564363895c": {
+      "name": "📜 Read first — Sprint rules & rewards",
+      "project": "Paydex",
+      "url": "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/c01655b4-dc03-4288-89f2-3e564363895c"
     },
-    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/14ab5cc9-0dac-4345-9d98-b679792418e9": {
-      "name": "Join our community +3",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/14ab5cc9-0dac-4345-9d98-b679792418e9"
+    "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/3a3b80da-d9f5-4857-ae5d-6acc2ce0b95c": {
+      "name": "Q3 · Turn on notifications",
+      "project": "Paydex",
+      "url": "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/3a3b80da-d9f5-4857-ae5d-6acc2ce0b95c"
     },
-    "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/36b39c55-69bd-4e76-91f5-95c9245234bf": {
-      "name": "Join our x community",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/46b20bfa-fbf6-4244-b780-ddb90700baea/36b39c55-69bd-4e76-91f5-95c9245234bf"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ebbd1263-c944-4ef4-8f61-d748e2bce72d": {
-      "name": "Like comment retweet 1",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ebbd1263-c944-4ef4-8f61-d748e2bce72d"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/106af49f-0761-47f0-b31c-982c7e971417": {
-      "name": "Like comment retweet 2",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/106af49f-0761-47f0-b31c-982c7e971417"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/99c78b17-c4c7-4d03-ace9-4c6d04101d98": {
-      "name": "Like comment retweet 3",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/99c78b17-c4c7-4d03-ace9-4c6d04101d98"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/1c529f0d-a1d4-4c42-bb6d-8f76be7549bf": {
-      "name": "Like comment reply 4",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/1c529f0d-a1d4-4c42-bb6d-8f76be7549bf"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/13c2341e-7998-4a1a-9e41-c7cf12a856cf": {
-      "name": "Like comment reply 5",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/13c2341e-7998-4a1a-9e41-c7cf12a856cf"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/0fa079e5-aa6a-4b10-bf1c-59af4a605317": {
-      "name": "Like comment reply 6",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/0fa079e5-aa6a-4b10-bf1c-59af4a605317"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/2f4ddcbc-abf3-47d8-8355-1318cc793cec": {
-      "name": "Set reminder 1 +1",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/2f4ddcbc-abf3-47d8-8355-1318cc793cec"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/587d7683-4f92-4e60-9453-50ad8b132a82": {
-      "name": "Like comment retweet 7",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/587d7683-4f92-4e60-9453-50ad8b132a82"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/930a372d-202d-4529-a38e-3a9f0d43c389": {
-      "name": "Like comment retweet 8",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/930a372d-202d-4529-a38e-3a9f0d43c389"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ac46e973-b5fd-415e-9388-768159f03764": {
-      "name": "Like comment retweet 9",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/39fe4ae0-891c-4d79-a413-abe9b785f200/ac46e973-b5fd-415e-9388-768159f03764"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/220ba98a-f510-490d-80fd-6f3190b74115": {
-      "name": "Telegram 1",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/220ba98a-f510-490d-80fd-6f3190b74115"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/1d82465c-3f71-4b56-ab6f-f853eec1ffbf": {
-      "name": "Join UBUNTU video chat AMA",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/1d82465c-3f71-4b56-ab6f-f853eec1ffbf"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/27562ade-276c-4520-8996-08eb00636735": {
-      "name": "Telegram 2",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/8ba27547-756d-437f-a030-964f9d01490d/27562ade-276c-4520-8996-08eb00636735"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/526388c9-dd3d-4136-af35-b0b10261f176": {
-      "name": "Join U.N.L.O.C.K",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/526388c9-dd3d-4136-af35-b0b10261f176"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/fcd9dc55-e973-40dd-90df-be89196060ec": {
-      "name": "Join U.N.L.O.C.K day 1 video chat",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/fcd9dc55-e973-40dd-90df-be89196060ec"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/d3691f98-d06a-4e75-8f9e-46c24d1e0a1f": {
-      "name": "Join U.N.L.O.C.K day 1 video chat part 2",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/d3691f98-d06a-4e75-8f9e-46c24d1e0a1f"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/14315653-3ae2-4e33-8694-33d2ba9b9eda": {
-      "name": "DAY 1 TASK — SEE THE PROBLEM",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/14315653-3ae2-4e33-8694-33d2ba9b9eda"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/22461ef7-89df-4dfa-aa30-5a5360c0f1ad": {
-      "name": "Join U.N.L.O.C.K day 2 video chat",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/22461ef7-89df-4dfa-aa30-5a5360c0f1ad"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/f9145202-56fc-46a3-aa28-919ee976f340": {
-      "name": "Join U.N.L.O.C.K day 3 video chat",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/f9145202-56fc-46a3-aa28-919ee976f340"
-    },
-    "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/aa1e8b01-ab03-4977-8e08-30dfa02f689d": {
-      "name": "Join U.N.L.O.CK day 4",
-      "project": "UbuntuOne",
-      "url": "https://zealy.io/cw/ubuntuone/questboard/b84c6d4c-28ad-4970-91eb-177af6e8dfa6/aa1e8b01-ab03-4977-8e08-30dfa02f689d"
+    "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/5f3d4160-ee8a-4fda-b334-5ad56b67db17": {
+      "name": "Q2 · Boost the launch thread",
+      "project": "Paydex",
+      "url": "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/5f3d4160-ee8a-4fda-b334-5ad56b67db17"
     },
     "https://zealy.io/cw/inference/questboard": {
       "name": "General",
