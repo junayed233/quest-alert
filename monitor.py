@@ -10,9 +10,9 @@ PROJECTS = [
         "url": "https://zealy.io/cw/minebit/questboard/sprints",
     },
     {
-        "name": "UbuntuOne",
-        "slug": "ubuntuone",
-        "url": "https://zealy.io/cw/ubuntuone/questboard/sprints",
+        "name": "Paydex",
+        "slug": "paydex",
+        "url": "https://zealy.io/cw/paydex/questboard",
     },
     {
         "name": "Inference",
