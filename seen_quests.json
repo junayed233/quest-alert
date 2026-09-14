@@ -243,6 +243,18 @@
     "https://zealy.io/cw/paydex/questboard/189ebdf4-24b4-415b-8796-1f734a2a99b3/5f3d4160-ee8a-4fda-b334-5ad56b67db17": {
       "name": "Q2 · Boost the launch thread",
       "project": "Paydex"
+    },
+    "https://zealy.io/cw/cigr/questboard": {
+      "name": "General",
+      "project": "CIGR"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/bcb84cc2-0d6c-4268-9003-6429cf3368f0": {
+      "name": "Engage tweet 1",
+      "project": "CIGR"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1b2594c6-444c-4e44-91bc-862da614d66c": {
+      "name": "Engage tweet 2",
+      "project": "CIGR"
     }
   },
   "active": {
@@ -396,16 +408,6 @@
       "project": "Inference",
       "url": "https://zealy.io/cw/inference/questboard/4b38978f-a607-41e4-bac3-20d819da86d9/1ba0cef8-9b82-48d5-a591-2017a26d0186"
     },
-    "https://zealy.io/cw/soudian/questboard": {
-      "name": "Quests",
-      "project": "SouDian",
-      "url": "https://zealy.io/cw/soudian/questboard/"
-    },
-    "https://zealy.io/cw/soudian/questboard/686f21bb-c4fb-49d5-9243-e11cbf3d58a7/7ea02b4b-a543-4a73-b528-5b52cac53916": {
-      "name": "Quiz: What is SouDian? +3",
-      "project": "SouDian",
-      "url": "https://zealy.io/cw/soudian/questboard/686f21bb-c4fb-49d5-9243-e11cbf3d58a7/7ea02b4b-a543-4a73-b528-5b52cac53916"
-    },
     "https://zealy.io/cw/blockben/questboard": {
       "name": "General",
       "project": "BlockBen",
@@ -420,6 +422,21 @@
       "name": "⚡ Boost the Signal Daily",
       "project": "BlockBen",
       "url": "https://zealy.io/cw/blockben/questboard/67985ee4-f1bd-477f-a2d2-b2a810ac05bc/7b2bb9ab-690c-4f38-995a-05c31749c65c"
+    },
+    "https://zealy.io/cw/cigr/questboard": {
+      "name": "General",
+      "project": "CIGR",
+      "url": "https://zealy.io/cw/cigr/questboard/"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/bcb84cc2-0d6c-4268-9003-6429cf3368f0": {
+      "name": "Engage tweet 1",
+      "project": "CIGR",
+      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/bcb84cc2-0d6c-4268-9003-6429cf3368f0"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1b2594c6-444c-4e44-91bc-862da614d66c": {
+      "name": "Engage tweet 2",
+      "project": "CIGR",
+      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1b2594c6-444c-4e44-91bc-862da614d66c"
     }
   }
 }
