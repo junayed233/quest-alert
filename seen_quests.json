@@ -255,6 +255,10 @@
     "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1b2594c6-444c-4e44-91bc-862da614d66c": {
       "name": "Engage tweet 2",
       "project": "CIGR"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/4cbf51ae-9113-4f36-a112-1b7a85c36a6e": {
+      "name": "Why the World Needs Verifiable Computer Vision",
+      "project": "Inference"
     }
   },
   "active": {
@@ -402,6 +406,11 @@
       "name": "Sertn: Verifiable Vision for PPE & Industrial Safety",
       "project": "Inference",
       "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32"
+    },
+    "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/4cbf51ae-9113-4f36-a112-1b7a85c36a6e": {
+      "name": "Why the World Needs Verifiable Computer Vision",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/4cbf51ae-9113-4f36-a112-1b7a85c36a6e"
     },
     "https://zealy.io/cw/inference/questboard/4b38978f-a607-41e4-bac3-20d819da86d9/1ba0cef8-9b82-48d5-a591-2017a26d0186": {
       "name": "⭐- Star GitHub Repo — Subnet-2",
