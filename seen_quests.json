@@ -259,6 +259,10 @@
     "https://zealy.io/cw/inference/questboard/c37beddb-043d-4770-a9cb-8bcd265ab9e2/4cbf51ae-9113-4f36-a112-1b7a85c36a6e": {
       "name": "Why the World Needs Verifiable Computer Vision",
       "project": "Inference"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b": {
+      "name": "Join CIGR on TG",
+      "project": "CIGR"
     }
   },
   "active": {
@@ -437,15 +441,10 @@
       "project": "CIGR",
       "url": "https://zealy.io/cw/cigr/questboard/"
     },
-    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/bcb84cc2-0d6c-4268-9003-6429cf3368f0": {
-      "name": "Engage tweet 1",
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b": {
+      "name": "Join CIGR on TG",
       "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/bcb84cc2-0d6c-4268-9003-6429cf3368f0"
-    },
-    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1b2594c6-444c-4e44-91bc-862da614d66c": {
-      "name": "Engage tweet 2",
-      "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1b2594c6-444c-4e44-91bc-862da614d66c"
+      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b"
     }
   }
 }
