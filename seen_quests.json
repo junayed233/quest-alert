@@ -263,6 +263,10 @@
     "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b": {
       "name": "Join CIGR on TG",
       "project": "CIGR"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/3aff880a-0c87-44e3-a943-219633945649": {
+      "name": "AI Speed vs. Safety: Why We Need Proof, Not Just Promises",
+      "project": "Inference"
     }
   },
   "active": {
@@ -375,6 +379,11 @@
       "name": "Spread the Word: Subnet 2 - The world's fastest zkML proving cluster.",
       "project": "Inference",
       "url": "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/f32054f1-02a3-4f26-8374-e852c992c0fa"
+    },
+    "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/3aff880a-0c87-44e3-a943-219633945649": {
+      "name": "AI Speed vs. Safety: Why We Need Proof, Not Just Promises",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/3aff880a-0c87-44e3-a943-219633945649"
     },
     "https://zealy.io/cw/inference/questboard/8079b53e-a9eb-437c-adc0-898959180e46/e9eddd19-fae5-40a6-9976-47d77e4b0d70": {
       "name": "Post a Meme on our X Community Monthly",
