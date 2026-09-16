@@ -267,6 +267,10 @@
     "https://zealy.io/cw/inference/questboard/6c11c1c1-008e-4533-8425-772c0a0ec55b/3aff880a-0c87-44e3-a943-219633945649": {
       "name": "AI Speed vs. Safety: Why We Need Proof, Not Just Promises",
       "project": "Inference"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/779baba3-b11b-4b14-90e0-83ccee286b78": {
+      "name": "Engage tweet 3",
+      "project": "CIGR"
     }
   },
   "active": {
@@ -454,6 +458,11 @@
       "name": "Join CIGR on TG",
       "project": "CIGR",
       "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/779baba3-b11b-4b14-90e0-83ccee286b78": {
+      "name": "Engage tweet 3",
+      "project": "CIGR",
+      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/779baba3-b11b-4b14-90e0-83ccee286b78"
     }
   }
 }
