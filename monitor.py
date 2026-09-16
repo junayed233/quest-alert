@@ -28,6 +28,16 @@ PROJECTS = [
         "name": "CIGR",
         "slug": "cigr",
         "url": "https://zealy.io/cw/cigr/questboard/sprints",
+    },
+    {
+        "name": "Quadcode AI Creators",
+        "slug": "quadcodeaicreators",
+        "url": "https://zealy.io/cw/quadcodeaicreators/questboard/sprints",
+    },
+    {
+        "name": "TokenPocket",
+        "slug": "tokenpocket",
+        "url": "https://zealy.io/cw/tokenpocket/questboard/sprints",
     }
 ]
 
