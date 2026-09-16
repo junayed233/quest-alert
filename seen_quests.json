@@ -279,6 +279,14 @@
     "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/c2e924a1-2b42-4f7e-a629-676d333572de": {
       "name": "Engage tweet 5",
       "project": "CIGR"
+    },
+    "https://zealy.io/cw/minebit/questboard/de7412e7-08c1-4020-9ac5-e130b8cefa84/58ab3901-7508-49fa-ace7-d4048ef7e71b": {
+      "name": "Friendship | 5 Friends | Sprint 2",
+      "project": "MineBit"
+    },
+    "https://zealy.io/cw/minebit/questboard/de7412e7-08c1-4020-9ac5-e130b8cefa84/2680278f-e7ca-417a-898a-1ac44f8be539": {
+      "name": "Friendship | 10 Friends | Sprint 2",
+      "project": "MineBit"
     }
   },
   "active": {
@@ -346,6 +354,16 @@
       "name": "Like- Share- RT Zealysprints post | Sprint 2 | 2",
       "project": "MineBit",
       "url": "https://zealy.io/cw/minebit/questboard/027a2826-d9fc-44d2-a428-2bdfc047936d/8a38c45d-e25a-4448-b23b-aa4fce2cbd93"
+    },
+    "https://zealy.io/cw/minebit/questboard/de7412e7-08c1-4020-9ac5-e130b8cefa84/58ab3901-7508-49fa-ace7-d4048ef7e71b": {
+      "name": "Friendship | 5 Friends | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/de7412e7-08c1-4020-9ac5-e130b8cefa84/58ab3901-7508-49fa-ace7-d4048ef7e71b"
+    },
+    "https://zealy.io/cw/minebit/questboard/de7412e7-08c1-4020-9ac5-e130b8cefa84/2680278f-e7ca-417a-898a-1ac44f8be539": {
+      "name": "Friendship | 10 Friends | Sprint 2",
+      "project": "MineBit",
+      "url": "https://zealy.io/cw/minebit/questboard/de7412e7-08c1-4020-9ac5-e130b8cefa84/2680278f-e7ca-417a-898a-1ac44f8be539"
     },
     "https://zealy.io/cw/paydex/questboard": {
       "name": "Quests",
@@ -466,21 +484,6 @@
       "name": "Join CIGR on TG",
       "project": "CIGR",
       "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b"
-    },
-    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/779baba3-b11b-4b14-90e0-83ccee286b78": {
-      "name": "Engage tweet 3",
-      "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/779baba3-b11b-4b14-90e0-83ccee286b78"
-    },
-    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1c3d5a03-90fa-4079-b75e-9405e2d6aa05": {
-      "name": "Engage tweet 4",
-      "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/1c3d5a03-90fa-4079-b75e-9405e2d6aa05"
-    },
-    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/c2e924a1-2b42-4f7e-a629-676d333572de": {
-      "name": "Engage tweet 5",
-      "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/c2e924a1-2b42-4f7e-a629-676d333572de"
     }
   }
 }
