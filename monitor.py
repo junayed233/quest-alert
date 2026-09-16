@@ -136,9 +136,9 @@ def get_quests(project, browser):
         page.wait_for_timeout(6000)
 
         # Scroll several times so lazy-loaded quests can appear.
-        for _ in range(5):
+        for _ in range(12):
             page.mouse.wheel(0, 3000)
-            page.wait_for_timeout(1500)
+            page.wait_for_timeout(2000)
 
         selector = f'a[href*="/cw/{project["slug"]}/questboard/"]'
 
