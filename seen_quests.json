@@ -343,6 +343,10 @@
     "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/d5410931-6bba-4371-aa31-b6b8d2f8f0cd": {
       "name": "Share Your USDD Gas Payment Experience",
       "project": "TokenPocket"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/249dbc16-ea25-46b2-aaae-71679e5f3cdc": {
+      "name": "Follow CIGR on X",
+      "project": "CIGR"
     }
   },
   "active": {
@@ -532,9 +536,14 @@
       "url": "https://zealy.io/cw/blockben/questboard/67985ee4-f1bd-477f-a2d2-b2a810ac05bc/7b2bb9ab-690c-4f38-995a-05c31749c65c"
     },
     "https://zealy.io/cw/cigr/questboard": {
-      "name": "General",
+      "name": "Quests",
       "project": "CIGR",
       "url": "https://zealy.io/cw/cigr/questboard/"
+    },
+    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/249dbc16-ea25-46b2-aaae-71679e5f3cdc": {
+      "name": "Follow CIGR on X",
+      "project": "CIGR",
+      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/249dbc16-ea25-46b2-aaae-71679e5f3cdc"
     },
     "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b": {
       "name": "Join CIGR on TG",
