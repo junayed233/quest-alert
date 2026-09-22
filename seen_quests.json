@@ -399,6 +399,10 @@
     "https://zealy.io/cw/templedigitalgroup/questboard": {
       "name": "General",
       "project": "Temple Digital Group"
+    },
+    "https://zealy.io/cw/inference/questboard/c8ceeb0a-f32e-4a4d-beb8-37cdb68adcf6/964c86d5-9fde-47b3-8b14-1f1348fed7f0": {
+      "name": "Support on X | Like | 2026-09-22",
+      "project": "Inference"
     }
   },
   "active": {
@@ -571,6 +575,11 @@
       "name": "Support on X | Like | 2026-09-21",
       "project": "Inference",
       "url": "https://zealy.io/cw/inference/questboard/c8ceeb0a-f32e-4a4d-beb8-37cdb68adcf6/98295387-8a3d-4ec0-a8fa-8276b78d57b5"
+    },
+    "https://zealy.io/cw/inference/questboard/c8ceeb0a-f32e-4a4d-beb8-37cdb68adcf6/964c86d5-9fde-47b3-8b14-1f1348fed7f0": {
+      "name": "Support on X | Like | 2026-09-22",
+      "project": "Inference",
+      "url": "https://zealy.io/cw/inference/questboard/c8ceeb0a-f32e-4a4d-beb8-37cdb68adcf6/964c86d5-9fde-47b3-8b14-1f1348fed7f0"
     },
     "https://zealy.io/cw/inference/questboard/4b38978f-a607-41e4-bac3-20d819da86d9/1ba0cef8-9b82-48d5-a591-2017a26d0186": {
       "name": "⭐- Star GitHub Repo — Subnet-2",
