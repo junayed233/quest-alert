@@ -351,6 +351,54 @@
     "https://zealy.io/cw/inference/questboard/c8ceeb0a-f32e-4a4d-beb8-37cdb68adcf6/98295387-8a3d-4ec0-a8fa-8276b78d57b5": {
       "name": "Support on X | Like | 2026-09-21",
       "project": "Inference"
+    },
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/b11a5b82-d432-4383-bb74-6e8545977c42": {
+      "name": "💎 Tier I · Hold 2,600 eBSO Weekly",
+      "project": "BlockBen"
+    },
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/a1d8864a-88b7-4cba-ba3d-3de26d9d2976": {
+      "name": "💎 Tier II · Hold 5,200 eBSO Weekly",
+      "project": "BlockBen"
+    },
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/9ad89bb9-ff53-41fb-b50c-49ff3251670a": {
+      "name": "💎 Tier III · Hold 12,900 eBSO Weekly",
+      "project": "BlockBen"
+    },
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/038ae19b-b139-44cc-a916-5d90e233de6a": {
+      "name": "💎 Tier IV · Hold 25,800 eBSO Weekly",
+      "project": "BlockBen"
+    },
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/7f789b46-84c7-4637-ad5c-49bc52164972": {
+      "name": "💎 Tier V · Hold 51,600 eBSO Weekly",
+      "project": "BlockBen"
+    },
+    "https://zealy.io/cw/quadcodeaicreators/questboard/082df18d-87c6-402b-b3ec-0da6b72b2fdc/e6f5b6fb-c2f8-4c1f-a6e0-63b97a33f460": {
+      "name": "Join the Discord",
+      "project": "Quadcode AI Creators"
+    },
+    "https://zealy.io/cw/tonmarket/questboard": {
+      "name": "General",
+      "project": "TonMarket"
+    },
+    "https://zealy.io/cw/truecurrent/questboard": {
+      "name": "General",
+      "project": "TrueCurrent"
+    },
+    "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/9a5272a0-469b-4e7d-aa74-22e18a34a24f": {
+      "name": "Follow us on X/Twitter",
+      "project": "TrueCurrent"
+    },
+    "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/23a9e980-b345-4b96-8f73-8e330039422b": {
+      "name": "Support our latest tweet",
+      "project": "TrueCurrent"
+    },
+    "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/d4f35a8b-0625-482b-a662-f63e3e6d091e": {
+      "name": "Support our Zcash Tweet",
+      "project": "TrueCurrent"
+    },
+    "https://zealy.io/cw/templedigitalgroup/questboard": {
+      "name": "General",
+      "project": "Temple Digital Group"
     }
   },
   "active": {
@@ -544,25 +592,40 @@
       "project": "BlockBen",
       "url": "https://zealy.io/cw/blockben/questboard/67985ee4-f1bd-477f-a2d2-b2a810ac05bc/7b2bb9ab-690c-4f38-995a-05c31749c65c"
     },
-    "https://zealy.io/cw/cigr/questboard": {
-      "name": "Quests",
-      "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/"
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/b11a5b82-d432-4383-bb74-6e8545977c42": {
+      "name": "💎 Tier I · Hold 2,600 eBSO Weekly",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/b11a5b82-d432-4383-bb74-6e8545977c42"
     },
-    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/249dbc16-ea25-46b2-aaae-71679e5f3cdc": {
-      "name": "Follow CIGR on X",
-      "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/249dbc16-ea25-46b2-aaae-71679e5f3cdc"
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/a1d8864a-88b7-4cba-ba3d-3de26d9d2976": {
+      "name": "💎 Tier II · Hold 5,200 eBSO Weekly",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/a1d8864a-88b7-4cba-ba3d-3de26d9d2976"
     },
-    "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b": {
-      "name": "Join CIGR on TG",
-      "project": "CIGR",
-      "url": "https://zealy.io/cw/cigr/questboard/c63b255b-73df-4ee9-8f62-63649629734a/09ded3ce-ac50-4c0e-9f2a-3800a6200d2b"
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/9ad89bb9-ff53-41fb-b50c-49ff3251670a": {
+      "name": "💎 Tier III · Hold 12,900 eBSO Weekly",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/9ad89bb9-ff53-41fb-b50c-49ff3251670a"
+    },
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/038ae19b-b139-44cc-a916-5d90e233de6a": {
+      "name": "💎 Tier IV · Hold 25,800 eBSO Weekly",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/038ae19b-b139-44cc-a916-5d90e233de6a"
+    },
+    "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/7f789b46-84c7-4637-ad5c-49bc52164972": {
+      "name": "💎 Tier V · Hold 51,600 eBSO Weekly",
+      "project": "BlockBen",
+      "url": "https://zealy.io/cw/blockben/questboard/5c9b92d1-1bf1-4609-9847-d19ad97c6033/7f789b46-84c7-4637-ad5c-49bc52164972"
     },
     "https://zealy.io/cw/quadcodeaicreators/questboard": {
       "name": "General",
       "project": "Quadcode AI Creators",
       "url": "https://zealy.io/cw/quadcodeaicreators/questboard/"
+    },
+    "https://zealy.io/cw/quadcodeaicreators/questboard/082df18d-87c6-402b-b3ec-0da6b72b2fdc/e6f5b6fb-c2f8-4c1f-a6e0-63b97a33f460": {
+      "name": "Join the Discord",
+      "project": "Quadcode AI Creators",
+      "url": "https://zealy.io/cw/quadcodeaicreators/questboard/082df18d-87c6-402b-b3ec-0da6b72b2fdc/e6f5b6fb-c2f8-4c1f-a6e0-63b97a33f460"
     },
     "https://zealy.io/cw/quadcodeaicreators/questboard/082df18d-87c6-402b-b3ec-0da6b72b2fdc/bac6f2d9-2d6a-41f7-9a37-ee84ddfef286": {
       "name": "Start Here — Rules & Free Credits",
@@ -584,50 +647,35 @@
       "project": "Quadcode AI Creators",
       "url": "https://zealy.io/cw/quadcodeaicreators/questboard/082df18d-87c6-402b-b3ec-0da6b72b2fdc/0bcc98b0-ed63-4dd2-8927-ef0f340fe8a4"
     },
-    "https://zealy.io/cw/tokenpocket/questboard": {
+    "https://zealy.io/cw/tonmarket/questboard": {
       "name": "General",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/"
+      "project": "TonMarket",
+      "url": "https://zealy.io/cw/tonmarket/questboard/"
     },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/ab4bce6a-ec5c-4236-91f1-9144af2c1ddf": {
-      "name": "Follow USDD, TokenPocket & KeyPal on X +1",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/ab4bce6a-ec5c-4236-91f1-9144af2c1ddf"
+    "https://zealy.io/cw/truecurrent/questboard": {
+      "name": "General",
+      "project": "TrueCurrent",
+      "url": "https://zealy.io/cw/truecurrent/questboard/"
     },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/848223de-49bf-4c6d-bf1b-636729adb3a9": {
-      "name": "Download & Open TokenPocket",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/848223de-49bf-4c6d-bf1b-636729adb3a9"
+    "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/9a5272a0-469b-4e7d-aa74-22e18a34a24f": {
+      "name": "Follow us on X/Twitter",
+      "project": "TrueCurrent",
+      "url": "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/9a5272a0-469b-4e7d-aa74-22e18a34a24f"
     },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/44c09c20-1f5f-47dd-a7b3-7131dc6c5f70": {
-      "name": "Submit Your TRON Reward Address",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/44c09c20-1f5f-47dd-a7b3-7131dc6c5f70"
+    "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/23a9e980-b345-4b96-8f73-8e330039422b": {
+      "name": "Support our latest tweet",
+      "project": "TrueCurrent",
+      "url": "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/23a9e980-b345-4b96-8f73-8e330039422b"
     },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/6bc165a0-ec21-41e1-8121-d872746765b1": {
-      "name": "Explore the USDD Official Website",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/6bc165a0-ec21-41e1-8121-d872746765b1"
+    "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/d4f35a8b-0625-482b-a662-f63e3e6d091e": {
+      "name": "Support our Zcash Tweet",
+      "project": "TrueCurrent",
+      "url": "https://zealy.io/cw/truecurrent/questboard/280503f3-d599-4750-8a6d-c81c1bf8f34e/d4f35a8b-0625-482b-a662-f63e3e6d091e"
     },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/6e88c925-a397-4f3c-9d5b-bf4704259083": {
-      "name": "Pay Gas with USDD on TokenPocket",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/6e88c925-a397-4f3c-9d5b-bf4704259083"
-    },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/cf317749-db56-470e-94fc-9a1204364334": {
-      "name": "Learn About USDD & Complete the Quiz +3",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/cf317749-db56-470e-94fc-9a1204364334"
-    },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/7153c9c6-e454-4073-ab7c-6ee8d283b282": {
-      "name": "Invite 2 Friends to Join",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/7153c9c6-e454-4073-ab7c-6ee8d283b282"
-    },
-    "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/d5410931-6bba-4371-aa31-b6b8d2f8f0cd": {
-      "name": "Share Your USDD Gas Payment Experience",
-      "project": "TokenPocket",
-      "url": "https://zealy.io/cw/tokenpocket/questboard/5bec554d-e2a0-4141-825e-42ec1ab0819a/d5410931-6bba-4371-aa31-b6b8d2f8f0cd"
+    "https://zealy.io/cw/templedigitalgroup/questboard": {
+      "name": "General",
+      "project": "Temple Digital Group",
+      "url": "https://zealy.io/cw/templedigitalgroup/questboard/"
     }
   }
 }
