@@ -2064,14 +2064,14 @@
     "project": "Binance",
     "url": "https://zealy.io/cw/binance/questboard/967e86c5-8b98-4576-a357-743bf5e6b17a"
   },
-  "13a40b7f-bcaf-414f-b5ad-94ef64e1937f": {
-    "name": "Join Aster Discord",
-    "project": "Binance",
-    "url": "https://zealy.io/cw/binance/questboard/13a40b7f-bcaf-414f-b5ad-94ef64e1937f"
-  },
   "7907ee32-9889-49e5-82a3-c8a1bfda50cb": {
     "name": "Join Binance Discord",
     "project": "Binance",
     "url": "https://zealy.io/cw/binance/questboard/7907ee32-9889-49e5-82a3-c8a1bfda50cb"
+  },
+  "13a40b7f-bcaf-414f-b5ad-94ef64e1937f": {
+    "name": "Join Aster Discord",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/13a40b7f-bcaf-414f-b5ad-94ef64e1937f"
   }
 }
