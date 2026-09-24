@@ -1,1 +1,2082 @@
-{}
+{
+  "7231808b-1199-40c1-8b60-8e7da4974c2b": {
+    "name": "03. Tweet",
+    "project": "TonMarket",
+    "url": "https://zealy.io/cw/tonmarket/questboard/7231808b-1199-40c1-8b60-8e7da4974c2b"
+  },
+  "d5958850-ed3a-4107-93d2-60644b9f47ac": {
+    "name": "02: Tweet",
+    "project": "TonMarket",
+    "url": "https://zealy.io/cw/tonmarket/questboard/d5958850-ed3a-4107-93d2-60644b9f47ac"
+  },
+  "73c834b9-e189-457b-b053-89916e0475e7": {
+    "name": "01. Tweet",
+    "project": "TonMarket",
+    "url": "https://zealy.io/cw/tonmarket/questboard/73c834b9-e189-457b-b053-89916e0475e7"
+  },
+  "92c5217b-bd78-4ae9-8718-9b0db3b99190": {
+    "name": "Follow TonMarket on X",
+    "project": "TonMarket",
+    "url": "https://zealy.io/cw/tonmarket/questboard/92c5217b-bd78-4ae9-8718-9b0db3b99190"
+  },
+  "b44df029-60b2-48f5-8f58-c738cf79bd0d": {
+    "name": "Join TonMarket Telegram Channel",
+    "project": "TonMarket",
+    "url": "https://zealy.io/cw/tonmarket/questboard/b44df029-60b2-48f5-8f58-c738cf79bd0d"
+  },
+  "eb359c74-3374-4590-a71d-e797fe8fd19a": {
+    "name": "Use TonMarket Telegram Bot",
+    "project": "TonMarket",
+    "url": "https://zealy.io/cw/tonmarket/questboard/eb359c74-3374-4590-a71d-e797fe8fd19a"
+  },
+  "af906a13-9ebc-4274-885b-24f3a1648700": {
+    "name": "🎬 Animate the Image",
+    "project": "Quadcode AI",
+    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/af906a13-9ebc-4274-885b-24f3a1648700"
+  },
+  "bac6f2d9-2d6a-41f7-9a37-ee84ddfef286": {
+    "name": "Start Here — Rules & Free Credits",
+    "project": "Quadcode AI",
+    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/bac6f2d9-2d6a-41f7-9a37-ee84ddfef286"
+  },
+  "1fb66f7d-bd31-4e8d-91bc-2349d147cbb5": {
+    "name": "🍿Create an Impossible Ad",
+    "project": "Quadcode AI",
+    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/1fb66f7d-bd31-4e8d-91bc-2349d147cbb5"
+  },
+  "e6f5b6fb-c2f8-4c1f-a6e0-63b97a33f460": {
+    "name": "Join the Discord",
+    "project": "Quadcode AI",
+    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/e6f5b6fb-c2f8-4c1f-a6e0-63b97a33f460"
+  },
+  "0bcc98b0-ed63-4dd2-8927-ef0f340fe8a4": {
+    "name": "🌍 One Object, Three Worlds",
+    "project": "Quadcode AI",
+    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/0bcc98b0-ed63-4dd2-8927-ef0f340fe8a4"
+  },
+  "9a5272a0-469b-4e7d-aa74-22e18a34a24f": {
+    "name": "Follow us on X/Twitter",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/9a5272a0-469b-4e7d-aa74-22e18a34a24f"
+  },
+  "821ac857-e1e9-41fc-96b9-683923d0301c": {
+    "name": "Reply to our latest tweet",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/821ac857-e1e9-41fc-96b9-683923d0301c"
+  },
+  "6bb97b74-35ca-4eba-8bf0-3f4ab627712a": {
+    "name": "Support our latest tweet",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/6bb97b74-35ca-4eba-8bf0-3f4ab627712a"
+  },
+  "38d17a6c-4880-4ea2-85c9-89641f73a25f": {
+    "name": "Invite 10 friends",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/38d17a6c-4880-4ea2-85c9-89641f73a25f"
+  },
+  "5d7e6b3d-9027-4274-ac00-28c2d21168d2": {
+    "name": "Invite 1 friend",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/5d7e6b3d-9027-4274-ac00-28c2d21168d2"
+  },
+  "37ca8b2a-687c-4d67-a04a-c05f80481d07": {
+    "name": "Invite 3 friends",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/37ca8b2a-687c-4d67-a04a-c05f80481d07"
+  },
+  "4c0a636b-a36d-4969-ac7e-678aa7a0cc85": {
+    "name": "Invite 2 friends",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/4c0a636b-a36d-4969-ac7e-678aa7a0cc85"
+  },
+  "f935d5fe-24a8-4708-84c4-8798a35068d8": {
+    "name": "Invite 5 friends",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/f935d5fe-24a8-4708-84c4-8798a35068d8"
+  },
+  "895aafbe-77ee-4ec6-be69-904b11715342": {
+    "name": "Q1 · Follow us on X",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/895aafbe-77ee-4ec6-be69-904b11715342"
+  },
+  "5f3d4160-ee8a-4fda-b334-5ad56b67db17": {
+    "name": "Q2 · Boost the launch thread",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/5f3d4160-ee8a-4fda-b334-5ad56b67db17"
+  },
+  "c01655b4-dc03-4288-89f2-3e564363895c": {
+    "name": "📜 Read first — Sprint rules & rewards",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/c01655b4-dc03-4288-89f2-3e564363895c"
+  },
+  "3a3b80da-d9f5-4857-ae5d-6acc2ce0b95c": {
+    "name": "Q3 · Turn on notifications",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/3a3b80da-d9f5-4857-ae5d-6acc2ce0b95c"
+  },
+  "b551457c-b1a7-4c2c-923e-8d55285e56d1": {
+    "name": "Q6 · Bring 2 friends",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/b551457c-b1a7-4c2c-923e-8d55285e56d1"
+  },
+  "cc2ea174-d903-4831-ad34-817208f51e37": {
+    "name": "Q7 · Create something",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/cc2ea174-d903-4831-ad34-817208f51e37"
+  },
+  "fbffbb48-61cc-4b40-9d06-4abb5b3142bd": {
+    "name": "Q4 · Quote-post with your take",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/fbffbb48-61cc-4b40-9d06-4abb5b3142bd"
+  },
+  "fe23710d-95af-4c72-a293-9f1a8b35e7a9": {
+    "name": "Q5 · Post of the week",
+    "project": "Paydex",
+    "url": "https://zealy.io/cw/paydex/questboard/fe23710d-95af-4c72-a293-9f1a8b35e7a9"
+  },
+  "dda638ae-d841-4788-8e09-3f0634f0e787": {
+    "name": "⚙️ Qantrum — The Network Underneath",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/dda638ae-d841-4788-8e09-3f0634f0e787"
+  },
+  "973171ee-6e2d-4848-aea3-f8a77b95adb5": {
+    "name": "🔒 StockLock — What Locking Does",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/973171ee-6e2d-4848-aea3-f8a77b95adb5"
+  },
+  "1b33452b-ca88-48d1-9af9-d5c4cce4412b": {
+    "name": "🧱 BlockBen — The Launchpad",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/1b33452b-ca88-48d1-9af9-d5c4cce4412b"
+  },
+  "499a4f9c-1be0-49e4-afda-ba186401d7c7": {
+    "name": "🔗 eBSO — The Same Token, Two Places",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/499a4f9c-1be0-49e4-afda-ba186401d7c7"
+  },
+  "f821a9da-68d4-4f88-bde8-54922f39315b": {
+    "name": "🟠 BSO — The Centre of Gravity",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/f821a9da-68d4-4f88-bde8-54922f39315b"
+  },
+  "e47c8a72-9723-4b2f-81f9-d94f73639392": {
+    "name": "🧱 See the Launchpad",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/e47c8a72-9723-4b2f-81f9-d94f73639392"
+  },
+  "0b5f8348-fc32-49a8-9b72-e627128b7294": {
+    "name": "💬 Join the Telegram",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/0b5f8348-fc32-49a8-9b72-e627128b7294"
+  },
+  "3de0a51b-5b62-442a-9889-550973bad8b8": {
+    "name": "🟠 Meet the Token",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/3de0a51b-5b62-442a-9889-550973bad8b8"
+  },
+  "40027edc-fae8-4daa-980d-afe6001a2381": {
+    "name": "👋 Follow BlockBen on 𝕏",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/40027edc-fae8-4daa-980d-afe6001a2381"
+  },
+  "b11a5b82-d432-4383-bb74-6e8545977c42": {
+    "name": "💎 Tier I · Hold 2,600 eBSO",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/b11a5b82-d432-4383-bb74-6e8545977c42"
+  },
+  "a1d8864a-88b7-4cba-ba3d-3de26d9d2976": {
+    "name": "💎 Tier II · Hold 5,200 eBSO",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/a1d8864a-88b7-4cba-ba3d-3de26d9d2976"
+  },
+  "7f789b46-84c7-4637-ad5c-49bc52164972": {
+    "name": "💎 Tier V · Hold 51,600 eBSO",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/7f789b46-84c7-4637-ad5c-49bc52164972"
+  },
+  "9ad89bb9-ff53-41fb-b50c-49ff3251670a": {
+    "name": "💎 Tier III · Hold 12,900 eBSO",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/9ad89bb9-ff53-41fb-b50c-49ff3251670a"
+  },
+  "038ae19b-b139-44cc-a916-5d90e233de6a": {
+    "name": "💎 Tier IV · Hold 25,800 eBSO",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/038ae19b-b139-44cc-a916-5d90e233de6a"
+  },
+  "7b2bb9ab-690c-4f38-995a-05c31749c65c": {
+    "name": "⚡ Boost the Signal",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/7b2bb9ab-690c-4f38-995a-05c31749c65c"
+  },
+  "db7ee352-c848-4c7a-80da-3ab3a29409ff": {
+    "name": "👥 Bring Someone to the Block",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/db7ee352-c848-4c7a-80da-3ab3a29409ff"
+  },
+  "4f923ea6-32dd-40cc-a5f1-8db37e874b85": {
+    "name": "📖 Start Here — Read This First",
+    "project": "BlockBen",
+    "url": "https://zealy.io/cw/blockben/questboard/4f923ea6-32dd-40cc-a5f1-8db37e874b85"
+  },
+  "a0b0fba1-c8d0-47b9-957b-8eb2c6667ff2": {
+    "name": "Tweet About Temple",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/a0b0fba1-c8d0-47b9-957b-8eb2c6667ff2"
+  },
+  "5ffc6dfb-daa1-4737-97f3-b6dbb55fbb74": {
+    "name": "Enter Canton PartyID (Loop Wallet)",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/5ffc6dfb-daa1-4737-97f3-b6dbb55fbb74"
+  },
+  "a451fb3b-09da-4d1e-8514-c2ab2c9f7ea7": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/a451fb3b-09da-4d1e-8514-c2ab2c9f7ea7"
+  },
+  "5950cc3f-a07a-412b-ab8c-4227cba61ddd": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/5950cc3f-a07a-412b-ab8c-4227cba61ddd"
+  },
+  "904d0610-9d08-4578-9d39-66e8497af6eb": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/904d0610-9d08-4578-9d39-66e8497af6eb"
+  },
+  "f4f0d838-a227-4249-ab19-ac2267fdf83a": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/f4f0d838-a227-4249-ab19-ac2267fdf83a"
+  },
+  "8e09ba46-0888-427a-8bcc-19e33b83acd8": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/8e09ba46-0888-427a-8bcc-19e33b83acd8"
+  },
+  "2f36d359-e776-4ff1-9f1a-7a6d126a1e04": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/2f36d359-e776-4ff1-9f1a-7a6d126a1e04"
+  },
+  "1549125e-2041-42f8-a0b0-decf35f9a47a": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/1549125e-2041-42f8-a0b0-decf35f9a47a"
+  },
+  "c6be3d2d-c82f-4367-9d62-9f65ea6e9c32": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/c6be3d2d-c82f-4367-9d62-9f65ea6e9c32"
+  },
+  "8dc86679-bcb2-4e7d-a214-36e058409d2b": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/8dc86679-bcb2-4e7d-a214-36e058409d2b"
+  },
+  "eac64eb6-3359-4833-aab0-3d2e1c00f1d5": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/eac64eb6-3359-4833-aab0-3d2e1c00f1d5"
+  },
+  "45877618-9085-409c-a96b-437736342d78": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/45877618-9085-409c-a96b-437736342d78"
+  },
+  "1eb1e35c-8820-477f-91bc-1ef1238c7730": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/1eb1e35c-8820-477f-91bc-1ef1238c7730"
+  },
+  "c22183c0-3983-4280-b957-edf355599ca4": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/c22183c0-3983-4280-b957-edf355599ca4"
+  },
+  "8975877b-65f3-4284-a867-78fabb96b200": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/8975877b-65f3-4284-a867-78fabb96b200"
+  },
+  "406b1824-0f09-4cf6-81cf-42e68a6f4b39": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/406b1824-0f09-4cf6-81cf-42e68a6f4b39"
+  },
+  "fbd19925-a2ab-431b-a952-3e14d8a3d2fb": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/fbd19925-a2ab-431b-a952-3e14d8a3d2fb"
+  },
+  "bce9174e-8ee5-49ca-85fe-bac35e451dbf": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/bce9174e-8ee5-49ca-85fe-bac35e451dbf"
+  },
+  "933fdb40-4603-4a02-ae3c-d8be7ebdcecc": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/933fdb40-4603-4a02-ae3c-d8be7ebdcecc"
+  },
+  "3ec4f561-e2fd-41d1-8ed5-9d91ba6fc1a4": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/3ec4f561-e2fd-41d1-8ed5-9d91ba6fc1a4"
+  },
+  "f67fd4dd-3f0f-499a-a1af-6015b12f62a2": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/f67fd4dd-3f0f-499a-a1af-6015b12f62a2"
+  },
+  "dc201426-757d-4776-baae-b3f7e81f6a3d": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/dc201426-757d-4776-baae-b3f7e81f6a3d"
+  },
+  "dda7601c-7291-4a33-97d3-78608474b772": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/dda7601c-7291-4a33-97d3-78608474b772"
+  },
+  "53d1ac44-3b4d-472c-980e-fc99606f6b90": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/53d1ac44-3b4d-472c-980e-fc99606f6b90"
+  },
+  "ec44ecc8-87c0-4b6a-b0bf-1afb5a7d8654": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/ec44ecc8-87c0-4b6a-b0bf-1afb5a7d8654"
+  },
+  "a33c3a64-7559-463d-8a54-748fb8159168": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/a33c3a64-7559-463d-8a54-748fb8159168"
+  },
+  "e7fe732b-2ae6-4147-9111-175beaf4abc8": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/e7fe732b-2ae6-4147-9111-175beaf4abc8"
+  },
+  "73b18859-9873-47ff-9907-9b439957b41e": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/73b18859-9873-47ff-9907-9b439957b41e"
+  },
+  "065a220a-d5da-4846-ba22-17cd82a28b5b": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/065a220a-d5da-4846-ba22-17cd82a28b5b"
+  },
+  "a2649d3b-4114-4667-9cc6-14b2d2056b81": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/a2649d3b-4114-4667-9cc6-14b2d2056b81"
+  },
+  "923ec799-f072-488c-a545-af880e5ac167": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/923ec799-f072-488c-a545-af880e5ac167"
+  },
+  "17780fc4-4fc4-4f91-af67-23b040dbe41b": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/17780fc4-4fc4-4f91-af67-23b040dbe41b"
+  },
+  "42e6b297-0a99-4093-8593-7f6a5e75b855": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/42e6b297-0a99-4093-8593-7f6a5e75b855"
+  },
+  "f0d1ea8e-7873-493e-960c-0a4c6faeefbc": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/f0d1ea8e-7873-493e-960c-0a4c6faeefbc"
+  },
+  "703a91d3-079b-4ab9-bf91-8d3bcff2f079": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/703a91d3-079b-4ab9-bf91-8d3bcff2f079"
+  },
+  "c59b279f-a178-495b-a7ee-50c298406b4d": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/c59b279f-a178-495b-a7ee-50c298406b4d"
+  },
+  "1589f6cd-8ec8-4936-8cae-6a4a939c0cba": {
+    "name": "Engage with Temple's recent post on X!",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/1589f6cd-8ec8-4936-8cae-6a4a939c0cba"
+  },
+  "006a9060-59b6-45ac-96ac-efa834f50682": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/006a9060-59b6-45ac-96ac-efa834f50682"
+  },
+  "600f01be-06bd-4d50-bbff-6d8a3e9f5daa": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/600f01be-06bd-4d50-bbff-6d8a3e9f5daa"
+  },
+  "9501019d-5360-4fd6-b6fb-c5ea50c35fbc": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/9501019d-5360-4fd6-b6fb-c5ea50c35fbc"
+  },
+  "2bec7eb3-e184-42a7-be25-78516f4c544f": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/2bec7eb3-e184-42a7-be25-78516f4c544f"
+  },
+  "6544028e-ab07-47f9-b356-45422461522d": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/6544028e-ab07-47f9-b356-45422461522d"
+  },
+  "53224e9a-6e3b-4ad6-a439-ce9efd08b8f3": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/53224e9a-6e3b-4ad6-a439-ce9efd08b8f3"
+  },
+  "5e7d3996-d07c-46e9-900c-87deaa6013f2": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/5e7d3996-d07c-46e9-900c-87deaa6013f2"
+  },
+  "7ca17da5-7b57-41ca-98d7-235f76fcaf74": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/7ca17da5-7b57-41ca-98d7-235f76fcaf74"
+  },
+  "25a086df-cf50-4f91-afb6-87ed7fcea55b": {
+    "name": "Follow Temple on X",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/25a086df-cf50-4f91-afb6-87ed7fcea55b"
+  },
+  "4850c9af-a3fb-4414-a505-ba4f1f129c88": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/4850c9af-a3fb-4414-a505-ba4f1f129c88"
+  },
+  "00341128-7080-4ea9-940b-171328940374": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/00341128-7080-4ea9-940b-171328940374"
+  },
+  "11fcda9c-5f7e-41d1-a0b1-b6ecd1a5e395": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/11fcda9c-5f7e-41d1-a0b1-b6ecd1a5e395"
+  },
+  "2355d154-144a-4292-ac83-3c6e50277b4d": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/2355d154-144a-4292-ac83-3c6e50277b4d"
+  },
+  "29011438-0c2a-4529-b2b2-043945ab4d1b": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/29011438-0c2a-4529-b2b2-043945ab4d1b"
+  },
+  "3e5bd487-c344-43c6-b06b-5130a3a254b7": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/3e5bd487-c344-43c6-b06b-5130a3a254b7"
+  },
+  "2ebbc933-a014-4e3d-b7ac-68130185eb47": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/2ebbc933-a014-4e3d-b7ac-68130185eb47"
+  },
+  "080a52e2-a89c-463b-85cd-44d22abb8c11": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/080a52e2-a89c-463b-85cd-44d22abb8c11"
+  },
+  "0c6747cf-5fee-45d2-9c05-f44218c6f811": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/0c6747cf-5fee-45d2-9c05-f44218c6f811"
+  },
+  "c61d0f99-7c22-4443-801f-4b8a87d012c7": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/c61d0f99-7c22-4443-801f-4b8a87d012c7"
+  },
+  "13a3890b-d529-4c4d-adf7-6531f91d823c": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/13a3890b-d529-4c4d-adf7-6531f91d823c"
+  },
+  "2cc24ec0-0d64-4ab1-a934-0c748dcedbe6": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/2cc24ec0-0d64-4ab1-a934-0c748dcedbe6"
+  },
+  "685352de-4074-418e-a397-4967953f71a4": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/685352de-4074-418e-a397-4967953f71a4"
+  },
+  "36e7e3fb-bfa9-4139-8ff7-d8ebf35bf74a": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/36e7e3fb-bfa9-4139-8ff7-d8ebf35bf74a"
+  },
+  "375c5c2d-3ea3-4d43-8600-831e27366276": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/375c5c2d-3ea3-4d43-8600-831e27366276"
+  },
+  "38765c68-e611-4d12-bee7-1de1efb314bc": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/38765c68-e611-4d12-bee7-1de1efb314bc"
+  },
+  "3bce4743-ec24-445a-bbe6-be5c6277089a": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/3bce4743-ec24-445a-bbe6-be5c6277089a"
+  },
+  "7c8d2028-0937-4d3d-8ed5-c3181dc80578": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/7c8d2028-0937-4d3d-8ed5-c3181dc80578"
+  },
+  "66e83118-5bbb-4762-b63e-4487c8e68560": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/66e83118-5bbb-4762-b63e-4487c8e68560"
+  },
+  "706713ee-d9ae-4a90-afaf-14160a2944f3": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/706713ee-d9ae-4a90-afaf-14160a2944f3"
+  },
+  "708600c8-6c6e-4b38-b360-168159c346c5": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/708600c8-6c6e-4b38-b360-168159c346c5"
+  },
+  "8209583a-8b81-46d3-b5f5-c4af944673e0": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/8209583a-8b81-46d3-b5f5-c4af944673e0"
+  },
+  "9657e52c-45d5-4af7-93d5-0ddb01d760a0": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/9657e52c-45d5-4af7-93d5-0ddb01d760a0"
+  },
+  "eebf28c4-6615-4725-a534-06574c1ec098": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/eebf28c4-6615-4725-a534-06574c1ec098"
+  },
+  "a5bc81f3-4014-477c-8f53-d2845cbb90e3": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/a5bc81f3-4014-477c-8f53-d2845cbb90e3"
+  },
+  "c4aeaa75-a17d-4905-85a5-a4e9b45d899a": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/c4aeaa75-a17d-4905-85a5-a4e9b45d899a"
+  },
+  "e64c8b66-7c41-4a53-97a7-eefa6fd12ffd": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/e64c8b66-7c41-4a53-97a7-eefa6fd12ffd"
+  },
+  "f88403bf-12ec-44ce-9576-89b82d2cc127": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/f88403bf-12ec-44ce-9576-89b82d2cc127"
+  },
+  "faad97ed-00b9-47de-9d2a-96ab7db1ca0f": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/faad97ed-00b9-47de-9d2a-96ab7db1ca0f"
+  },
+  "ffe7f8ad-677b-4b4f-b3c4-94ae1263f711": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/ffe7f8ad-677b-4b4f-b3c4-94ae1263f711"
+  },
+  "61ef87e4-c674-48b7-84e7-c68e96bab2f0": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/61ef87e4-c674-48b7-84e7-c68e96bab2f0"
+  },
+  "156a587b-cdc0-4795-ad78-343317aa2eff": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/156a587b-cdc0-4795-ad78-343317aa2eff"
+  },
+  "3f6b76be-b524-48cb-84c0-8c1d77d59e42": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/3f6b76be-b524-48cb-84c0-8c1d77d59e42"
+  },
+  "cfe44381-f060-45a7-a995-7f230ce6a6b8": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/cfe44381-f060-45a7-a995-7f230ce6a6b8"
+  },
+  "0579b209-b425-4536-9dad-5a476a8652f9": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/0579b209-b425-4536-9dad-5a476a8652f9"
+  },
+  "82779653-4bc7-4620-b8f1-afc8df0e26d0": {
+    "name": "Engage with Temple's recent post on X.",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/82779653-4bc7-4620-b8f1-afc8df0e26d0"
+  },
+  "a03a4171-4b59-4847-ba6a-c992091a90ee": {
+    "name": "Invite 1 friend to Temple's Zealy!",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/a03a4171-4b59-4847-ba6a-c992091a90ee"
+  },
+  "88b0f0f0-3210-4525-baf1-428c199073ee": {
+    "name": "Invite 5 friends to Temple's Zealy!",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/88b0f0f0-3210-4525-baf1-428c199073ee"
+  },
+  "54fcab29-d962-454d-b2e0-5fc07c4c0438": {
+    "name": "Invite 3 friends to Temple's Zealy!",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/54fcab29-d962-454d-b2e0-5fc07c4c0438"
+  },
+  "49d75974-9705-48f3-9b00-0fce1a5b7f62": {
+    "name": "Proof of humanity",
+    "project": "Temple Digital",
+    "url": "https://zealy.io/cw/templedigitalgroup/questboard/49d75974-9705-48f3-9b00-0fce1a5b7f62"
+  },
+  "b05b1e37-2ff0-4704-bf80-0780a5989217": {
+    "name": "Share a MineBit Clip on X 🎬 | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/b05b1e37-2ff0-4704-bf80-0780a5989217"
+  },
+  "227421a4-e4a4-4adf-bda5-e3e9d9df3077": {
+    "name": "X Post -MineBit | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/227421a4-e4a4-4adf-bda5-e3e9d9df3077"
+  },
+  "a1ad49fd-7ae3-4a1f-8202-407d3ec75ebf": {
+    "name": "X Post -MineBit Sprint | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/a1ad49fd-7ae3-4a1f-8202-407d3ec75ebf"
+  },
+  "48465396-617d-4dae-88c0-f8b1e16bd11a": {
+    "name": "Like- Share- RT Zealy_io post | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/48465396-617d-4dae-88c0-f8b1e16bd11a"
+  },
+  "e939e457-5810-4eff-a8e0-b08c552b1ace": {
+    "name": "Like- Share- RT Zealysprints post | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/e939e457-5810-4eff-a8e0-b08c552b1ace"
+  },
+  "8d003722-24dd-470b-a43c-e6cf2549f831": {
+    "name": "MineBit Zealy Main post - Raid",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/8d003722-24dd-470b-a43c-e6cf2549f831"
+  },
+  "a5012c72-fdb6-4396-a843-91081ec22f10": {
+    "name": "Like- Share- RT Zealy_io post | Sprint 2 | 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/a5012c72-fdb6-4396-a843-91081ec22f10"
+  },
+  "8a38c45d-e25a-4448-b23b-aa4fce2cbd93": {
+    "name": "Like- Share- RT Zealysprints post | Sprint 2 | 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/8a38c45d-e25a-4448-b23b-aa4fce2cbd93"
+  },
+  "1427d065-e2f7-43c9-a6aa-4ef980953945": {
+    "name": "House Profit 20% MineBit | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/1427d065-e2f7-43c9-a6aa-4ef980953945"
+  },
+  "eeebb2cf-463d-4aa6-9848-78b6be81c1ee": {
+    "name": "$700 POKER FREEROLL | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/eeebb2cf-463d-4aa6-9848-78b6be81c1ee"
+  },
+  "7246bdfc-ecb0-49fc-9ecc-c7dd4ebfd194": {
+    "name": "Big Win - Engage",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/7246bdfc-ecb0-49fc-9ecc-c7dd4ebfd194"
+  },
+  "a8767698-cf6b-42fc-8e50-363beb3712a8": {
+    "name": "Big Win 2nd round - Engage",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/a8767698-cf6b-42fc-8e50-363beb3712a8"
+  },
+  "e2c0ef02-987b-4862-bf95-980cda494af9": {
+    "name": "Join MineBit Chat TG | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/e2c0ef02-987b-4862-bf95-980cda494af9"
+  },
+  "aea4193d-7f3e-4650-b293-aa4a731f9384": {
+    "name": "Follow us on Kick | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/aea4193d-7f3e-4650-b293-aa4a731f9384"
+  },
+  "8289bba5-6ca1-452c-a39e-f104ca98ae2e": {
+    "name": "Follow on Instagram | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/8289bba5-6ca1-452c-a39e-f104ca98ae2e"
+  },
+  "491495b3-59c4-4211-97e2-586f036f10df": {
+    "name": "Join MineBit TG | Sprint | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/491495b3-59c4-4211-97e2-586f036f10df"
+  },
+  "f34a7efa-6333-48dc-9461-631f5c15f905": {
+    "name": "Join the MineBit Discord | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/f34a7efa-6333-48dc-9461-631f5c15f905"
+  },
+  "ab46d8b0-9c52-4798-82f3-a47a36e6d696": {
+    "name": "Subscribe to our YouTube Channel | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/ab46d8b0-9c52-4798-82f3-a47a36e6d696"
+  },
+  "5b089ae9-c9f6-42d2-9714-c2edac6e332e": {
+    "name": "Follow on X | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/5b089ae9-c9f6-42d2-9714-c2edac6e332e"
+  },
+  "ba6c73da-3b1a-4efe-862a-ce1f9d916869": {
+    "name": "🔔 Turn On X Notifications | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/ba6c73da-3b1a-4efe-862a-ce1f9d916869"
+  },
+  "4fdab422-cec6-460b-a60a-9d27ca7305a5": {
+    "name": "Follow on MineBitSports X | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/4fdab422-cec6-460b-a60a-9d27ca7305a5"
+  },
+  "9408edf2-9d42-4837-ac31-381af879b237": {
+    "name": "🔔 Turn On X Notifications | MineBitSports",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/9408edf2-9d42-4837-ac31-381af879b237"
+  },
+  "58ab3901-7508-49fa-ace7-d4048ef7e71b": {
+    "name": "Friendship | 5 Friends | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/58ab3901-7508-49fa-ace7-d4048ef7e71b"
+  },
+  "2680278f-e7ca-417a-898a-1ac44f8be539": {
+    "name": "Friendship | 10 Friends | Sprint 2",
+    "project": "MineBit",
+    "url": "https://zealy.io/cw/minebit/questboard/2680278f-e7ca-417a-898a-1ac44f8be539"
+  },
+  "6c8e7885-d964-4611-b2d5-12b1d1e7e090": {
+    "name": "Support on X | Like | 2026-07-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6c8e7885-d964-4611-b2d5-12b1d1e7e090"
+  },
+  "3aff880a-0c87-44e3-a943-219633945649": {
+    "name": "AI Speed vs. Safety: Why We Need Proof, Not Just Promises",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3aff880a-0c87-44e3-a943-219633945649"
+  },
+  "5cc5b1d4-fdf9-41c7-9037-982e4282907f": {
+    "name": "Support on X | Reply | 2026-07-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5cc5b1d4-fdf9-41c7-9037-982e4282907f"
+  },
+  "978d8cf8-07f2-4e5d-9a3d-191467a02ebb": {
+    "name": "Support on X | Like | 2026-07-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/978d8cf8-07f2-4e5d-9a3d-191467a02ebb"
+  },
+  "40d4722e-9272-47f0-b928-05d6fe816d17": {
+    "name": "Support on X | Like | 2026-07-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/40d4722e-9272-47f0-b928-05d6fe816d17"
+  },
+  "5f00f4c8-0ebf-4786-a943-66a13c7f94b7": {
+    "name": "Support on X | Repost | 2026-07-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5f00f4c8-0ebf-4786-a943-66a13c7f94b7"
+  },
+  "c6f140bd-dcf0-4e96-9207-ab5fac681375": {
+    "name": "Support on X | Reply | 2026-07-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c6f140bd-dcf0-4e96-9207-ab5fac681375"
+  },
+  "ef65c416-2ae8-4336-aba9-4b8bff32d436": {
+    "name": "Support on X | Like | 2026-07-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ef65c416-2ae8-4336-aba9-4b8bff32d436"
+  },
+  "be34e9ca-0e2b-453f-9f61-1a7db3d80275": {
+    "name": "Support on X | Repost | 2026-07-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/be34e9ca-0e2b-453f-9f61-1a7db3d80275"
+  },
+  "ad1d6a05-836b-4818-be92-34c91f331360": {
+    "name": "Support on X | Reply | 2026-07-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ad1d6a05-836b-4818-be92-34c91f331360"
+  },
+  "1a321f66-7a15-444e-b8fd-f0510fe6514d": {
+    "name": "Support on X | Repost | 2026-07-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1a321f66-7a15-444e-b8fd-f0510fe6514d"
+  },
+  "9952ba9c-c8a0-4225-8b37-854254a0ad62": {
+    "name": "Support on X | Reply | 2026-07-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/9952ba9c-c8a0-4225-8b37-854254a0ad62"
+  },
+  "c72f2f3d-9315-4b6d-8ec5-a76d95ddb4cf": {
+    "name": "Support on X | Like | 2026-07-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c72f2f3d-9315-4b6d-8ec5-a76d95ddb4cf"
+  },
+  "4fb08113-b5c1-4f6b-81f2-425859ae9b64": {
+    "name": "Support on X | Repost | 2026-07-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4fb08113-b5c1-4f6b-81f2-425859ae9b64"
+  },
+  "ba152218-2593-41fa-b691-f481652e76ba": {
+    "name": "Support on X | Like | 2026-07-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ba152218-2593-41fa-b691-f481652e76ba"
+  },
+  "86e41276-fd29-4106-8a3f-f5a0869ab151": {
+    "name": "Support on X | Repost | 2026-07-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/86e41276-fd29-4106-8a3f-f5a0869ab151"
+  },
+  "5ad3f216-e728-422b-89eb-a941ba34c466": {
+    "name": "Support on X | Reply | 2026-07-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5ad3f216-e728-422b-89eb-a941ba34c466"
+  },
+  "dc42daa3-5b87-40e1-97d1-30329a1ddc6a": {
+    "name": "Support on X | Repost | 2026-07-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/dc42daa3-5b87-40e1-97d1-30329a1ddc6a"
+  },
+  "07697ee3-fd48-46c2-9399-644d4afe2d56": {
+    "name": "Support on X | Reply | 2026-07-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/07697ee3-fd48-46c2-9399-644d4afe2d56"
+  },
+  "5b3e90ee-2eff-4141-a955-5eea66e09a3f": {
+    "name": "Support on X | Like | 2026-07-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5b3e90ee-2eff-4141-a955-5eea66e09a3f"
+  },
+  "a78eaa3f-d15d-4e05-9f38-d55204fab642": {
+    "name": "Support on X | Like | 2026-07-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a78eaa3f-d15d-4e05-9f38-d55204fab642"
+  },
+  "db7a7d39-9c2d-4590-9979-df12971118ba": {
+    "name": "Support on X | Repost | 2026-07-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/db7a7d39-9c2d-4590-9979-df12971118ba"
+  },
+  "e759e9f1-91ce-40af-b5b0-bfdd00fef514": {
+    "name": "Support on X | Repost | 2026-07-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e759e9f1-91ce-40af-b5b0-bfdd00fef514"
+  },
+  "0a53a148-5bd6-48f9-861e-f3fd7869781d": {
+    "name": "Support on X | Reply | 2026-07-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0a53a148-5bd6-48f9-861e-f3fd7869781d"
+  },
+  "2d7f20e2-f2aa-4d82-b1dc-ffcdb6b4d6c2": {
+    "name": "Support on X | Reply | 2026-07-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2d7f20e2-f2aa-4d82-b1dc-ffcdb6b4d6c2"
+  },
+  "f9cddff8-e5c5-461d-8302-5d469b5d8b53": {
+    "name": "Support on X | Like | 2026-07-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f9cddff8-e5c5-461d-8302-5d469b5d8b53"
+  },
+  "f64680f8-1236-413a-9276-65b5cd8d4d31": {
+    "name": "Support on X | Like | 2026-07-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f64680f8-1236-413a-9276-65b5cd8d4d31"
+  },
+  "5099df62-f635-41ee-974e-750c839369d2": {
+    "name": "Support on X | Repost | 2026-07-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5099df62-f635-41ee-974e-750c839369d2"
+  },
+  "0009a575-e265-4cc8-8086-6ce7713d5277": {
+    "name": "Support on X | Reply | 2026-07-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0009a575-e265-4cc8-8086-6ce7713d5277"
+  },
+  "0b6362e0-6ac6-4a8e-b1e5-20cc259c480a": {
+    "name": "Support on X | Like | 2026-07-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0b6362e0-6ac6-4a8e-b1e5-20cc259c480a"
+  },
+  "84ec2e73-35ca-4c8a-b898-ed97b4ee9283": {
+    "name": "Support on X | Repost | 2026-07-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/84ec2e73-35ca-4c8a-b898-ed97b4ee9283"
+  },
+  "4f9e2175-1ec8-4d2c-aba5-9dbe0e413134": {
+    "name": "Support on X | Reply | 2026-07-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4f9e2175-1ec8-4d2c-aba5-9dbe0e413134"
+  },
+  "b76674ae-2589-49d6-964e-3e55589f66a5": {
+    "name": "Support on X | Repost | 2026-07-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b76674ae-2589-49d6-964e-3e55589f66a5"
+  },
+  "1915e93b-9b8c-43d8-b41a-181ff23423f0": {
+    "name": "Support on X | Like | 2026-07-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1915e93b-9b8c-43d8-b41a-181ff23423f0"
+  },
+  "df96200e-bb11-45e7-95e6-7ca100180793": {
+    "name": "Support on X | Reply | 2026-07-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/df96200e-bb11-45e7-95e6-7ca100180793"
+  },
+  "5bb802b6-7a34-4091-abb8-02e5a70a2c50": {
+    "name": "Support on X | Repost | 2026-07-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5bb802b6-7a34-4091-abb8-02e5a70a2c50"
+  },
+  "0bc666aa-2ef0-49d8-807d-0c31790d6e54": {
+    "name": "Support on X | Reply | 2026-07-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0bc666aa-2ef0-49d8-807d-0c31790d6e54"
+  },
+  "6f1640c9-1a2f-403e-914f-a3d98583d6fc": {
+    "name": "Support on X | Like | 2026-07-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6f1640c9-1a2f-403e-914f-a3d98583d6fc"
+  },
+  "5b969f14-b916-45a7-bf18-79e15042da3f": {
+    "name": "Support on X | Reply | 2026-07-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5b969f14-b916-45a7-bf18-79e15042da3f"
+  },
+  "4badda25-3785-4aae-b504-8869b8379214": {
+    "name": "Support on X | Repost | 2026-07-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4badda25-3785-4aae-b504-8869b8379214"
+  },
+  "abac3966-5795-4a19-a5c9-0f9e9dadf29d": {
+    "name": "Support on X | Like | 2026-07-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/abac3966-5795-4a19-a5c9-0f9e9dadf29d"
+  },
+  "cb5a1bc9-43c4-445d-9679-8abb3b4d7fda": {
+    "name": "Support on X | Reply | 2026-07-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/cb5a1bc9-43c4-445d-9679-8abb3b4d7fda"
+  },
+  "5db93725-89cc-434b-8747-f591a5efca7a": {
+    "name": "Support on X | Repost | 2026-07-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5db93725-89cc-434b-8747-f591a5efca7a"
+  },
+  "763dda7b-3498-4202-9698-21fe3a68833b": {
+    "name": "Support on X | Repost | 2026-07-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/763dda7b-3498-4202-9698-21fe3a68833b"
+  },
+  "45aa0fbb-a70b-4d6a-86e7-7a733ce5c0f2": {
+    "name": "Support on X | Like | 2026-07-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/45aa0fbb-a70b-4d6a-86e7-7a733ce5c0f2"
+  },
+  "77f7a954-28b8-4dc6-a3fd-23abd4a9126d": {
+    "name": "Support on X | Like | 2026-07-23",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/77f7a954-28b8-4dc6-a3fd-23abd4a9126d"
+  },
+  "bf3aaf05-5807-4fde-8cfc-4586915a3c9a": {
+    "name": "Support on X | Reply | 2026-07-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bf3aaf05-5807-4fde-8cfc-4586915a3c9a"
+  },
+  "f22c699e-9ae6-4a78-81bb-fcfd33187276": {
+    "name": "Support on X | Reply | 2026-07-23",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f22c699e-9ae6-4a78-81bb-fcfd33187276"
+  },
+  "43ff2851-1ce1-4127-a9bb-92f0c250c29e": {
+    "name": "Support on X | Repost | 2026-07-23",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/43ff2851-1ce1-4127-a9bb-92f0c250c29e"
+  },
+  "b2012f89-cf12-41c2-a8db-2603eca2cd15": {
+    "name": "Support on X | Like | 2026-07-24",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b2012f89-cf12-41c2-a8db-2603eca2cd15"
+  },
+  "4d34bd65-f83f-4474-a552-6fd83a6e2e95": {
+    "name": "Support on X | Repost | 2026-07-24",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4d34bd65-f83f-4474-a552-6fd83a6e2e95"
+  },
+  "db000097-079d-40dc-aae9-7b82d9122c4f": {
+    "name": "Support on X | Like | 2026-07-25",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/db000097-079d-40dc-aae9-7b82d9122c4f"
+  },
+  "68024808-d981-4f1f-8385-9976888e9b63": {
+    "name": "Support on X | Repost | 2026-07-25",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/68024808-d981-4f1f-8385-9976888e9b63"
+  },
+  "76bfd58d-ba7c-4313-a942-b1aa0862b9de": {
+    "name": "Support on X | Like | 2026-07-27",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/76bfd58d-ba7c-4313-a942-b1aa0862b9de"
+  },
+  "b293625f-8775-4b38-98ff-3fb6e980cb38": {
+    "name": "Support on X | Repost | 2026-07-27",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b293625f-8775-4b38-98ff-3fb6e980cb38"
+  },
+  "ab679422-a25a-4df1-9904-07be87e088fd": {
+    "name": "Spread the Word: Auditable Autonomy in High-Stakes Industries (No Retry)",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ab679422-a25a-4df1-9904-07be87e088fd"
+  },
+  "597995f1-170c-46b2-9e93-b06fc89e7b31": {
+    "name": "Support on X | Like | 2026-07-28",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/597995f1-170c-46b2-9e93-b06fc89e7b31"
+  },
+  "cba2b456-f85e-4ff8-b0f7-78265f142b56": {
+    "name": "Support on X | Like | 2026-07-29",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/cba2b456-f85e-4ff8-b0f7-78265f142b56"
+  },
+  "bba7120a-26f0-4044-8bd4-54603f76f2f6": {
+    "name": "Support on X | Like | 2026-07-30",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bba7120a-26f0-4044-8bd4-54603f76f2f6"
+  },
+  "b60f7652-83ed-474e-9104-b39c83c57a48": {
+    "name": "Support on X | Repost | 2026-07-30",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b60f7652-83ed-474e-9104-b39c83c57a48"
+  },
+  "c3114ef7-2aec-44bb-845d-1c4824a1fc43": {
+    "name": "Support on X | Like | 2026-07-31",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c3114ef7-2aec-44bb-845d-1c4824a1fc43"
+  },
+  "4a72cc32-fafc-45bf-a25f-f0f1eaf3440b": {
+    "name": "Support on X | Repost | 2026-07-31",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4a72cc32-fafc-45bf-a25f-f0f1eaf3440b"
+  },
+  "cb3b1fb0-72fe-40b2-81a9-04280644dbf9": {
+    "name": "Support on X | Reply | 2026-08-01",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/cb3b1fb0-72fe-40b2-81a9-04280644dbf9"
+  },
+  "5222ede5-f03a-48f7-a372-95201927cf37": {
+    "name": "Support on X | Repost | 2026-08-01",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5222ede5-f03a-48f7-a372-95201927cf37"
+  },
+  "c8c6c2c9-5f4a-4d9b-842f-45bca5bc1e3b": {
+    "name": "Support on X | Like | 2026-08-01",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c8c6c2c9-5f4a-4d9b-842f-45bca5bc1e3b"
+  },
+  "8ee7c4e5-80a4-485a-8ced-99f6ed5f600d": {
+    "name": "Support on X | Like | 2026-08-02",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/8ee7c4e5-80a4-485a-8ced-99f6ed5f600d"
+  },
+  "3bc3f7aa-a06b-415f-83d5-463c81c754af": {
+    "name": "Support on X | Reply | 2026-08-02",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3bc3f7aa-a06b-415f-83d5-463c81c754af"
+  },
+  "1cfeadcd-36cc-4936-89e1-056dd06b0771": {
+    "name": "Support on X | Repost | 2026-08-02",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1cfeadcd-36cc-4936-89e1-056dd06b0771"
+  },
+  "a711a240-60c0-4211-85a8-e9efaa22912b": {
+    "name": "Support on X | Like | 2026-08-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a711a240-60c0-4211-85a8-e9efaa22912b"
+  },
+  "b9202f9e-f1d2-49d8-9381-891c27392bfa": {
+    "name": "Support on X | Reply | 2026-08-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b9202f9e-f1d2-49d8-9381-891c27392bfa"
+  },
+  "ee28b13c-664a-4eaa-90ae-8904c0441735": {
+    "name": "Support on X | Repost | 2026-08-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ee28b13c-664a-4eaa-90ae-8904c0441735"
+  },
+  "c19bd4cd-e00f-4b7b-8f53-b5cda55c4a19": {
+    "name": "Support on X | Like | 2026-08-04",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c19bd4cd-e00f-4b7b-8f53-b5cda55c4a19"
+  },
+  "ff024eca-cbd7-4771-997d-cddb7fc3525e": {
+    "name": "Support on X | Reply | 2026-08-04",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ff024eca-cbd7-4771-997d-cddb7fc3525e"
+  },
+  "f3870c7b-2a8d-4dc9-aa0b-1694bf138302": {
+    "name": "Support on X | Repost | 2026-08-04",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f3870c7b-2a8d-4dc9-aa0b-1694bf138302"
+  },
+  "9848282f-d732-4f0d-8925-ca44eb12f1e9": {
+    "name": "Support on X | Repost | 2026-08-05",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/9848282f-d732-4f0d-8925-ca44eb12f1e9"
+  },
+  "b3ce0185-594f-4510-bf06-5ffaa99d1987": {
+    "name": "Support on X | Like | 2026-08-05",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b3ce0185-594f-4510-bf06-5ffaa99d1987"
+  },
+  "a0a6f93c-2d14-4905-92d9-c52680795dec": {
+    "name": "Support on X | Reply | 2026-08-05",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a0a6f93c-2d14-4905-92d9-c52680795dec"
+  },
+  "da889bc4-6a66-482f-95a2-742cb5350347": {
+    "name": "Support on X | Like | 2026-08-06",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/da889bc4-6a66-482f-95a2-742cb5350347"
+  },
+  "f9605779-9a12-4e8d-9be5-313f1f0464a9": {
+    "name": "Support on X | Reply | 2026-08-06",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f9605779-9a12-4e8d-9be5-313f1f0464a9"
+  },
+  "d4c2abcf-7208-472d-bbe3-354d863ba967": {
+    "name": "Support on X | Repost | 2026-08-06",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/d4c2abcf-7208-472d-bbe3-354d863ba967"
+  },
+  "8b86dc06-a1ac-467a-b0bc-12d023f3e0da": {
+    "name": "Support on X | Like | 2026-08-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/8b86dc06-a1ac-467a-b0bc-12d023f3e0da"
+  },
+  "8ad1ced6-ff9c-41b5-a890-578f63817060": {
+    "name": "Support on X | Reply | 2026-08-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/8ad1ced6-ff9c-41b5-a890-578f63817060"
+  },
+  "581428bb-438c-4e0b-9359-72cb8126cbe2": {
+    "name": "Support on X | Repost | 2026-08-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/581428bb-438c-4e0b-9359-72cb8126cbe2"
+  },
+  "95027367-4594-4699-9bf2-bae040c40675": {
+    "name": "Support on X | Like | 2026-08-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/95027367-4594-4699-9bf2-bae040c40675"
+  },
+  "7b915277-87e1-4ac4-bd31-31adf00ff785": {
+    "name": "Enterprise Vision AI: Black-Box Failures vs. Sertn Proofs 💼",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7b915277-87e1-4ac4-bd31-31adf00ff785"
+  },
+  "b764eede-9527-4d99-8944-c7767925d831": {
+    "name": "Proof of Conversation (Discord)",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b764eede-9527-4d99-8944-c7767925d831"
+  },
+  "0e3190ad-b6df-4de3-aa7a-db8560858076": {
+    "name": "🚀 Invite Your Friends (1)",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0e3190ad-b6df-4de3-aa7a-db8560858076"
+  },
+  "efd40053-a52a-41c9-9c7a-739afda20b76": {
+    "name": "🚀 Invite Your Friends (2)",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/efd40053-a52a-41c9-9c7a-739afda20b76"
+  },
+  "216791e0-da64-4d72-9137-33b9a1391627": {
+    "name": "Join Hitchbot’s Guide",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/216791e0-da64-4d72-9137-33b9a1391627"
+  },
+  "aa614894-6be9-437c-8550-c1d9049e914d": {
+    "name": "🔔 YouTube: Subscribe & Turn On Bell Icon",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/aa614894-6be9-437c-8550-c1d9049e914d"
+  },
+  "98584d3f-9256-4609-bbf2-87d9c214bc7e": {
+    "name": "Support on X | Repost | 2026-08-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/98584d3f-9256-4609-bbf2-87d9c214bc7e"
+  },
+  "72b76164-6511-424b-a30a-d071c1c3ec0c": {
+    "name": "Support on X | Reply | 2026-08-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/72b76164-6511-424b-a30a-d071c1c3ec0c"
+  },
+  "85d1663a-b042-4402-9582-13656cc75710": {
+    "name": "Invite 2 Friends",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/85d1663a-b042-4402-9582-13656cc75710"
+  },
+  "cfeab1b5-ff25-4209-9797-78da7e8d6404": {
+    "name": "Represent the Community: Add Our Server Tag!",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/cfeab1b5-ff25-4209-9797-78da7e8d6404"
+  },
+  "666e834c-b079-40ff-96dc-04f09e5578de": {
+    "name": "Support on X | Like | 2026-08-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/666e834c-b079-40ff-96dc-04f09e5578de"
+  },
+  "f6441dc7-18a6-4f87-9a47-875fe9c3a530": {
+    "name": "Support on X | Reply | 2026-08-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f6441dc7-18a6-4f87-9a47-875fe9c3a530"
+  },
+  "042d005c-2bab-424f-9cd9-4683cb817ad7": {
+    "name": "Support on X | Repost | 2026-08-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/042d005c-2bab-424f-9cd9-4683cb817ad7"
+  },
+  "e69d5a8b-ac52-4573-b61b-e50c9ab2b37f": {
+    "name": "Support on X | Like | 2026-08-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e69d5a8b-ac52-4573-b61b-e50c9ab2b37f"
+  },
+  "c744479c-0e72-49f5-9295-89e3e8b783e0": {
+    "name": "Support on X | Reply | 2026-08-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c744479c-0e72-49f5-9295-89e3e8b783e0"
+  },
+  "06b2a66f-bf8c-4cdf-a25c-3c2797314f99": {
+    "name": "Support on X | Repost | 2026-08-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/06b2a66f-bf8c-4cdf-a25c-3c2797314f99"
+  },
+  "00a435a0-f642-4c08-a8c0-b4de8403b4c5": {
+    "name": "Support on X | Like | 2026-08-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/00a435a0-f642-4c08-a8c0-b4de8403b4c5"
+  },
+  "6fd37e56-658c-401a-864c-2c8b068a8373": {
+    "name": "Support on X | Reply | 2026-08-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6fd37e56-658c-401a-864c-2c8b068a8373"
+  },
+  "9a2ea418-3253-47b1-adc1-8d1077ebb97e": {
+    "name": "Support on X | Repost | 2026-08-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/9a2ea418-3253-47b1-adc1-8d1077ebb97e"
+  },
+  "11d734e7-96f0-4ad2-b858-c99209afbc89": {
+    "name": "Support on X | Reply | 2026-08-16",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/11d734e7-96f0-4ad2-b858-c99209afbc89"
+  },
+  "1196db44-6db7-4922-8e57-14fe3457df3a": {
+    "name": "Support on X | Like | 2026-08-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1196db44-6db7-4922-8e57-14fe3457df3a"
+  },
+  "58384058-787b-42e0-b992-61c0e4739d5c": {
+    "name": "Support on X | Repost | 2026-08-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/58384058-787b-42e0-b992-61c0e4739d5c"
+  },
+  "c8b3fd99-8cde-4d99-ab9f-8d526b4a3154": {
+    "name": "Support on X | Reply | 2026-08-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c8b3fd99-8cde-4d99-ab9f-8d526b4a3154"
+  },
+  "946f9e76-ff3b-4a8e-978f-11816b2b1fe5": {
+    "name": "Support on X | Repost | 2026-08-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/946f9e76-ff3b-4a8e-978f-11816b2b1fe5"
+  },
+  "31527108-e52d-4a80-8a9e-21e46c0bb722": {
+    "name": "Support on X | Like | 2026-08-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/31527108-e52d-4a80-8a9e-21e46c0bb722"
+  },
+  "30ef729c-3a0b-44a7-a8de-4b70032ae5a0": {
+    "name": "Support on X | Reply | 2026-08-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/30ef729c-3a0b-44a7-a8de-4b70032ae5a0"
+  },
+  "e0b5005b-57de-4547-8665-af83d7cfd603": {
+    "name": "Support on X | Like | 2026-08-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e0b5005b-57de-4547-8665-af83d7cfd603"
+  },
+  "83a474d3-62b1-4472-a209-b871b3d2c828": {
+    "name": "Support on X | Reply | 2026-08-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/83a474d3-62b1-4472-a209-b871b3d2c828"
+  },
+  "3beba6a3-8ae9-4bcd-b0d6-ec676b1406ff": {
+    "name": "Support on X | Repost | 2026-08-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3beba6a3-8ae9-4bcd-b0d6-ec676b1406ff"
+  },
+  "c76558ca-7c5f-45e7-9f73-6673d2ea7104": {
+    "name": "Support on X | Like | 2026-08-16",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c76558ca-7c5f-45e7-9f73-6673d2ea7104"
+  },
+  "bd8c57b7-bd3f-4d51-9c4d-ea7f6a4bbcc1": {
+    "name": "Support on X | Like | 2026-08-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bd8c57b7-bd3f-4d51-9c4d-ea7f6a4bbcc1"
+  },
+  "1aca7a77-12f9-489e-8832-ba4eba6e3bf8": {
+    "name": "Support on X | Reply | 2026-08-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1aca7a77-12f9-489e-8832-ba4eba6e3bf8"
+  },
+  "2a951489-2cf7-469f-8080-d7cf51c4e840": {
+    "name": "Support on X | Repost | 2026-08-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2a951489-2cf7-469f-8080-d7cf51c4e840"
+  },
+  "2d17cdac-7740-4eb3-86c2-4cfca70f8265": {
+    "name": "Support on X | Repost | 2026-08-16",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2d17cdac-7740-4eb3-86c2-4cfca70f8265"
+  },
+  "e2b3cc03-64d2-49f8-9451-4caf6c40f635": {
+    "name": "Support on X | Repost | 2026-08-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e2b3cc03-64d2-49f8-9451-4caf6c40f635"
+  },
+  "b50344d0-2037-4e2e-b11a-7dda35febc40": {
+    "name": "Support on X | Repost | 2026-08-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b50344d0-2037-4e2e-b11a-7dda35febc40"
+  },
+  "8b41433a-88c1-44d7-aac8-a20b282c3789": {
+    "name": "Support on X | Like | 2026-08-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/8b41433a-88c1-44d7-aac8-a20b282c3789"
+  },
+  "14d72e27-c7a3-4fea-82ff-c087ee11c7b8": {
+    "name": "Support on X | Reply | 2026-08-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/14d72e27-c7a3-4fea-82ff-c087ee11c7b8"
+  },
+  "1ba0cef8-9b82-48d5-a591-2017a26d0186": {
+    "name": "⭐- Star GitHub Repo — Subnet-2",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1ba0cef8-9b82-48d5-a591-2017a26d0186"
+  },
+  "132e6b80-ac10-468c-afaf-6fd99568be32": {
+    "name": "⭐- Star GitHub Repo — jstprove",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/132e6b80-ac10-468c-afaf-6fd99568be32"
+  },
+  "909242ae-ec44-488a-abd9-418eb63b15aa": {
+    "name": "⭐- Star GitHub Repo — Inference Network",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/909242ae-ec44-488a-abd9-418eb63b15aa"
+  },
+  "c8588a8c-d18b-4386-9fc2-4f127b71d13a": {
+    "name": "⭐- Star GitHub Repo — zkml-blueprints",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c8588a8c-d18b-4386-9fc2-4f127b71d13a"
+  },
+  "2b2e2116-58fb-4eab-b67b-aeaa3650808c": {
+    "name": "⭐- Star GitHub Repo — dsperse",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2b2e2116-58fb-4eab-b67b-aeaa3650808c"
+  },
+  "04caa68d-29ff-4769-bf57-61505ac2a084": {
+    "name": "⭐- Star GitHub Repo — n-ary_notebooks",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/04caa68d-29ff-4769-bf57-61505ac2a084"
+  },
+  "a07baf48-1251-44b5-ba78-24d6f3251381": {
+    "name": "Engage on our X community",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a07baf48-1251-44b5-ba78-24d6f3251381"
+  },
+  "6a40ea47-f2c8-4489-a0b6-3fb724a97b92": {
+    "name": "Share a Thought in the X Community",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6a40ea47-f2c8-4489-a0b6-3fb724a97b92"
+  },
+  "e9eddd19-fae5-40a6-9976-47d77e4b0d70": {
+    "name": "Post a Meme on our X Community",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e9eddd19-fae5-40a6-9976-47d77e4b0d70"
+  },
+  "7ee47b13-c4e7-4c62-9a95-209a413e7514": {
+    "name": "🌐 Join the Inference Labs Discord Server",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7ee47b13-c4e7-4c62-9a95-209a413e7514"
+  },
+  "bc1a6e06-4fcd-4728-a4e7-49543d839c96": {
+    "name": "Read terms and conditions of the campaign",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bc1a6e06-4fcd-4728-a4e7-49543d839c96"
+  },
+  "f8b36c16-eebd-44f0-b809-40a6336c1c70": {
+    "name": "Support on X | Like | 2026-08-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f8b36c16-eebd-44f0-b809-40a6336c1c70"
+  },
+  "fc234b3c-b0b8-4df9-bb56-e1e8ec64e336": {
+    "name": "Support on X | Reply | 2026-08-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/fc234b3c-b0b8-4df9-bb56-e1e8ec64e336"
+  },
+  "6efdbe19-017b-46d2-9e55-b7b45d79be7c": {
+    "name": "Follow Inference labs & the team behind it!",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6efdbe19-017b-46d2-9e55-b7b45d79be7c"
+  },
+  "8d5d6edd-730c-4b2f-98e2-ffca054a38ea": {
+    "name": "🚀 Spread the Word: Inference Labs Sprint 9 is Live!",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/8d5d6edd-730c-4b2f-98e2-ffca054a38ea"
+  },
+  "cda4096a-24db-40a4-99bb-887d98a57256": {
+    "name": "Support on X | Like | 2026-08-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/cda4096a-24db-40a4-99bb-887d98a57256"
+  },
+  "3753f16a-c452-401f-bed9-8c51f9d26c97": {
+    "name": "Support on X | Reply | 2026-08-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3753f16a-c452-401f-bed9-8c51f9d26c97"
+  },
+  "0dcae0d3-46b6-446c-8198-0638222bae9d": {
+    "name": "Support on X | Repost | 2026-08-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0dcae0d3-46b6-446c-8198-0638222bae9d"
+  },
+  "54932b84-1613-4201-8afb-7d10fa38204a": {
+    "name": "Spread the Word: Sertn — Verifiable Vision AI with Proof of Inference!",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/54932b84-1613-4201-8afb-7d10fa38204a"
+  },
+  "3716c598-101e-42e2-99d3-aa337d0e470e": {
+    "name": "Support on X | Reply | 2026-08-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3716c598-101e-42e2-99d3-aa337d0e470e"
+  },
+  "b0ac99c1-23e3-479f-b37e-977223bac52f": {
+    "name": "Support on X | Repost | 2026-08-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b0ac99c1-23e3-479f-b37e-977223bac52f"
+  },
+  "4b31d540-3f1e-423d-bb05-f4df706842fd": {
+    "name": "Support on X | Like | 2026-08-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4b31d540-3f1e-423d-bb05-f4df706842fd"
+  },
+  "e56e5715-0759-4b1c-b94e-78986419af41": {
+    "name": "Support on X | Like | 2026-08-23",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e56e5715-0759-4b1c-b94e-78986419af41"
+  },
+  "f32054f1-02a3-4f26-8374-e852c992c0fa": {
+    "name": "Spread the Word: Subnet 2 - The world's fastest zkML proving cluster.",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f32054f1-02a3-4f26-8374-e852c992c0fa"
+  },
+  "2fba31f8-129d-426d-bb23-ff4086248b06": {
+    "name": "Support on X | Repost | 2026-08-25",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2fba31f8-129d-426d-bb23-ff4086248b06"
+  },
+  "3f833d50-c64c-4053-b5f5-d4aca48bbd01": {
+    "name": "Support on X | Reply | 2026-08-25",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3f833d50-c64c-4053-b5f5-d4aca48bbd01"
+  },
+  "3972d4fd-d67d-4735-b1b8-183f119672e0": {
+    "name": "Support on X | Like | 2026-08-26",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3972d4fd-d67d-4735-b1b8-183f119672e0"
+  },
+  "863dc96f-d640-46fc-9a45-538c8be5d0a5": {
+    "name": "Support on X | Like | 2026-08-26",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/863dc96f-d640-46fc-9a45-538c8be5d0a5"
+  },
+  "9475783e-1df8-497d-a3b4-80ea41444c6d": {
+    "name": "Support on X | Repost | 2026-08-26",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/9475783e-1df8-497d-a3b4-80ea41444c6d"
+  },
+  "4d9158aa-5154-4d6c-bc76-48e2df1c0c05": {
+    "name": "Support on X | Repost | 2026-08-26",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4d9158aa-5154-4d6c-bc76-48e2df1c0c05"
+  },
+  "eff08256-e2c4-4364-9962-ca0b96e17867": {
+    "name": "Support on X | Repost | 2026-08-27",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/eff08256-e2c4-4364-9962-ca0b96e17867"
+  },
+  "d8cc059e-85f7-4be1-aec0-5134e1b1d882": {
+    "name": "Support on X | Like | 2026-08-28",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/d8cc059e-85f7-4be1-aec0-5134e1b1d882"
+  },
+  "261ad32e-caaa-4442-8179-fb8da3f7ae25": {
+    "name": "Support on X | Like | 2026-08-29",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/261ad32e-caaa-4442-8179-fb8da3f7ae25"
+  },
+  "ef9b2bce-826d-43e3-9c57-e7dc1e5ce13f": {
+    "name": "Support on X | Like | 2026-08-30",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ef9b2bce-826d-43e3-9c57-e7dc1e5ce13f"
+  },
+  "0100ebe4-afe5-4b52-bd9e-6198951ccabb": {
+    "name": "Support on X | Repost | 2026-08-30",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0100ebe4-afe5-4b52-bd9e-6198951ccabb"
+  },
+  "b94e3246-e9e6-4104-bc60-41ca64949509": {
+    "name": "Audit-Ready AI: Share the Power of Verifiable Vision",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b94e3246-e9e6-4104-bc60-41ca64949509"
+  },
+  "39abc59f-9742-47f4-b423-853aa4c2ab9a": {
+    "name": "Create a meme!",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/39abc59f-9742-47f4-b423-853aa4c2ab9a"
+  },
+  "cd2a01e4-9c7e-494b-8236-49930b3b5b6b": {
+    "name": "Support on X | Like | 2026-08-31",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/cd2a01e4-9c7e-494b-8236-49930b3b5b6b"
+  },
+  "d88e79eb-cb33-4caf-b362-78ffe3b59e65": {
+    "name": "Support on X | Repost | 2026-08-31",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/d88e79eb-cb33-4caf-b362-78ffe3b59e65"
+  },
+  "99f392a7-206e-49fe-8cb7-7c971d513737": {
+    "name": "Warehouse & Supply Chain: Why AI Needs Proof",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/99f392a7-206e-49fe-8cb7-7c971d513737"
+  },
+  "056f2dd8-7f7d-40da-bb4a-a09887a2994e": {
+    "name": "Support on X | Reply | 2026-09-01",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/056f2dd8-7f7d-40da-bb4a-a09887a2994e"
+  },
+  "2a9a3d65-bab4-47d1-8704-406db8665b97": {
+    "name": "Support on X | Repost | 2026-09-01",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2a9a3d65-bab4-47d1-8704-406db8665b97"
+  },
+  "57cb4fd5-d7d3-4229-9f61-396ddc42b505": {
+    "name": "Why Computer Vision Needs Real Proof",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/57cb4fd5-d7d3-4229-9f61-396ddc42b505"
+  },
+  "35b54de5-add0-48e2-88a2-a9c5a17561bf": {
+    "name": "Support on X | Repost | 2026-09-02",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/35b54de5-add0-48e2-88a2-a9c5a17561bf"
+  },
+  "0a05bda5-21b8-44a0-9d05-655c6f55036d": {
+    "name": "Support on X | Like | 2026-09-02",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0a05bda5-21b8-44a0-9d05-655c6f55036d"
+  },
+  "788f30b4-0daa-4fc7-a02c-705273bfa93f": {
+    "name": "Enterprise Use Case: Why Industry Needs Sertn",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/788f30b4-0daa-4fc7-a02c-705273bfa93f"
+  },
+  "ee8ae056-65b3-450d-804e-424965ee8805": {
+    "name": "Support on X | Like | 2026-09-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ee8ae056-65b3-450d-804e-424965ee8805"
+  },
+  "f455de8c-e0b4-4779-9a04-7bd87c64a82b": {
+    "name": "Safe by Design: Verifiable Vision on the Factory Floor",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f455de8c-e0b4-4779-9a04-7bd87c64a82b"
+  },
+  "796cc7b3-27d8-4bcd-9c67-be0cc5cfbf70": {
+    "name": "Support on X | Repost | 2026-09-04",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/796cc7b3-27d8-4bcd-9c67-be0cc5cfbf70"
+  },
+  "5cc98bd3-a4a3-4465-ae52-a20715d0232b": {
+    "name": "Support on X | Like | 2026-09-04",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5cc98bd3-a4a3-4465-ae52-a20715d0232b"
+  },
+  "2288e7bf-69a8-4468-862d-46fed8130bbe": {
+    "name": "Watch & Explore: Sertn Walkthrough",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2288e7bf-69a8-4468-862d-46fed8130bbe"
+  },
+  "a2dfc3ff-af61-4fcc-98e2-b7f3ebac6c9c": {
+    "name": "Support on X | Repost | 2026-09-05",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a2dfc3ff-af61-4fcc-98e2-b7f3ebac6c9c"
+  },
+  "e70be4f6-019e-48fa-8794-ee3f8704b980": {
+    "name": "Support on X | Like | 2026-09-05",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e70be4f6-019e-48fa-8794-ee3f8704b980"
+  },
+  "1fea78ad-6479-4b64-8724-b1f73dfc8d3c": {
+    "name": "Support on X | Reply | 2026-09-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1fea78ad-6479-4b64-8724-b1f73dfc8d3c"
+  },
+  "19bc0284-034e-4a5c-b89a-3302905257eb": {
+    "name": "Support on X | Reply | 2026-09-02",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/19bc0284-034e-4a5c-b89a-3302905257eb"
+  },
+  "ccbd60ce-82d7-40f6-8446-2f1a69a9a912": {
+    "name": "Support on X | Reply | 2026-09-06",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ccbd60ce-82d7-40f6-8446-2f1a69a9a912"
+  },
+  "1071c05c-1cf6-419a-a33d-a9c12da1c9b1": {
+    "name": "Support on X | Like | 2026-09-06",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1071c05c-1cf6-419a-a33d-a9c12da1c9b1"
+  },
+  "77a9daa5-9db2-4e36-93ff-233536b8d629": {
+    "name": "📢 Join the Inference Labs Telegram Community",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/77a9daa5-9db2-4e36-93ff-233536b8d629"
+  },
+  "85c40ee6-c24e-4cc8-88e7-f48f87278aad": {
+    "name": "Follow Inference labs & the team behind it! (2)",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/85c40ee6-c24e-4cc8-88e7-f48f87278aad"
+  },
+  "21ddeb9d-dfab-4b1e-8696-2de9e82f1167": {
+    "name": "Support on X | Repost | 2026-09-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/21ddeb9d-dfab-4b1e-8696-2de9e82f1167"
+  },
+  "a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32": {
+    "name": "Sertn: Verifiable Vision for PPE & Industrial Safety",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32"
+  },
+  "69c4b92b-e60a-43d5-b654-469ead25bdf6": {
+    "name": "Support on X | Repost | 2026-09-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/69c4b92b-e60a-43d5-b654-469ead25bdf6"
+  },
+  "8faab2fa-c183-41d4-acfa-26c69eedb877": {
+    "name": "Support on X | Reply | 2026-09-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/8faab2fa-c183-41d4-acfa-26c69eedb877"
+  },
+  "bb66230e-9759-44c1-b014-0d7b7e2a20bb": {
+    "name": "Support on X | Like | 2026-09-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bb66230e-9759-44c1-b014-0d7b7e2a20bb"
+  },
+  "31614f38-ef53-4b89-8198-ccab55731412": {
+    "name": "Support on X | Repost | 2026-09-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/31614f38-ef53-4b89-8198-ccab55731412"
+  },
+  "94c24fe9-891d-47c1-916d-ea0e82ba96e4": {
+    "name": "Support on X | Reply | 2026-09-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/94c24fe9-891d-47c1-916d-ea0e82ba96e4"
+  },
+  "f4434c29-2aa4-484c-8c9a-624236896982": {
+    "name": "Support on X | Like | 2026-09-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f4434c29-2aa4-484c-8c9a-624236896982"
+  },
+  "da7a1771-ff30-4a70-b086-d090824ed5f7": {
+    "name": "Support on X | Repost | 2026-09-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/da7a1771-ff30-4a70-b086-d090824ed5f7"
+  },
+  "94085a25-aec1-438b-8d33-18a1fdca22da": {
+    "name": "Support on X | Like | 2026-09-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/94085a25-aec1-438b-8d33-18a1fdca22da"
+  },
+  "7a7fe3b8-1631-4407-8b1e-3ac4be0ae188": {
+    "name": "Support on X | Repost | 2026-09-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7a7fe3b8-1631-4407-8b1e-3ac4be0ae188"
+  },
+  "4cbf51ae-9113-4f36-a112-1b7a85c36a6e": {
+    "name": "Why the World Needs Verifiable Computer Vision",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4cbf51ae-9113-4f36-a112-1b7a85c36a6e"
+  },
+  "bb779746-86cb-4b56-9f72-d5a06b2e1a47": {
+    "name": "Support on X | Like | 2026-09-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bb779746-86cb-4b56-9f72-d5a06b2e1a47"
+  },
+  "a7d7a0a1-18ee-4958-9502-588ab3713d15": {
+    "name": "Support on X | Reply | 2026-09-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a7d7a0a1-18ee-4958-9502-588ab3713d15"
+  },
+  "3008a431-31e8-4d68-84a0-848cf63639ad": {
+    "name": "Support on X | Repost | 2026-09-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3008a431-31e8-4d68-84a0-848cf63639ad"
+  },
+  "868710ea-21af-4140-a609-90b2e08f9e84": {
+    "name": "Support on X | Like | 2026-09-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/868710ea-21af-4140-a609-90b2e08f9e84"
+  },
+  "6360c9f4-e0bb-43fd-be3f-cb9e38e4118a": {
+    "name": "Support on X | Reply | 2026-09-15",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6360c9f4-e0bb-43fd-be3f-cb9e38e4118a"
+  },
+  "7ccd5c2f-7e3c-43fb-bcf3-11a8d4cad45f": {
+    "name": "Support on X | Like | 2026-09-16",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7ccd5c2f-7e3c-43fb-bcf3-11a8d4cad45f"
+  },
+  "bffef994-aff8-4d48-a466-516e6ffa489f": {
+    "name": "Support on X | Repost | 2026-09-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bffef994-aff8-4d48-a466-516e6ffa489f"
+  },
+  "9aa3910d-4845-4b0a-86be-0532d23d2b2c": {
+    "name": "Support on X | Like | 2026-09-18 (2)",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/9aa3910d-4845-4b0a-86be-0532d23d2b2c"
+  },
+  "a74cd80f-8006-4b02-9af9-c87cf6527e9b": {
+    "name": "Support on X | Reply | 2026-08-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a74cd80f-8006-4b02-9af9-c87cf6527e9b"
+  },
+  "931f2d02-63c8-4150-af0b-8e6c70d99e3d": {
+    "name": "Support on X | Like | 2026-08-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/931f2d02-63c8-4150-af0b-8e6c70d99e3d"
+  },
+  "7c314588-3d44-48b2-b30d-0e2cbd077a53": {
+    "name": "Support on X | Repost | 2026-08-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7c314588-3d44-48b2-b30d-0e2cbd077a53"
+  },
+  "ccd38e92-4d9a-4b4d-bd50-9553598bfea9": {
+    "name": "Support on X | Like | 2026-08-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ccd38e92-4d9a-4b4d-bd50-9553598bfea9"
+  },
+  "60c3d391-61e7-4dec-af80-ae7b92c0acd9": {
+    "name": "Support on X | Repost | 2026-08-23",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/60c3d391-61e7-4dec-af80-ae7b92c0acd9"
+  },
+  "6dd9014b-f175-40b9-ba34-3c42529a5767": {
+    "name": "Support on X | Reply | 2026-08-23",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6dd9014b-f175-40b9-ba34-3c42529a5767"
+  },
+  "9cb45ff5-8f08-452b-a508-37a640eb11f6": {
+    "name": "Support on X | Like | 2026-08-24",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/9cb45ff5-8f08-452b-a508-37a640eb11f6"
+  },
+  "b8244c64-a768-4151-a52e-af69fcc8b13e": {
+    "name": "Support on X | Reply | 2026-08-24",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b8244c64-a768-4151-a52e-af69fcc8b13e"
+  },
+  "fc096abc-c8dd-4866-abe7-cc8d9ac817ae": {
+    "name": "Support on X | Repost | 2026-08-24",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/fc096abc-c8dd-4866-abe7-cc8d9ac817ae"
+  },
+  "3678de47-2038-48c1-86d0-1e40e672370d": {
+    "name": "Support on X | Reply | 2026-08-26",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3678de47-2038-48c1-86d0-1e40e672370d"
+  },
+  "244f4673-1515-441b-9c98-6d27ec8b61ec": {
+    "name": "Support on X | Reply | 2026-08-26",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/244f4673-1515-441b-9c98-6d27ec8b61ec"
+  },
+  "e4b02342-754e-4017-a423-b39c65bb0538": {
+    "name": "Support on X | Reply | 2026-08-27",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e4b02342-754e-4017-a423-b39c65bb0538"
+  },
+  "7347fc34-f56a-4fb7-8e74-0a232ffd9213": {
+    "name": "Support on X | Like | 2026-08-27",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7347fc34-f56a-4fb7-8e74-0a232ffd9213"
+  },
+  "07ccb2cf-e6e4-43e1-88e1-e686253383df": {
+    "name": "Support on X | Reply | 2026-08-28",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/07ccb2cf-e6e4-43e1-88e1-e686253383df"
+  },
+  "1dc242a2-40c0-41de-8c1a-5eb89b10ea65": {
+    "name": "Support on X | Repost | 2026-08-28",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1dc242a2-40c0-41de-8c1a-5eb89b10ea65"
+  },
+  "3030e9c2-c58a-40f8-a5a3-f5f2bd333f4c": {
+    "name": "Support on X | Reply | 2026-08-29",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/3030e9c2-c58a-40f8-a5a3-f5f2bd333f4c"
+  },
+  "e93b3457-1d72-4b85-b31e-211e4078f465": {
+    "name": "Support on X | Repost | 2026-08-29",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e93b3457-1d72-4b85-b31e-211e4078f465"
+  },
+  "11ea1154-96cc-49b1-ade3-ab86ec8e9e50": {
+    "name": "Support on X | Reply | 2026-08-30",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/11ea1154-96cc-49b1-ade3-ab86ec8e9e50"
+  },
+  "7b244a3f-ff13-42bb-b5c2-b115dcbf4260": {
+    "name": "Support on X | Reply | 2026-08-31",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7b244a3f-ff13-42bb-b5c2-b115dcbf4260"
+  },
+  "ddf96ee2-3965-414b-903b-38cac4a1bcf6": {
+    "name": "Support on X | Like | 2026-09-01",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ddf96ee2-3965-414b-903b-38cac4a1bcf6"
+  },
+  "a4dc9b27-cf35-4c2f-a627-956c9d9cfc0c": {
+    "name": "Support on X | Like | 2026-09-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a4dc9b27-cf35-4c2f-a627-956c9d9cfc0c"
+  },
+  "21b33e48-349a-461f-a954-ef5819b4e3e3": {
+    "name": "Support on X | Repost | 2026-09-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/21b33e48-349a-461f-a954-ef5819b4e3e3"
+  },
+  "0c5922c7-ebfd-43b7-90be-459a689c53ac": {
+    "name": "Support on X | Reply | 2026-09-04",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0c5922c7-ebfd-43b7-90be-459a689c53ac"
+  },
+  "66a7d333-a064-46d4-9c75-586d05187e18": {
+    "name": "Support on X | Repost | 2026-09-06",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/66a7d333-a064-46d4-9c75-586d05187e18"
+  },
+  "37293c00-fb03-49cb-a9aa-cb60519ae0f3": {
+    "name": "Support on X | Reply | 2026-09-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/37293c00-fb03-49cb-a9aa-cb60519ae0f3"
+  },
+  "82d76f04-b0f7-4b73-a3ae-1a9ee854fc68": {
+    "name": "Support on X | Like | 2026-09-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/82d76f04-b0f7-4b73-a3ae-1a9ee854fc68"
+  },
+  "e10f54a0-9d27-4373-a47a-08721c468eaa": {
+    "name": "Support on X | Repost | 2026-09-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/e10f54a0-9d27-4373-a47a-08721c468eaa"
+  },
+  "816a9fc0-3d7a-4db3-940c-cd8fa62c681c": {
+    "name": "Support on X | Reply | 2026-09-08",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/816a9fc0-3d7a-4db3-940c-cd8fa62c681c"
+  },
+  "83517a0b-ef2c-4ce3-9d36-390cba5adba3": {
+    "name": "Support on X | Repost | 2026-09-09",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/83517a0b-ef2c-4ce3-9d36-390cba5adba3"
+  },
+  "af1479ba-c01d-4125-ba4a-39d26bfe60cc": {
+    "name": "Support on X | Like | 2026-09-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/af1479ba-c01d-4125-ba4a-39d26bfe60cc"
+  },
+  "2921ae3e-6e22-4919-8edc-fa89b340ccd9": {
+    "name": "Support on X | Reply | 2026-09-11",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2921ae3e-6e22-4919-8edc-fa89b340ccd9"
+  },
+  "a6ce2f79-a496-48ca-ad35-5153d30a1e3d": {
+    "name": "Support on X | Reply | 2026-09-12",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a6ce2f79-a496-48ca-ad35-5153d30a1e3d"
+  },
+  "f61d9452-3eaa-462b-8b44-7a7ae207c2ad": {
+    "name": "Support on X | Like | 2026-09-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f61d9452-3eaa-462b-8b44-7a7ae207c2ad"
+  },
+  "7350b278-5666-4ddb-8ab4-49f29d747a2a": {
+    "name": "Support on X | Reply | 2026-09-13",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7350b278-5666-4ddb-8ab4-49f29d747a2a"
+  },
+  "2d979901-bb02-4432-b25f-04f0747b4586": {
+    "name": "Support on X | Repost | 2026-09-14",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2d979901-bb02-4432-b25f-04f0747b4586"
+  },
+  "ea957c8c-7432-49cc-9d4e-2c0b961faf3e": {
+    "name": "Support on X | Repost | 2026-09-16",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ea957c8c-7432-49cc-9d4e-2c0b961faf3e"
+  },
+  "ab5603ba-8225-4ce4-a6ab-478c36780dec": {
+    "name": "Support on X | Reply | 2026-09-16",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/ab5603ba-8225-4ce4-a6ab-478c36780dec"
+  },
+  "eacfa167-01be-4fa7-bfd9-ef398fc96737": {
+    "name": "Support on X | Like | 2026-09-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/eacfa167-01be-4fa7-bfd9-ef398fc96737"
+  },
+  "d0ebf498-68d0-47ce-8df2-d7e8f683ecc7": {
+    "name": "Support on X | Reply | 2026-09-17",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/d0ebf498-68d0-47ce-8df2-d7e8f683ecc7"
+  },
+  "f1833f71-d0db-4a20-8f41-dd589fd18a38": {
+    "name": "Support on X | Reply | 2026-09-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/f1833f71-d0db-4a20-8f41-dd589fd18a38"
+  },
+  "60d1b16c-dfae-4a74-82e2-2362a2173ba2": {
+    "name": "Support on X | Repost | 2026-09-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/60d1b16c-dfae-4a74-82e2-2362a2173ba2"
+  },
+  "cab0b7a9-f9a2-43ae-9ddc-078e8d90cacb": {
+    "name": "Support on X | Like | 2026-09-18",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/cab0b7a9-f9a2-43ae-9ddc-078e8d90cacb"
+  },
+  "5ad740cc-5067-4e86-ac20-0d9ef979d978": {
+    "name": "Support on X | Reply | 2026-09-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5ad740cc-5067-4e86-ac20-0d9ef979d978"
+  },
+  "74625be1-f061-4eae-bda9-c0ba80ded47f": {
+    "name": "Support on X | Repost | 2026-09-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/74625be1-f061-4eae-bda9-c0ba80ded47f"
+  },
+  "5320a813-ca26-42dd-9dd6-ae5cf8094a52": {
+    "name": "Support on X | Reply | 2026-09-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/5320a813-ca26-42dd-9dd6-ae5cf8094a52"
+  },
+  "2b8ae6c3-354a-44da-b778-59bcf5161cc8": {
+    "name": "Support on X | Repost | 2026-09-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/2b8ae6c3-354a-44da-b778-59bcf5161cc8"
+  },
+  "47e47e83-a9a8-4a16-9224-b15be8463003": {
+    "name": "Support on X | Like | 2026-09-20",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/47e47e83-a9a8-4a16-9224-b15be8463003"
+  },
+  "7698d5df-1db2-45d0-9cef-2da32b643f37": {
+    "name": "Support on X | Like | 2026-09-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7698d5df-1db2-45d0-9cef-2da32b643f37"
+  },
+  "98295387-8a3d-4ec0-a8fa-8276b78d57b5": {
+    "name": "Support on X | Like | 2026-09-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/98295387-8a3d-4ec0-a8fa-8276b78d57b5"
+  },
+  "bef94016-12af-4329-83e7-d1b664828f4f": {
+    "name": "Support on X | Repost | 2026-09-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/bef94016-12af-4329-83e7-d1b664828f4f"
+  },
+  "7d9e4208-0ab1-4ad8-ae61-762ccb5e2c00": {
+    "name": "Support on X | Reply | 2026-09-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7d9e4208-0ab1-4ad8-ae61-762ccb5e2c00"
+  },
+  "112fff97-c7d5-4548-8ab0-9c40872ed836": {
+    "name": "Support on X | Reply | 2026-09-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/112fff97-c7d5-4548-8ab0-9c40872ed836"
+  },
+  "b21cebf5-bd2c-411b-8c0c-ce78412613f9": {
+    "name": "Support on X | Repost | 2026-09-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/b21cebf5-bd2c-411b-8c0c-ce78412613f9"
+  },
+  "964c86d5-9fde-47b3-8b14-1f1348fed7f0": {
+    "name": "Support on X | Like | 2026-09-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/964c86d5-9fde-47b3-8b14-1f1348fed7f0"
+  },
+  "c69a3db0-e873-48e0-80c0-cd57b5dfc1f5": {
+    "name": "Join the \"Perpetuals Trading Competition\" on Binance Wallet",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/c69a3db0-e873-48e0-80c0-cd57b5dfc1f5"
+  },
+  "4cd2ea0e-0d46-484b-9523-125fb5c08ade": {
+    "name": "Invite 1 friend",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/4cd2ea0e-0d46-484b-9523-125fb5c08ade"
+  },
+  "967e86c5-8b98-4576-a357-743bf5e6b17a": {
+    "name": "Join @AsterDEX",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/967e86c5-8b98-4576-a357-743bf5e6b17a"
+  },
+  "13a40b7f-bcaf-414f-b5ad-94ef64e1937f": {
+    "name": "Join Aster Discord",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/13a40b7f-bcaf-414f-b5ad-94ef64e1937f"
+  },
+  "7907ee32-9889-49e5-82a3-c8a1bfda50cb": {
+    "name": "Join Binance Discord",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/7907ee32-9889-49e5-82a3-c8a1bfda50cb"
+  },
+  "971c157d-a776-45b5-a3f1-46ecb0267252": {
+    "name": "Join AMA on Binance Discord & Answer Questions [September 24 @",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/971c157d-a776-45b5-a3f1-46ecb0267252"
+  }
+}
