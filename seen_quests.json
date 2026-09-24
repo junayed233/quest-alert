@@ -2049,6 +2049,11 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/964c86d5-9fde-47b3-8b14-1f1348fed7f0"
   },
+  "c69a3db0-e873-48e0-80c0-cd57b5dfc1f5": {
+    "name": "Join the \"Perpetuals Trading Competition\" on Binance Wallet",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/c69a3db0-e873-48e0-80c0-cd57b5dfc1f5"
+  },
   "4cd2ea0e-0d46-484b-9523-125fb5c08ade": {
     "name": "Invite 1 friend",
     "project": "Binance",
@@ -2068,5 +2073,10 @@
     "name": "Join Aster Discord",
     "project": "Binance",
     "url": "https://zealy.io/cw/binance/questboard/13a40b7f-bcaf-414f-b5ad-94ef64e1937f"
+  },
+  "971c157d-a776-45b5-a3f1-46ecb0267252": {
+    "name": "Join AMA on Binance Discord & Answer Questions [September 24 @",
+    "project": "Binance",
+    "url": "https://zealy.io/cw/binance/questboard/971c157d-a776-45b5-a3f1-46ecb0267252"
   }
 }
