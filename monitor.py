@@ -1,23 +1,29 @@
 import json
 import os
 import requests
-from playwright.sync_api import sync_playwright
 
 PROJECTS = [
-    {"name": "TonMarket", "slug": "tonmarket", "url": "https://zealy.io/cw/tonmarket/questboard"},
-    {"name": "Quadcode AI", "slug": "quadcodeaicreators", "url": "https://zealy.io/cw/quadcodeaicreators/questboard"},
-    {"name": "TrueCurrent", "slug": "truecurrent", "url": "https://zealy.io/cw/truecurrent/questboard"},
-    {"name": "Paydex", "slug": "paydex", "url": "https://zealy.io/cw/paydex/questboard"},
-    {"name": "BlockBen", "slug": "blockben", "url": "https://zealy.io/cw/blockben/questboard"},
-    {"name": "Temple Digital", "slug": "templedigitalgroup", "url": "https://zealy.io/cw/templedigitalgroup/questboard"},
-    {"name": "MineBit", "slug": "minebit", "url": "https://zealy.io/cw/minebit/questboard"},
-    {"name": "Inference", "slug": "inference", "url": "https://zealy.io/cw/inference/questboard"},
-    {"name": "Binance", "slug": "binance", "url": "https://zealy.io/cw/binance/questboard"}
+    {"name": "TonMarket", "slug": "tonmarket"},
+    {"name": "Quadcode AI", "slug": "quadcodeaicreators"},
+    {"name": "TrueCurrent", "slug": "truecurrent"},
+    {"name": "Paydex", "slug": "paydex"},
+    {"name": "BlockBen", "slug": "blockben"},
+    {"name": "Temple Digital", "slug": "templedigitalgroup"},
+    {"name": "MineBit", "slug": "minebit"},
+    {"name": "Inference", "slug": "inference"},
+    {"name": "Binance", "slug": "binance"}
 ]
 
 STATE_FILE = "seen_quests.json"
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Accept": "application/json",
+    "Origin": "https://zealy.io",
+    "Referer": "https://zealy.io/"
+}
 
 def load_state():
     if not os.path.exists(STATE_FILE):
@@ -48,91 +54,62 @@ def send_telegram(message):
     except Exception as e:
         print(f"Telegram Error: {e}")
 
-def get_quests(project, browser):
+def get_quests(project):
     print(f"Checking {project['name']}...")
-    page = browser.new_page(viewport={"width": 1920, "height": 1080})
-    
-    api_quests = {}
-
-    def handle_response(response):
-        if "api.zealy.io" in response.url and response.status == 200:
-            try:
-                if response.request.method != "OPTIONS":
-                    data = response.json()
-                    quest_list = []
-                    if isinstance(data, list):
-                        quest_list = data
-                    elif isinstance(data, dict):
-                        if "quests" in data:
-                            quest_list = data["quests"]
-                        elif "data" in data and isinstance(data["data"], list):
-                            quest_list = data["data"]
-                    
-                    for q in quest_list:
-                        if isinstance(q, dict) and "id" in q and ("name" in q or "title" in q):
-                            api_quests[q["id"]] = q
-            except Exception:
-                pass
-
-    page.on("response", handle_response)
-    
+    url = f"https://api.zealy.io/communities/{project['slug']}/quests"
     try:
-        page.goto(project["url"], wait_until="networkidle", timeout=60000)
-        page.wait_for_timeout(5000)
-
-        for _ in range(8):
-            page.mouse.wheel(0, 3000)
-            page.wait_for_timeout(1500)
-
+        response = requests.get(url, headers=HEADERS, timeout=20)
+        if response.status_code != 200:
+            print(f"API Error {response.status_code} for {project['name']}")
+            return None
+        
+        quests_data = response.json()
         results = []
-        if api_quests:
-            for q_id, q_data in api_quests.items():
-                name = q_data.get("name") or q_data.get("title")
-                results.append({
-                    "id": q_id,
-                    "name": name.strip(),
-                    "url": f"https://zealy.io/cw/{project['slug']}/questboard/{q_id}",
-                    "project": project["name"]
-                })
         
-        unique = {q["id"]: q for q in results}
-        final_quests = list(unique.values())
+        quest_list = []
+        if isinstance(quests_data, list):
+            quest_list = quests_data
+        elif isinstance(quests_data, dict) and "quests" in quests_data:
+            quest_list = quests_data["quests"]
+            
+        for q in quest_list:
+            if isinstance(q, dict):
+                q_id = q.get("id")
+                name = q.get("name") or q.get("title")
+                if q_id and name:
+                    results.append({
+                        "id": q_id,
+                        "name": name.strip(),
+                        "url": f"https://zealy.io/cw/{project['slug']}/questboard/{q_id}",
+                        "project": project["name"]
+                    })
         
-        print(f"{project['name']}: found {len(final_quests)} tasks.")
-        return final_quests
-
+        print(f"{project['name']}: Found {len(results)} quests.")
+        return results
     except Exception as e:
-        print(f"Error fetching {project['name']}: {e}")
+        print(f"Error for {project['name']}: {e}")
         return None
-    finally:
-        page.close()
 
 def main():
     previous_active = load_state()
     current_active = {}
     new_notifications = []
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+    for project in PROJECTS:
+        quests = get_quests(project)
+        if quests is None:
+            continue
 
-        for project in PROJECTS:
-            quests = get_quests(project, browser)
-            
-            if quests is None:
-                continue
+        for quest in quests:
+            quest_id = quest["id"]
+            current_active[quest_id] = {
+                "name": quest["name"],
+                "project": quest["project"],
+                "url": quest["url"]
+            }
 
-            for quest in quests:
-                quest_id = quest["id"]
-                current_active[quest_id] = {
-                    "name": quest["name"],
-                    "project": quest["project"],
-                    "url": quest["url"]
-                }
-
-                if quest_id not in previous_active:
-                    new_notifications.append(quest)
-
-        browser.close()
+            if quest_id not in previous_active:
+                new_notifications.append(quest)
 
     print(f"\nSending {len(new_notifications)} notifications...")
 
@@ -141,8 +118,7 @@ def main():
             f"🔔 TASK ALERT (New/Re-uploaded)\n\n"
             f"📁 Project: {quest['project']}\n"
             f"📌 {quest['name']}\n\n"
-            f"🔗 {quest['url']}\n"
-            f"⚠️ (Check if it's locked or unlocked)"
+            f"🔗 {quest['url']}"
         )
         print(message)
         send_telegram(message)
