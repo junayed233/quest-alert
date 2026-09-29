@@ -59,20 +59,15 @@
     "project": "TrueCurrent",
     "url": "https://zealy.io/cw/truecurrent/questboard/9a5272a0-469b-4e7d-aa74-22e18a34a24f"
   },
-  "821ac857-e1e9-41fc-96b9-683923d0301c": {
-    "name": "Reply to our tweet",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/821ac857-e1e9-41fc-96b9-683923d0301c"
-  },
-  "bae5c852-cd94-4842-8815-1516fead0f5e": {
-    "name": "Reply our latest tweet",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/bae5c852-cd94-4842-8815-1516fead0f5e"
-  },
   "029075e1-4a6e-4902-9d89-a01eb67d82d0": {
     "name": "Top mover in the last 24 hours on TC",
     "project": "TrueCurrent",
     "url": "https://zealy.io/cw/truecurrent/questboard/029075e1-4a6e-4902-9d89-a01eb67d82d0"
+  },
+  "213d9e6c-c129-4501-b3ff-a41f8530a3bc": {
+    "name": "Earnings Week",
+    "project": "TrueCurrent",
+    "url": "https://zealy.io/cw/truecurrent/questboard/213d9e6c-c129-4501-b3ff-a41f8530a3bc"
   },
   "38d17a6c-4880-4ea2-85c9-89641f73a25f": {
     "name": "Invite 10 friends",
