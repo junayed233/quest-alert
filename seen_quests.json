@@ -1799,11 +1799,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/9f48b881-22f7-4a3e-906f-23c5ce9d63c8"
   },
-  "4a7901ee-9511-4d02-8a41-1e897fd763f5": {
-    "name": "Support on X | Reply | 2026-10-03",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/4a7901ee-9511-4d02-8a41-1e897fd763f5"
-  },
   "3e58406d-ad53-41a8-bfb7-508a97f4ee07": {
     "name": "Support on X | Repost | 2026-10-03",
     "project": "Inference",
@@ -1813,6 +1808,11 @@
     "name": "Support on X | Like | 2026-10-03",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/9ec38dc4-94a6-438b-a585-e3167faafa13"
+  },
+  "4a7901ee-9511-4d02-8a41-1e897fd763f5": {
+    "name": "Support on X | Reply | 2026-10-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/4a7901ee-9511-4d02-8a41-1e897fd763f5"
   },
   "c69a3db0-e873-48e0-80c0-cd57b5dfc1f5": {
     "name": "Join the \"Perpetuals Trading Competition\" on Binance Wallet",
