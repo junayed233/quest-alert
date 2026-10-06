@@ -1654,16 +1654,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/8582ff37-890b-4b9b-9719-9e5cb6edcad8"
   },
-  "27ed0d5c-5c3e-4829-8580-79c56a8bce32": {
-    "name": "Support on X | Like | 2026-10-02",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/27ed0d5c-5c3e-4829-8580-79c56a8bce32"
-  },
-  "1f431bdf-91ff-4909-88bb-9156ef32be96": {
-    "name": "Support on X | Like | 2026-10-03",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/1f431bdf-91ff-4909-88bb-9156ef32be96"
-  },
   "54c706ac-f34a-4401-8a11-bc0c71e8093a": {
     "name": "Support on X | Like | 2026-10-04",
     "project": "Inference",
@@ -1673,11 +1663,6 @@
     "name": "Daily Spark: Join the Discord Conversation",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/cebb0374-0148-4a3a-b6aa-bcb808bb199f"
-  },
-  "18131a81-f43f-48c5-b057-ca8b8a507907": {
-    "name": "Support on X | Reply | 2026-10-03",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/18131a81-f43f-48c5-b057-ca8b8a507907"
   },
   "82fde7fa-a1f3-48ce-aa19-d76bbf228176": {
     "name": "Support on X | Like | 2026-10-05",
@@ -1728,6 +1713,21 @@
     "name": "Support on X | Reply | 2026-10-02",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/f8e2d4f6-109e-4a21-bc7e-71c8300364c7"
+  },
+  "18131a81-f43f-48c5-b057-ca8b8a507907": {
+    "name": "Support on X | Reply | 2026-10-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/18131a81-f43f-48c5-b057-ca8b8a507907"
+  },
+  "27ed0d5c-5c3e-4829-8580-79c56a8bce32": {
+    "name": "Support on X | Like | 2026-10-02",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/27ed0d5c-5c3e-4829-8580-79c56a8bce32"
+  },
+  "1f431bdf-91ff-4909-88bb-9156ef32be96": {
+    "name": "Support on X | Like | 2026-10-03",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/1f431bdf-91ff-4909-88bb-9156ef32be96"
   },
   "c69a3db0-e873-48e0-80c0-cd57b5dfc1f5": {
     "name": "Join the \"Perpetuals Trading Competition\" on Binance Wallet",
