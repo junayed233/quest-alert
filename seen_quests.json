@@ -1554,11 +1554,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/99c9020c-82eb-4eff-8da2-de9cd64152a4"
   },
-  "82fde7fa-a1f3-48ce-aa19-d76bbf228176": {
-    "name": "Support on X | Like | 2026-10-05",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/82fde7fa-a1f3-48ce-aa19-d76bbf228176"
-  },
   "524bd097-fdfb-4c44-a2a8-384dbc264485": {
     "name": "Support on X | Reply | 2026-10-04",
     "project": "Inference",
@@ -1723,6 +1718,11 @@
     "name": "Support on X | Like | 2026-10-03",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/1f431bdf-91ff-4909-88bb-9156ef32be96"
+  },
+  "82fde7fa-a1f3-48ce-aa19-d76bbf228176": {
+    "name": "Support on X | Like | 2026-10-05",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/82fde7fa-a1f3-48ce-aa19-d76bbf228176"
   },
   "70332086-1856-4d59-b5b5-38383104277b": {
     "name": "Support on X | Reply | 2026-10-05",
