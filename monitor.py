@@ -3,15 +3,13 @@ import os
 import requests
 
 PROJECTS = [
-    {"name": "TonMarket", "slug": "tonmarket"},
     {"name": "Quadcode AI", "slug": "quadcodeaicreators"},
     {"name": "TrueCurrent", "slug": "truecurrent"},
     {"name": "Paydex", "slug": "paydex"},
-    {"name": "BlockBen", "slug": "blockben"},
     {"name": "Temple Digital", "slug": "templedigitalgroup"},
     {"name": "MineBit", "slug": "minebit"},
     {"name": "Inference", "slug": "inference"},
-    {"name": "Binance", "slug": "binance"}
+    {"name": "BTC LE", "slug": "btclelimitededitionfans"}
 ]
 
 STATE_FILE = "seen_quests.json"
