@@ -394,11 +394,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/6c8e7885-d964-4611-b2d5-12b1d1e7e090"
   },
-  "3aff880a-0c87-44e3-a943-219633945649": {
-    "name": "AI Speed vs. Safety: Why We Need Proof, Not Just Promises",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/3aff880a-0c87-44e3-a943-219633945649"
-  },
   "70332086-1856-4d59-b5b5-38383104277b": {
     "name": "Support on X | Reply | 2026-10-05",
     "project": "Inference",
@@ -814,36 +809,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/95027367-4594-4699-9bf2-bae040c40675"
   },
-  "7b915277-87e1-4ac4-bd31-31adf00ff785": {
-    "name": "Enterprise Vision AI: Black-Box Failures vs. Sertn Proofs 💼",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/7b915277-87e1-4ac4-bd31-31adf00ff785"
-  },
-  "b764eede-9527-4d99-8944-c7767925d831": {
-    "name": "Proof of Conversation (Discord)",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/b764eede-9527-4d99-8944-c7767925d831"
-  },
-  "0e3190ad-b6df-4de3-aa7a-db8560858076": {
-    "name": "🚀 Invite Your Friends (1)",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/0e3190ad-b6df-4de3-aa7a-db8560858076"
-  },
-  "efd40053-a52a-41c9-9c7a-739afda20b76": {
-    "name": "🚀 Invite Your Friends (2)",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/efd40053-a52a-41c9-9c7a-739afda20b76"
-  },
-  "216791e0-da64-4d72-9137-33b9a1391627": {
-    "name": "Join Hitchbot’s Guide",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/216791e0-da64-4d72-9137-33b9a1391627"
-  },
-  "aa614894-6be9-437c-8550-c1d9049e914d": {
-    "name": "🔔 YouTube: Subscribe & Turn On Bell Icon",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/aa614894-6be9-437c-8550-c1d9049e914d"
-  },
   "98584d3f-9256-4609-bbf2-87d9c214bc7e": {
     "name": "Support on X | Repost | 2026-08-08",
     "project": "Inference",
@@ -853,16 +818,6 @@
     "name": "Support on X | Reply | 2026-08-08",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/72b76164-6511-424b-a30a-d071c1c3ec0c"
-  },
-  "85d1663a-b042-4402-9582-13656cc75710": {
-    "name": "Invite 2 Friends",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/85d1663a-b042-4402-9582-13656cc75710"
-  },
-  "cfeab1b5-ff25-4209-9797-78da7e8d6404": {
-    "name": "Represent the Community: Add Our Server Tag!",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/cfeab1b5-ff25-4209-9797-78da7e8d6404"
   },
   "666e834c-b079-40ff-96dc-04f09e5578de": {
     "name": "Support on X | Like | 2026-08-09",
@@ -1004,61 +959,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/14d72e27-c7a3-4fea-82ff-c087ee11c7b8"
   },
-  "1ba0cef8-9b82-48d5-a591-2017a26d0186": {
-    "name": "⭐- Star GitHub Repo — Subnet-2",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/1ba0cef8-9b82-48d5-a591-2017a26d0186"
-  },
-  "132e6b80-ac10-468c-afaf-6fd99568be32": {
-    "name": "⭐- Star GitHub Repo — jstprove",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/132e6b80-ac10-468c-afaf-6fd99568be32"
-  },
-  "909242ae-ec44-488a-abd9-418eb63b15aa": {
-    "name": "⭐- Star GitHub Repo — Inference Network",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/909242ae-ec44-488a-abd9-418eb63b15aa"
-  },
-  "c8588a8c-d18b-4386-9fc2-4f127b71d13a": {
-    "name": "⭐- Star GitHub Repo — zkml-blueprints",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/c8588a8c-d18b-4386-9fc2-4f127b71d13a"
-  },
-  "2b2e2116-58fb-4eab-b67b-aeaa3650808c": {
-    "name": "⭐- Star GitHub Repo — dsperse",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/2b2e2116-58fb-4eab-b67b-aeaa3650808c"
-  },
-  "04caa68d-29ff-4769-bf57-61505ac2a084": {
-    "name": "⭐- Star GitHub Repo — n-ary_notebooks",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/04caa68d-29ff-4769-bf57-61505ac2a084"
-  },
-  "a07baf48-1251-44b5-ba78-24d6f3251381": {
-    "name": "Engage on our X community",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/a07baf48-1251-44b5-ba78-24d6f3251381"
-  },
-  "6a40ea47-f2c8-4489-a0b6-3fb724a97b92": {
-    "name": "Share a Thought in the X Community",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/6a40ea47-f2c8-4489-a0b6-3fb724a97b92"
-  },
-  "e9eddd19-fae5-40a6-9976-47d77e4b0d70": {
-    "name": "Post a Meme on our X Community",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/e9eddd19-fae5-40a6-9976-47d77e4b0d70"
-  },
-  "7ee47b13-c4e7-4c62-9a95-209a413e7514": {
-    "name": "🌐 Join the Inference Labs Discord Server",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/7ee47b13-c4e7-4c62-9a95-209a413e7514"
-  },
-  "bc1a6e06-4fcd-4728-a4e7-49543d839c96": {
-    "name": "Read terms and conditions of the campaign",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/bc1a6e06-4fcd-4728-a4e7-49543d839c96"
-  },
   "f8b36c16-eebd-44f0-b809-40a6336c1c70": {
     "name": "Support on X | Like | 2026-08-18",
     "project": "Inference",
@@ -1068,16 +968,6 @@
     "name": "Support on X | Reply | 2026-08-19",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/fc234b3c-b0b8-4df9-bb56-e1e8ec64e336"
-  },
-  "6efdbe19-017b-46d2-9e55-b7b45d79be7c": {
-    "name": "Follow Inference labs & the team behind it!",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/6efdbe19-017b-46d2-9e55-b7b45d79be7c"
-  },
-  "8d5d6edd-730c-4b2f-98e2-ffca054a38ea": {
-    "name": "🚀 Spread the Word: Inference Labs Sprint 9 is Live!",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/8d5d6edd-730c-4b2f-98e2-ffca054a38ea"
   },
   "cda4096a-24db-40a4-99bb-887d98a57256": {
     "name": "Support on X | Like | 2026-08-20",
@@ -1093,11 +983,6 @@
     "name": "Support on X | Repost | 2026-08-20",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/0dcae0d3-46b6-446c-8198-0638222bae9d"
-  },
-  "54932b84-1613-4201-8afb-7d10fa38204a": {
-    "name": "Spread the Word: Sertn — Verifiable Vision AI with Proof of Inference!",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/54932b84-1613-4201-8afb-7d10fa38204a"
   },
   "3716c598-101e-42e2-99d3-aa337d0e470e": {
     "name": "Support on X | Reply | 2026-08-22",
@@ -1118,11 +1003,6 @@
     "name": "Support on X | Like | 2026-08-23",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/e56e5715-0759-4b1c-b94e-78986419af41"
-  },
-  "f32054f1-02a3-4f26-8374-e852c992c0fa": {
-    "name": "Spread the Word: Subnet 2 - The world's fastest zkML proving cluster.",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/f32054f1-02a3-4f26-8374-e852c992c0fa"
   },
   "2fba31f8-129d-426d-bb23-ff4086248b06": {
     "name": "Support on X | Repost | 2026-08-25",
@@ -1179,16 +1059,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/0100ebe4-afe5-4b52-bd9e-6198951ccabb"
   },
-  "b94e3246-e9e6-4104-bc60-41ca64949509": {
-    "name": "Audit-Ready AI: Share the Power of Verifiable Vision",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/b94e3246-e9e6-4104-bc60-41ca64949509"
-  },
-  "39abc59f-9742-47f4-b423-853aa4c2ab9a": {
-    "name": "Create a meme!",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/39abc59f-9742-47f4-b423-853aa4c2ab9a"
-  },
   "cd2a01e4-9c7e-494b-8236-49930b3b5b6b": {
     "name": "Support on X | Like | 2026-08-31",
     "project": "Inference",
@@ -1198,11 +1068,6 @@
     "name": "Support on X | Repost | 2026-08-31",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/d88e79eb-cb33-4caf-b362-78ffe3b59e65"
-  },
-  "99f392a7-206e-49fe-8cb7-7c971d513737": {
-    "name": "Warehouse & Supply Chain: Why AI Needs Proof",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/99f392a7-206e-49fe-8cb7-7c971d513737"
   },
   "056f2dd8-7f7d-40da-bb4a-a09887a2994e": {
     "name": "Support on X | Reply | 2026-09-01",
@@ -1214,11 +1079,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/2a9a3d65-bab4-47d1-8704-406db8665b97"
   },
-  "57cb4fd5-d7d3-4229-9f61-396ddc42b505": {
-    "name": "Why Computer Vision Needs Real Proof",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/57cb4fd5-d7d3-4229-9f61-396ddc42b505"
-  },
   "35b54de5-add0-48e2-88a2-a9c5a17561bf": {
     "name": "Support on X | Repost | 2026-09-02",
     "project": "Inference",
@@ -1229,20 +1089,10 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/0a05bda5-21b8-44a0-9d05-655c6f55036d"
   },
-  "788f30b4-0daa-4fc7-a02c-705273bfa93f": {
-    "name": "Enterprise Use Case: Why Industry Needs Sertn",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/788f30b4-0daa-4fc7-a02c-705273bfa93f"
-  },
   "ee8ae056-65b3-450d-804e-424965ee8805": {
     "name": "Support on X | Like | 2026-09-08",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/ee8ae056-65b3-450d-804e-424965ee8805"
-  },
-  "f455de8c-e0b4-4779-9a04-7bd87c64a82b": {
-    "name": "Safe by Design: Verifiable Vision on the Factory Floor",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/f455de8c-e0b4-4779-9a04-7bd87c64a82b"
   },
   "796cc7b3-27d8-4bcd-9c67-be0cc5cfbf70": {
     "name": "Support on X | Repost | 2026-09-04",
@@ -1253,11 +1103,6 @@
     "name": "Support on X | Like | 2026-09-04",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/5cc98bd3-a4a3-4465-ae52-a20715d0232b"
-  },
-  "2288e7bf-69a8-4468-862d-46fed8130bbe": {
-    "name": "Watch & Explore: Sertn Walkthrough",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/2288e7bf-69a8-4468-862d-46fed8130bbe"
   },
   "a2dfc3ff-af61-4fcc-98e2-b7f3ebac6c9c": {
     "name": "Support on X | Repost | 2026-09-05",
@@ -1289,25 +1134,10 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/1071c05c-1cf6-419a-a33d-a9c12da1c9b1"
   },
-  "77a9daa5-9db2-4e36-93ff-233536b8d629": {
-    "name": "📢 Join the Inference Labs Telegram Community",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/77a9daa5-9db2-4e36-93ff-233536b8d629"
-  },
-  "85c40ee6-c24e-4cc8-88e7-f48f87278aad": {
-    "name": "Follow Inference labs & the team behind it! (2)",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/85c40ee6-c24e-4cc8-88e7-f48f87278aad"
-  },
   "21ddeb9d-dfab-4b1e-8696-2de9e82f1167": {
     "name": "Support on X | Repost | 2026-09-07",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/21ddeb9d-dfab-4b1e-8696-2de9e82f1167"
-  },
-  "a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32": {
-    "name": "Sertn: Verifiable Vision for PPE & Industrial Safety",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/a2bd8f6b-f6aa-4a71-9778-7583f2cd0b32"
   },
   "69c4b92b-e60a-43d5-b654-469ead25bdf6": {
     "name": "Support on X | Repost | 2026-09-12",
@@ -1353,11 +1183,6 @@
     "name": "Support on X | Repost | 2026-09-13",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/7a7fe3b8-1631-4407-8b1e-3ac4be0ae188"
-  },
-  "4cbf51ae-9113-4f36-a112-1b7a85c36a6e": {
-    "name": "Why the World Needs Verifiable Computer Vision",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/4cbf51ae-9113-4f36-a112-1b7a85c36a6e"
   },
   "bb779746-86cb-4b56-9f72-d5a06b2e1a47": {
     "name": "Support on X | Like | 2026-09-14",
@@ -1773,6 +1598,11 @@
     "name": "Support on X | Like | 2026-09-29",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/c3f9d747-2831-4faf-b6fe-7465f11bf2bf"
+  },
+  "c5c0b259-6e27-462a-8760-26e4a2bde0b4": {
+    "name": "Read terms and conditions of the campaign",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/c5c0b259-6e27-462a-8760-26e4a2bde0b4"
   },
   "8554de46-9df1-4a41-bef8-0a74b1bcb048": {
     "name": "Support on X | Reply | 2026-09-30",
