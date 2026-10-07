@@ -1559,11 +1559,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/e99e0d11-b0dd-47c4-9688-abf6566179e8"
   },
-  "18b2208b-ed85-431a-8fc4-b85630dacdf6": {
-    "name": "Support on X | Like | 2026-10-07",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/18b2208b-ed85-431a-8fc4-b85630dacdf6"
-  },
   "69ba36a8-dd8b-487e-b659-dd8aad87e585": {
     "name": "Support on X | Repost | 2026-10-02",
     "project": "Inference",
@@ -1593,6 +1588,11 @@
     "name": "Daily Spark: Join the Discord Conversation",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/cebb0374-0148-4a3a-b6aa-bcb808bb199f"
+  },
+  "18b2208b-ed85-431a-8fc4-b85630dacdf6": {
+    "name": "Support on X | Like | 2026-10-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/18b2208b-ed85-431a-8fc4-b85630dacdf6"
   },
   "56efd66c-bf34-4daf-b35f-86beee60f63b": {
     "name": "🌐 Join the Inference Labs Discord Server",
