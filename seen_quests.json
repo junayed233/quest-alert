@@ -1764,11 +1764,6 @@
     "project": "Exolix",
     "url": "https://zealy.io/cw/exolix/questboard/296aae00-d547-450b-b94a-c16d99f5e65d"
   },
-  "afeb421b-94ea-4924-9888-0a6c1363251e": {
-    "name": "Boost Exolix on X",
-    "project": "Exolix",
-    "url": "https://zealy.io/cw/exolix/questboard/afeb421b-94ea-4924-9888-0a6c1363251e"
-  },
   "f3fe3b29-e29e-4e7b-9e17-fc6fc20119e9": {
     "name": "Exolix: Fixed vs Floating Rates (Quiz)",
     "project": "Exolix",
@@ -1828,5 +1823,10 @@
     "name": "Like: TON",
     "project": "Exolix",
     "url": "https://zealy.io/cw/exolix/questboard/916296c7-7736-48c4-b454-859cb65362d8"
+  },
+  "afeb421b-94ea-4924-9888-0a6c1363251e": {
+    "name": "Boost Exolix on X",
+    "project": "Exolix",
+    "url": "https://zealy.io/cw/exolix/questboard/afeb421b-94ea-4924-9888-0a6c1363251e"
   }
 }
