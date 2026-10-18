@@ -1,34 +1,4 @@
 {
-  "1f2e5074-185b-43e1-b8aa-f910c3380b50": {
-    "name": "Sprint Rules — read this first",
-    "project": "Quadcode AI",
-    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/1f2e5074-185b-43e1-b8aa-f910c3380b50"
-  },
-  "2ccd0885-2be5-4d78-a78f-27ca19892e2e": {
-    "name": "1 · Join Discord & Request Credits",
-    "project": "Quadcode AI",
-    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/2ccd0885-2be5-4d78-a78f-27ca19892e2e"
-  },
-  "4f84753e-f587-428e-a1a0-7fe7bd954e2c": {
-    "name": "4 · Share it on Discord",
-    "project": "Quadcode AI",
-    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/4f84753e-f587-428e-a1a0-7fe7bd954e2c"
-  },
-  "0de9895d-ed71-431a-a4e3-6061fd209edb": {
-    "name": "2 · Create & Record",
-    "project": "Quadcode AI",
-    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/0de9895d-ed71-431a-a4e3-6061fd209edb"
-  },
-  "1f4642c8-aaa7-49c2-9fff-ddadf92b5e58": {
-    "name": "3 · Post it on X",
-    "project": "Quadcode AI",
-    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/1f4642c8-aaa7-49c2-9fff-ddadf92b5e58"
-  },
-  "2de73762-0b9e-4aaf-8aea-1b86ced988a3": {
-    "name": "Bonus · Go Viral",
-    "project": "Quadcode AI",
-    "url": "https://zealy.io/cw/quadcodeaicreators/questboard/2de73762-0b9e-4aaf-8aea-1b86ced988a3"
-  },
   "83c9e8d0-6e61-4fc7-a098-84a60d04bede": {
     "name": "Like our latest tweet!",
     "project": "TrueCurrent",
@@ -43,26 +13,6 @@
     "name": "Reply our latest tweet!",
     "project": "TrueCurrent",
     "url": "https://zealy.io/cw/truecurrent/questboard/7a6f15ae-7710-4e4f-9cd9-11fecd3359ae"
-  },
-  "c01655b4-dc03-4288-89f2-3e564363895c": {
-    "name": "📜 Read first — Sprint rules & rewards",
-    "project": "Paydex",
-    "url": "https://zealy.io/cw/paydex/questboard/c01655b4-dc03-4288-89f2-3e564363895c"
-  },
-  "3a3b80da-d9f5-4857-ae5d-6acc2ce0b95c": {
-    "name": "Q3 · Turn on notifications",
-    "project": "Paydex",
-    "url": "https://zealy.io/cw/paydex/questboard/3a3b80da-d9f5-4857-ae5d-6acc2ce0b95c"
-  },
-  "b551457c-b1a7-4c2c-923e-8d55285e56d1": {
-    "name": "Q6 · Bring 2 friends",
-    "project": "Paydex",
-    "url": "https://zealy.io/cw/paydex/questboard/b551457c-b1a7-4c2c-923e-8d55285e56d1"
-  },
-  "cc2ea174-d903-4831-ad34-817208f51e37": {
-    "name": "Q7 · Create something",
-    "project": "Paydex",
-    "url": "https://zealy.io/cw/paydex/questboard/cc2ea174-d903-4831-ad34-817208f51e37"
   },
   "a0b0fba1-c8d0-47b9-957b-8eb2c6667ff2": {
     "name": "Tweet About Temple",
@@ -2049,9 +1999,69 @@
     "project": "Exolix",
     "url": "https://zealy.io/cw/exolix/questboard/d969432a-586d-4621-ae92-22b0fea2fa93"
   },
-  "8a77d54d-7be3-434e-b082-0678838383e5": {
-    "name": "Discover the token that becomes worth more Bitcoin every day (Closed)",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/8a77d54d-7be3-434e-b082-0678838383e5"
+  "58f3e647-eb42-4eb7-a654-ece182329ee0": {
+    "name": "🐦 Follow Binaxity on X",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/58f3e647-eb42-4eb7-a654-ece182329ee0"
+  },
+  "d9a512b3-54e6-4ce1-b2e9-0458c8584e14": {
+    "name": "💬 Join the Binaxity Telegram Community",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/d9a512b3-54e6-4ce1-b2e9-0458c8584e14"
+  },
+  "fc5fae3c-30ef-4ac0-b6d3-80dd2b7f451d": {
+    "name": "💼 Follow Binaxity on LinkedIn",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/fc5fae3c-30ef-4ac0-b6d3-80dd2b7f451d"
+  },
+  "b7eb205d-8123-4919-949f-b492f669a744": {
+    "name": "📣 Support Binaxity Post",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/b7eb205d-8123-4919-949f-b492f669a744"
+  },
+  "eadf06d1-bcfe-4fad-ad3c-d5cf5590a92b": {
+    "name": "🐦 Share Your Binaxity Takeaway",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/eadf06d1-bcfe-4fad-ad3c-d5cf5590a92b"
+  },
+  "0d69f0fe-bd41-4682-99d2-b3bc4e542b55": {
+    "name": "📣 Support Binaxity Post 2026-10-16",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/0d69f0fe-bd41-4682-99d2-b3bc4e542b55"
+  },
+  "5a1acd0e-6279-482a-aa41-6f86e53a60ef": {
+    "name": "📜 Read & Confirm the Campaign Rules",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/5a1acd0e-6279-482a-aa41-6f86e53a60ef"
+  },
+  "bd88c77a-b4f3-4d00-ad14-21d7f00854a1": {
+    "name": "🔐 Create a Binaxity Account",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/bd88c77a-b4f3-4d00-ad14-21d7f00854a1"
+  },
+  "ebb73237-d6d6-43a1-bf0b-f8e1d5129108": {
+    "name": "🧠 Binaxity Basics: Question 1",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/ebb73237-d6d6-43a1-bf0b-f8e1d5129108"
+  },
+  "c522958d-3c18-4e63-b40c-4fc483c7f400": {
+    "name": "🔎 Explore the Binaxity Website & FAQ",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/c522958d-3c18-4e63-b40c-4fc483c7f400"
+  },
+  "b3ebd4f5-c857-4dab-924d-d527c01986f2": {
+    "name": "🧠 Binaxity Basics: Question 2",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/b3ebd4f5-c857-4dab-924d-d527c01986f2"
+  },
+  "ab0efa3e-8415-473b-8350-87735cbc25f0": {
+    "name": "🧠 Binaxity Basics: Question 3",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/ab0efa3e-8415-473b-8350-87735cbc25f0"
+  },
+  "24b5bb92-8076-4fd0-8507-8a3bc1f7b93a": {
+    "name": "🔗 Invite Friends Through Zealy",
+    "project": "Binaxity",
+    "url": "https://zealy.io/cw/binaxity/questboard/24b5bb92-8076-4fd0-8507-8a3bc1f7b93a"
   }
 }
