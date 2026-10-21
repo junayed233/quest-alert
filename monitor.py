@@ -9,7 +9,8 @@ PROJECTS = [
     {"name": "Inference", "slug": "inference"},
     {"name": "BTC LE", "slug": "btclelimitededitionfans"},
     {"name": "Exolix", "slug": "exolix"},
-    {"name": "Binaxity", "slug": "binaxity"}
+    {"name": "Binaxity", "slug": "binaxity"},
+    {"name": "Vorq", "slug": "vorq"}
 ]
 
 STATE_FILE = "seen_quests.json"
