@@ -204,6 +204,11 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/6c8e7885-d964-4611-b2d5-12b1d1e7e090"
   },
+  "6391c7fd-902b-44d1-b1f3-b0134359d71c": {
+    "name": "Support on X | Reply | 2026-10-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/6391c7fd-902b-44d1-b1f3-b0134359d71c"
+  },
   "8d2bda8c-0c9f-4a6a-bf36-101703f149be": {
     "name": "Support on X | Repost | 2026-10-05",
     "project": "Inference",
@@ -1609,11 +1614,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/b3f30326-75f3-4f68-bcb7-ba429aaa1957"
   },
-  "0ab02501-49ce-4d0c-9f38-892cc09159cd": {
-    "name": "Support on X | Repost | 2026-10-22",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/0ab02501-49ce-4d0c-9f38-892cc09159cd"
-  },
   "6f8bc343-b6b3-4f02-9c45-1a8ab7a16b6d": {
     "name": "Support on X | Like | 2026-10-08",
     "project": "Inference",
@@ -1683,6 +1683,11 @@
     "name": "Support on X | Reply | 2026-10-13",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/d5473984-dad0-442e-a1bb-2c2db210d8cb"
+  },
+  "0ab02501-49ce-4d0c-9f38-892cc09159cd": {
+    "name": "Support on X | Repost | 2026-10-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/0ab02501-49ce-4d0c-9f38-892cc09159cd"
   },
   "a9bc7cca-9b82-4335-adb8-df474443f253": {
     "name": "Support on X | Like | 2026-10-13",
@@ -1838,11 +1843,6 @@
     "name": "Support on X | Reply | 2026-10-21",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/854e5c7f-8e56-49f7-923f-2d7bd2d24ceb"
-  },
-  "6391c7fd-902b-44d1-b1f3-b0134359d71c": {
-    "name": "Support on X | Reply | 2026-10-22",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/6391c7fd-902b-44d1-b1f3-b0134359d71c"
   },
   "4a3bcb91-df9a-41fb-8250-f63a85ed44fe": {
     "name": "Join the official BTCLE Telegram channel",
