@@ -1,19 +1,4 @@
 {
-  "83c9e8d0-6e61-4fc7-a098-84a60d04bede": {
-    "name": "Like our latest tweet!",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/83c9e8d0-6e61-4fc7-a098-84a60d04bede"
-  },
-  "f3ff43ee-aaf1-49e5-8c6d-f0c8b87af771": {
-    "name": "RT our latest tweet!",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/f3ff43ee-aaf1-49e5-8c6d-f0c8b87af771"
-  },
-  "7a6f15ae-7710-4e4f-9cd9-11fecd3359ae": {
-    "name": "Reply our latest tweet!",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/7a6f15ae-7710-4e4f-9cd9-11fecd3359ae"
-  },
   "a0b0fba1-c8d0-47b9-957b-8eb2c6667ff2": {
     "name": "Tweet About Temple",
     "project": "Temple Digital",
@@ -1709,11 +1694,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/a9bc7cca-9b82-4335-adb8-df474443f253"
   },
-  "69ee1155-c210-4c23-a19f-a6f854fc5291": {
-    "name": "Support on X | Like | 2026-10-22",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/69ee1155-c210-4c23-a19f-a6f854fc5291"
-  },
   "320719cd-694a-4eed-b66a-23d64361042f": {
     "name": "Support on X | Repost | 2026-10-13",
     "project": "Inference",
@@ -1903,6 +1883,11 @@
     "name": "Support on X | Repost | 2026-10-25",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/9c68e12a-a106-4d0c-ac4b-e1006b33b2e0"
+  },
+  "69ee1155-c210-4c23-a19f-a6f854fc5291": {
+    "name": "Support on X | Like | 2026-10-22",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/69ee1155-c210-4c23-a19f-a6f854fc5291"
   },
   "4a3bcb91-df9a-41fb-8250-f63a85ed44fe": {
     "name": "Join the official BTCLE Telegram channel",
