@@ -5,14 +5,13 @@ import requests
 PROJECTS = [
     {"name": "TrueCurrent", "slug": "truecurrent"},
     {"name": "Temple Digital", "slug": "templedigitalgroup"},
-    {"name": "MineBit", "slug": "minebit"},
     {"name": "Inference", "slug": "inference"},
     {"name": "BTC LE", "slug": "btclelimitededitionfans"},
     {"name": "Exolix", "slug": "exolix"},
-    {"name": "Binaxity", "slug": "binaxity"},
     {"name": "Vorq", "slug": "vorq"},
     {"name": "Dustbit", "slug": "dustbit"},
-    {"name": "EverValue", "slug": "evervalue"}
+    {"name": "EverValue", "slug": "evervalue"},
+    {"name": "Wenshot Trade", "slug": "wenshottrade"}
 ]
 
 STATE_FILE = "seen_quests.json"
