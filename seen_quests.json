@@ -1894,11 +1894,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/993134b0-a0d5-41c9-8be7-669f6941589b"
   },
-  "02301be0-54ab-4341-a040-503946f0e65b": {
-    "name": "Support on X | Like | 2026-11-07",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/02301be0-54ab-4341-a040-503946f0e65b"
-  },
   "e63237f5-8967-4832-b5b4-703dc3c2b46c": {
     "name": "Support on X | Like | 2026-11-06",
     "project": "Inference",
@@ -1918,6 +1913,11 @@
     "name": "Support on X | Reply | 2026-11-07",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/22a5885f-c28e-45dc-b51f-6bce927c6607"
+  },
+  "02301be0-54ab-4341-a040-503946f0e65b": {
+    "name": "Support on X | Like | 2026-11-07",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/02301be0-54ab-4341-a040-503946f0e65b"
   },
   "4a3bcb91-df9a-41fb-8250-f63a85ed44fe": {
     "name": "Join the official BTCLE Telegram channel",
