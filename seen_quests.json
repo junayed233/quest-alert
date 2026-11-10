@@ -1959,15 +1959,15 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/b89416ff-1ffb-4c71-9093-f05168004fb0"
   },
-  "a31a84da-57f0-4453-9ec9-ee50d7bad0f7": {
-    "name": "Support on X | Repost | 2026-11-10",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/a31a84da-57f0-4453-9ec9-ee50d7bad0f7"
-  },
   "cbe0b076-d4a2-482a-9297-c243485984fb": {
     "name": "Support on X | Like | 2026-11-10",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/cbe0b076-d4a2-482a-9297-c243485984fb"
+  },
+  "a31a84da-57f0-4453-9ec9-ee50d7bad0f7": {
+    "name": "Support on X | Repost | 2026-11-10",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/a31a84da-57f0-4453-9ec9-ee50d7bad0f7"
   },
   "ab3c3f66-8ec4-4b74-89ec-43618ee6f8c5": {
     "name": "Support on X | Reply | 2026-11-10",
@@ -2289,6 +2289,11 @@
     "project": "Dustbit",
     "url": "https://zealy.io/cw/dustbit/questboard/b6603b28-d815-4d2a-9167-12022e96b4bd"
   },
+  "d86bd964-bedc-419c-b85c-fabe3e968b36": {
+    "name": "Like & Retweet EVA on X",
+    "project": "EverValue",
+    "url": "https://zealy.io/cw/evervalue/questboard/d86bd964-bedc-419c-b85c-fabe3e968b36"
+  },
   "6165d929-9ec2-4592-b6b7-37a7f58be3e6": {
     "name": "How to Learn About EVA",
     "project": "EverValue",
@@ -2303,6 +2308,11 @@
     "name": "Follow EverValue on X",
     "project": "EverValue",
     "url": "https://zealy.io/cw/evervalue/questboard/35178c66-f1d5-41ad-93d0-d4d5d6d9b8c3"
+  },
+  "24eacbf1-00aa-4f82-8c6c-3c9d20eae6c1": {
+    "name": "Spread the Word About EVA on X",
+    "project": "EverValue",
+    "url": "https://zealy.io/cw/evervalue/questboard/24eacbf1-00aa-4f82-8c6c-3c9d20eae6c1"
   },
   "88cba497-62a6-49e6-9a80-a2792a71e305": {
     "name": "Join TG Channel",
