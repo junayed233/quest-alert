@@ -1919,11 +1919,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/b89416ff-1ffb-4c71-9093-f05168004fb0"
   },
-  "7aba3467-f60e-4d9e-8f58-67e1566cac69": {
-    "name": "Support on X | Like | 2026-11-14 (2)",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/7aba3467-f60e-4d9e-8f58-67e1566cac69"
-  },
   "ce224c00-2ac2-44bf-8f5d-ff991acd3c7f": {
     "name": "🚀 Invite Your Friends (1)",
     "project": "Inference",
@@ -1953,6 +1948,11 @@
     "name": "Join Hitchbot’s Guide",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/5ff27a5a-0a31-4a7b-afc4-2833ef681353"
+  },
+  "7aba3467-f60e-4d9e-8f58-67e1566cac69": {
+    "name": "Support on X | Like | 2026-11-14 (2)",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/7aba3467-f60e-4d9e-8f58-67e1566cac69"
   },
   "a31a84da-57f0-4453-9ec9-ee50d7bad0f7": {
     "name": "Support on X | Repost | 2026-11-10",
