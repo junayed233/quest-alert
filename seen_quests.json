@@ -2404,6 +2404,21 @@
     "project": "Dustbit",
     "url": "https://zealy.io/cw/dustbit/questboard/a2979b7e-4a9b-4b0a-a537-a743aee2fe2f"
   },
+  "ac5655fa-7a02-42dd-a156-56037e5a7905": {
+    "name": "Engage with EVA on YouTube",
+    "project": "EverValue",
+    "url": "https://zealy.io/cw/evervalue/questboard/ac5655fa-7a02-42dd-a156-56037e5a7905"
+  },
+  "cf73579c-09f3-4221-aa9a-12c726c9b216": {
+    "name": "Engage with EVA on Telegram",
+    "project": "EverValue",
+    "url": "https://zealy.io/cw/evervalue/questboard/cf73579c-09f3-4221-aa9a-12c726c9b216"
+  },
+  "f6e39b63-fa39-4193-9f60-4f7b0730e91c": {
+    "name": "Like & Comment on X",
+    "project": "EverValue",
+    "url": "https://zealy.io/cw/evervalue/questboard/f6e39b63-fa39-4193-9f60-4f7b0730e91c"
+  },
   "098a04f9-c64c-4485-9851-d2bd2c5278b4": {
     "name": "Create and Share a Meme on Discord",
     "project": "EverValue",
@@ -2469,11 +2484,6 @@
     "project": "EverValue",
     "url": "https://zealy.io/cw/evervalue/questboard/6c8f489d-81b3-484c-a133-c43ca3747874"
   },
-  "a5932911-c986-4bf0-91f1-cb69551e5e5c": {
-    "name": "Engage with EVA on Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/a5932911-c986-4bf0-91f1-cb69551e5e5c"
-  },
   "bf131aae-3261-4d1a-b81c-3dd4c05dcb58": {
     "name": "Subscribe to EverValue on YouTube",
     "project": "EverValue",
@@ -2483,5 +2493,10 @@
     "name": "Like & Comment on X",
     "project": "EverValue",
     "url": "https://zealy.io/cw/evervalue/questboard/5a9ef905-7dc5-4bc9-9603-ffa12fd817ee"
+  },
+  "a5932911-c986-4bf0-91f1-cb69551e5e5c": {
+    "name": "Engage with EVA on Telegram",
+    "project": "EverValue",
+    "url": "https://zealy.io/cw/evervalue/questboard/a5932911-c986-4bf0-91f1-cb69551e5e5c"
   }
 }
