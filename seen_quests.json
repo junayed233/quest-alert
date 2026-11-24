@@ -1,19 +1,4 @@
 {
-  "83c9e8d0-6e61-4fc7-a098-84a60d04bede": {
-    "name": "Like our latest tweet!",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/83c9e8d0-6e61-4fc7-a098-84a60d04bede"
-  },
-  "f3ff43ee-aaf1-49e5-8c6d-f0c8b87af771": {
-    "name": "RT our latest tweet!",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/f3ff43ee-aaf1-49e5-8c6d-f0c8b87af771"
-  },
-  "7a6f15ae-7710-4e4f-9cd9-11fecd3359ae": {
-    "name": "Reply our latest tweet!",
-    "project": "TrueCurrent",
-    "url": "https://zealy.io/cw/truecurrent/questboard/7a6f15ae-7710-4e4f-9cd9-11fecd3359ae"
-  },
   "a0b0fba1-c8d0-47b9-957b-8eb2c6667ff2": {
     "name": "Tweet About Temple",
     "project": "Temple Digital",
@@ -2154,86 +2139,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/18ea9a61-d130-4cba-9968-f65776a68d0c"
   },
-  "4a3bcb91-df9a-41fb-8250-f63a85ed44fe": {
-    "name": "Join the official BTCLE Telegram channel",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/4a3bcb91-df9a-41fb-8250-f63a85ed44fe"
-  },
-  "50012320-3a21-4396-bfd3-38b28eb87ffd": {
-    "name": "Join BTCLE Discord 🚀",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/50012320-3a21-4396-bfd3-38b28eb87ffd"
-  },
-  "249e183a-7ec0-4903-970a-46d606f43d5b": {
-    "name": "Visit BTCLE on CoinMarketCap 📊",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/249e183a-7ec0-4903-970a-46d606f43d5b"
-  },
-  "d761e56e-116d-49f3-b90a-2e4175a28e6c": {
-    "name": "Invite 3 Friends & Earn XP 🚀",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/d761e56e-116d-49f3-b90a-2e4175a28e6c"
-  },
-  "689a3a3b-6804-4446-adf3-02df48600009": {
-    "name": "Invite 10 Friends & Earn 100 XP🚀",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/689a3a3b-6804-4446-adf3-02df48600009"
-  },
-  "d7c628d7-c22d-4b7c-bf17-ad34fa7297a8": {
-    "name": "BTCLE Community Feedback Poll",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/d7c628d7-c22d-4b7c-bf17-ad34fa7297a8"
-  },
-  "4c0ffddd-7077-4e48-8ea0-77a5f52c8561": {
-    "name": "Vote Bullish on DEXTools",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/4c0ffddd-7077-4e48-8ea0-77a5f52c8561"
-  },
-  "3e4e65de-b0ab-4362-99d7-0f89b7c38310": {
-    "name": "💬 BTCLE Community Discussion",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/3e4e65de-b0ab-4362-99d7-0f89b7c38310"
-  },
-  "b8189bd8-5c9c-470b-9a81-7255568b3b4c": {
-    "name": "🚀 Invite 20 Friends & Earn XP",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/b8189bd8-5c9c-470b-9a81-7255568b3b4c"
-  },
-  "0d1cf31a-8d11-4039-b7e2-768daa94d159": {
-    "name": "🚀 Join All Official BTCLE Channels",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/0d1cf31a-8d11-4039-b7e2-768daa94d159"
-  },
-  "a8a66466-f329-4655-a96f-fd87ed30e9fa": {
-    "name": "Follow BTCLE on TikTok",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/a8a66466-f329-4655-a96f-fd87ed30e9fa"
-  },
-  "b24b241a-32fe-44c9-aabb-64fc1ca91f80": {
-    "name": "Subscribe to BTCLE on YouTube",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/b24b241a-32fe-44c9-aabb-64fc1ca91f80"
-  },
-  "a8cc9bd0-f823-4e34-a15e-528c1cdf2673": {
-    "name": "Spread BTCLE Across X",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/a8cc9bd0-f823-4e34-a15e-528c1cdf2673"
-  },
-  "ff4dee84-80d8-413e-a59d-e536d9e20511": {
-    "name": "Invite 5 Friends to BTCLE",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/ff4dee84-80d8-413e-a59d-e536d9e20511"
-  },
-  "88ac96d0-1a5b-4e8f-b0b5-d20aadae802d": {
-    "name": "Share BTCLE in Crypto Communities",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/88ac96d0-1a5b-4e8f-b0b5-d20aadae802d"
-  },
-  "0a806915-b42b-473f-9977-7bc236011be8": {
-    "name": "Submit Your Wallet Address",
-    "project": "BTC LE",
-    "url": "https://zealy.io/cw/btclelimitededitionfans/questboard/0a806915-b42b-473f-9977-7bc236011be8"
-  },
   "79df4821-6537-4f3b-9a7f-e917d1475c73": {
     "name": "Lunar Festival Sprint Winnerrs - TOP 25 ONLY - drop your address for hardware wallet reward",
     "project": "Exolix",
@@ -2263,126 +2168,6 @@
     "name": "Zealy Invite link tool (No rewards)",
     "project": "Exolix",
     "url": "https://zealy.io/cw/exolix/questboard/10e9c26c-7ea2-45ea-8dd0-bbe4d231e116"
-  },
-  "aac067ba-1e12-487e-a70f-f5c483f872ef": {
-    "name": "💬 join tg chat",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/aac067ba-1e12-487e-a70f-f5c483f872ef"
-  },
-  "cbf05442-01df-4701-aa38-b72ffc12a67a": {
-    "name": "🤖 discord channel",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/cbf05442-01df-4701-aa38-b72ffc12a67a"
-  },
-  "dc96b9a4-709b-410a-8fef-e85df2db7f1a": {
-    "name": "🖇️ join linkedin",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/dc96b9a4-709b-410a-8fef-e85df2db7f1a"
-  },
-  "11f5d52c-0157-4586-a9a5-b6313d7ae8e8": {
-    "name": "🤗 invite frens 2",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/11f5d52c-0157-4586-a9a5-b6313d7ae8e8"
-  },
-  "c112892c-ea6a-4fbc-a885-0869f4221f97": {
-    "name": "🛩️ join tg channel",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/c112892c-ea6a-4fbc-a885-0869f4221f97"
-  },
-  "9a4f0dac-181b-4667-a41a-07795ed00c6f": {
-    "name": "🤗 invite frens",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/9a4f0dac-181b-4667-a41a-07795ed00c6f"
-  },
-  "27e6dc52-c094-4d9a-bde9-f0eff4ba0448": {
-    "name": "your first job",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/27e6dc52-c094-4d9a-bde9-f0eff4ba0448"
-  },
-  "e56b674d-563c-4dbb-95f4-e535d7a3b13d": {
-    "name": "Model explorer",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/e56b674d-563c-4dbb-95f4-e535d7a3b13d"
-  },
-  "99ae5bbe-6252-4b5e-887d-3bdc6f157d84": {
-    "name": "show the answer",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/99ae5bbe-6252-4b5e-887d-3bdc6f157d84"
-  },
-  "8040a0ec-c015-48a2-a1bb-f608fb7d455d": {
-    "name": "🧑‍💻 vorq testnet",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/8040a0ec-c015-48a2-a1bb-f608fb7d455d"
-  },
-  "2d2da8b3-eeae-4cc9-8e20-a63325a37801": {
-    "name": "💧 Get test tokens",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/2d2da8b3-eeae-4cc9-8e20-a63325a37801"
-  },
-  "e5b21e3d-0fa0-47a6-80bc-85f2aaadc7ed": {
-    "name": "👛 fresh wallet",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/e5b21e3d-0fa0-47a6-80bc-85f2aaadc7ed"
-  },
-  "4569131f-1fe4-4f65-a887-ef476fb91841": {
-    "name": "⚾ Add Base Sepolia",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/4569131f-1fe4-4f65-a887-ef476fb91841"
-  },
-  "01c34678-4a37-4866-9676-f6c6a05f0934": {
-    "name": "Stay safe",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/01c34678-4a37-4866-9676-f6c6a05f0934"
-  },
-  "f871711b-9929-48cb-96dc-225c6de88860": {
-    "name": "What is VORQ?",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/f871711b-9929-48cb-96dc-225c6de88860"
-  },
-  "d1bd9390-7991-4d1a-a1ac-5a768b5f23b2": {
-    "name": "Weekly tester",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/d1bd9390-7991-4d1a-a1ac-5a768b5f23b2"
-  },
-  "f12968a5-8211-43b7-8990-a107eba96d31": {
-    "name": "First impressions",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/f12968a5-8211-43b7-8990-a107eba96d31"
-  },
-  "85889e00-abe8-4bf3-abec-ce6475bf4601": {
-    "name": "Help a newcomer",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/85889e00-abe8-4bf3-abec-ce6475bf4601"
-  },
-  "5a45e9f8-6692-4ac7-bbd4-8f066f62cd8b": {
-    "name": "Your wallet is your key",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/5a45e9f8-6692-4ac7-bbd4-8f066f62cd8b"
-  },
-  "13326e44-1204-448e-8b6c-e3a3c8c422ff": {
-    "name": "The AI cost problem",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/13326e44-1204-448e-8b6c-e3a3c8c422ff"
-  },
-  "f756da56-9f04-4fb5-914a-23484674e339": {
-    "name": "Model battle",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/f756da56-9f04-4fb5-914a-23484674e339"
-  },
-  "bd084b4e-c948-4ad7-b1b8-6fec53af778e": {
-    "name": "🤣 make a meme",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/bd084b4e-c948-4ad7-b1b8-6fec53af778e"
-  },
-  "34765a52-a521-4445-8e11-bfef0bd25b97": {
-    "name": "💡 important",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/34765a52-a521-4445-8e11-bfef0bd25b97"
-  },
-  "a48ce6be-72b6-4d39-a650-3e5b22bd32ad": {
-    "name": "👛 wallet",
-    "project": "Vorq",
-    "url": "https://zealy.io/cw/vorq/questboard/a48ce6be-72b6-4d39-a650-3e5b22bd32ad"
   },
   "b84fd5a1-64f8-419f-a6bc-4ce83de2979e": {
     "name": "RAID Zealy Main Post",
@@ -2469,179 +2254,64 @@
     "project": "Dustbit",
     "url": "https://zealy.io/cw/dustbit/questboard/a2979b7e-4a9b-4b0a-a537-a743aee2fe2f"
   },
-  "b21c5258-d32c-497f-9262-9405cec5a729": {
-    "name": "Engage with EVA on Instagram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/b21c5258-d32c-497f-9262-9405cec5a729"
+  "f49f93fd-c1e9-4dd1-8c3e-47cc8610f877": {
+    "name": "Join TG Channel 📲",
+    "project": "ForeversFam",
+    "url": "https://zealy.io/cw/foreversfam/questboard/f49f93fd-c1e9-4dd1-8c3e-47cc8610f877"
   },
-  "2a8d8b10-9eeb-4f88-9719-428f0fabdd25": {
-    "name": "Engage with EVA on Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/2a8d8b10-9eeb-4f88-9719-428f0fabdd25"
+  "3c175018-3b22-4aee-9292-60b4c8902fe0": {
+    "name": "👨‍💻 Follow X",
+    "project": "ForeversFam",
+    "url": "https://zealy.io/cw/foreversfam/questboard/3c175018-3b22-4aee-9292-60b4c8902fe0"
   },
-  "38c0dcdf-cd0e-4322-8f29-8de18f2d6109": {
-    "name": "Engage with EVA on YouTube",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/38c0dcdf-cd0e-4322-8f29-8de18f2d6109"
+  "88e70fb5-e072-48ca-ba10-d4df25f88be0": {
+    "name": "Join Discord",
+    "project": "ForeversFam",
+    "url": "https://zealy.io/cw/foreversfam/questboard/88e70fb5-e072-48ca-ba10-d4df25f88be0"
   },
-  "a3e01284-6275-4a38-9dee-c6486db12122": {
-    "name": "Like & Comment on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/a3e01284-6275-4a38-9dee-c6486db12122"
+  "7a350a23-e0be-4a77-9059-9544df2c31dc": {
+    "name": "Like + RT + reply",
+    "project": "ForeversFam",
+    "url": "https://zealy.io/cw/foreversfam/questboard/7a350a23-e0be-4a77-9059-9544df2c31dc"
   },
-  "0bf803b7-5b9f-416c-8021-57a42f0e0a25": {
-    "name": "Engage with EVA on Instagram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/0bf803b7-5b9f-416c-8021-57a42f0e0a25"
+  "7244e577-375a-445a-a68d-b2d806f0cf66": {
+    "name": "Sign up for State of RWA 2026 (Luma)",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/7244e577-375a-445a-a68d-b2d806f0cf66"
   },
-  "ac5655fa-7a02-42dd-a156-56037e5a7905": {
-    "name": "Engage with EVA on YouTube",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/ac5655fa-7a02-42dd-a156-56037e5a7905"
+  "8716f014-df00-468e-90bb-1156ca62127e": {
+    "name": "Like & reply (post 2)",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/8716f014-df00-468e-90bb-1156ca62127e"
   },
-  "cf73579c-09f3-4221-aa9a-12c726c9b216": {
-    "name": "Engage with EVA on Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/cf73579c-09f3-4221-aa9a-12c726c9b216"
+  "5816e596-edcc-488a-93b5-b887cbd17588": {
+    "name": "Like & Reply (post 1)",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/5816e596-edcc-488a-93b5-b887cbd17588"
   },
-  "f6e39b63-fa39-4193-9f60-4f7b0730e91c": {
-    "name": "Like & Comment on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/f6e39b63-fa39-4193-9f60-4f7b0730e91c"
+  "2cd6d6ed-cc42-4f49-a2c8-02febe5f1ad5": {
+    "name": "Ask your questions for live event below this tweet",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/2cd6d6ed-cc42-4f49-a2c8-02febe5f1ad5"
   },
-  "520e1351-6d56-4923-a1d4-e5d09bef22c0": {
-    "name": "Follow Our LATAM Growth Lead on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/520e1351-6d56-4923-a1d4-e5d09bef22c0"
+  "ef23ca6c-ae97-40ec-9528-eefe2b59b453": {
+    "name": "like + Reply on tweet (Post 4)",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/ef23ca6c-ae97-40ec-9528-eefe2b59b453"
   },
-  "098a04f9-c64c-4485-9851-d2bd2c5278b4": {
-    "name": "Create and Share a Meme on Discord",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/098a04f9-c64c-4485-9851-d2bd2c5278b4"
+  "e30228b0-fd58-4f76-9be7-62add40645cb": {
+    "name": "Follow Lynxcap on X",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/e30228b0-fd58-4f76-9be7-62add40645cb"
   },
-  "820748ee-270d-4ddb-bf43-9cc791159266": {
-    "name": "Like & Comment on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/820748ee-270d-4ddb-bf43-9cc791159266"
+  "500c01e3-720d-4f0b-8080-8e4c97187a1e": {
+    "name": "Join Telegram Channel",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/500c01e3-720d-4f0b-8080-8e4c97187a1e"
   },
-  "ceaddefe-0f6e-45ad-9561-b78c8ac7b8c4": {
-    "name": "Engage with EVA on Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/ceaddefe-0f6e-45ad-9561-b78c8ac7b8c4"
-  },
-  "eb6cf79e-07e9-424d-a459-eb55a9a6f848": {
-    "name": "Engage with EVA on Instagram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/eb6cf79e-07e9-424d-a459-eb55a9a6f848"
-  },
-  "fdf3328e-8b3d-4ea8-809c-6a651876bca0": {
-    "name": "Engage with EVA on YouTube",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/fdf3328e-8b3d-4ea8-809c-6a651876bca0"
-  },
-  "03051210-5297-40af-9b06-2eb79de84a0c": {
-    "name": "Engage with EVA on Instagram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/03051210-5297-40af-9b06-2eb79de84a0c"
-  },
-  "35a438e2-7093-440c-9520-a7b0558edfd9": {
-    "name": "Engage with EVA on Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/35a438e2-7093-440c-9520-a7b0558edfd9"
-  },
-  "8fbbe8cd-016f-4eec-8e40-9f298e021ab1": {
-    "name": "Like & Comment on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/8fbbe8cd-016f-4eec-8e40-9f298e021ab1"
-  },
-  "afe5645b-7d92-4034-9386-8683daf42e80": {
-    "name": "Discover the token that becomes worth more Bitcoin every day",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/afe5645b-7d92-4034-9386-8683daf42e80"
-  },
-  "1f290706-d9d3-44cf-b275-475e8e696b5b": {
-    "name": "How to Learn About EVA",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/1f290706-d9d3-44cf-b275-475e8e696b5b"
-  },
-  "1efc2c30-5143-4473-b3cd-b06dccf83b51": {
-    "name": "Follow our Instagram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/1efc2c30-5143-4473-b3cd-b06dccf83b51"
-  },
-  "ef5a90c1-ed2f-496b-933d-5315e07c6bbf": {
-    "name": "Reach @Newcomer on Discord",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/ef5a90c1-ed2f-496b-933d-5315e07c6bbf"
-  },
-  "9dd95d00-d83f-4a5b-a227-83638856ae81": {
-    "name": "Follow EverValue on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/9dd95d00-d83f-4a5b-a227-83638856ae81"
-  },
-  "d451dcd3-5b6b-46b8-826a-91e13bf26c20": {
-    "name": "Join our Discord",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/d451dcd3-5b6b-46b8-826a-91e13bf26c20"
-  },
-  "fc97cbff-691a-41bb-82f3-871db4a9f813": {
-    "name": "Join our Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/fc97cbff-691a-41bb-82f3-871db4a9f813"
-  },
-  "f1a1166d-ad86-461c-86be-8c29e4e497e8": {
-    "name": "Engage with EVA on YouTube",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/f1a1166d-ad86-461c-86be-8c29e4e497e8"
-  },
-  "6c8f489d-81b3-484c-a133-c43ca3747874": {
-    "name": "Engage with EVA on Instagram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/6c8f489d-81b3-484c-a133-c43ca3747874"
-  },
-  "bf131aae-3261-4d1a-b81c-3dd4c05dcb58": {
-    "name": "Subscribe to EverValue on YouTube",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/bf131aae-3261-4d1a-b81c-3dd4c05dcb58"
-  },
-  "5a9ef905-7dc5-4bc9-9603-ffa12fd817ee": {
-    "name": "Like & Comment on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/5a9ef905-7dc5-4bc9-9603-ffa12fd817ee"
-  },
-  "a5932911-c986-4bf0-91f1-cb69551e5e5c": {
-    "name": "Engage with EVA on Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/a5932911-c986-4bf0-91f1-cb69551e5e5c"
-  },
-  "e023b941-ddb4-49db-b200-cd5860a18765": {
-    "name": "Engage with EVA on Telegram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/e023b941-ddb4-49db-b200-cd5860a18765"
-  },
-  "0fa91ba7-6834-4aac-ab8b-e526bf3700c8": {
-    "name": "Engage with EVA on Instagram",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/0fa91ba7-6834-4aac-ab8b-e526bf3700c8"
-  },
-  "080317fe-d7a1-49a2-8027-ad97d059aee8": {
-    "name": "Like & Comment on X",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/080317fe-d7a1-49a2-8027-ad97d059aee8"
-  },
-  "81960625-4b53-496d-b740-c7523e77397b": {
-    "name": "Invite 5 friends",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/81960625-4b53-496d-b740-c7523e77397b"
-  },
-  "bf751256-2fee-4740-8f4c-b8f1bb7bcc96": {
-    "name": "Vote for the Best EVA Meme on Discord!",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/bf751256-2fee-4740-8f4c-b8f1bb7bcc96"
-  },
-  "9e48e1ca-75e2-40d1-a810-514171eb8212": {
-    "name": "Engage with EVA on YouTube",
-    "project": "EverValue",
-    "url": "https://zealy.io/cw/evervalue/questboard/9e48e1ca-75e2-40d1-a810-514171eb8212"
+  "a2b45556-f120-4156-aa1f-6e134596c4ac": {
+    "name": "Join Lynxcap Discord",
+    "project": "LynxCap",
+    "url": "https://zealy.io/cw/lynxcap/questboard/a2b45556-f120-4156-aa1f-6e134596c4ac"
   }
 }
