@@ -2089,11 +2089,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/a22c4ba1-e470-45d9-a31d-d6928f045a31"
   },
-  "8ab49c1a-9006-47eb-9a05-fc6e15fbf624": {
-    "name": "Support on X | Like | 2026-11-19",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/8ab49c1a-9006-47eb-9a05-fc6e15fbf624"
-  },
   "77b47322-5f52-4679-bf98-bf79a7631154": {
     "name": "Spotlight a Real-World Problem Sertn Can Solve",
     "project": "Inference",
@@ -2123,6 +2118,11 @@
     "name": "From Early Warning Signs to Auditable Records",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/c308a5bd-3e9f-4b9f-8b09-de5f2c06b3f7"
+  },
+  "8ab49c1a-9006-47eb-9a05-fc6e15fbf624": {
+    "name": "Support on X | Like | 2026-11-19",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/8ab49c1a-9006-47eb-9a05-fc6e15fbf624"
   },
   "f20ff804-1cdb-403a-a30e-a40cf44016a2": {
     "name": "Support on X | Like | 2026-11-22",
