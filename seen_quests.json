@@ -1874,11 +1874,6 @@
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/7ba786f0-3745-4c0a-a377-ae279ba180ac"
   },
-  "fb8a4901-434e-433e-a8f7-30e4e9e4bd2c": {
-    "name": "Support on X | Like | 2026-11-21",
-    "project": "Inference",
-    "url": "https://zealy.io/cw/inference/questboard/fb8a4901-434e-433e-a8f7-30e4e9e4bd2c"
-  },
   "0b459c43-e826-472e-bb33-6414d0db827c": {
     "name": "Support on X | Repost | 2026-11-08",
     "project": "Inference",
@@ -2173,6 +2168,11 @@
     "name": "Support on X | Reply | 2026-11-25",
     "project": "Inference",
     "url": "https://zealy.io/cw/inference/questboard/213bd610-6932-459e-b369-a0d6ef0212b2"
+  },
+  "fb8a4901-434e-433e-a8f7-30e4e9e4bd2c": {
+    "name": "Support on X | Like | 2026-11-21",
+    "project": "Inference",
+    "url": "https://zealy.io/cw/inference/questboard/fb8a4901-434e-433e-a8f7-30e4e9e4bd2c"
   },
   "04f4d723-9638-4128-bff3-37ea78f9d47a": {
     "name": "From Recorded Footage to Live Operational Data",
